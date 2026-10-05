@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Figtree", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Literata", Georgia, serif;
+  --color-paper: #eef2f6;
+  --color-ink: #101828;
+  --color-muted: #5b6577;
+  --color-line: #d5dce6;
+  --color-gs1: #b45309;
+  --color-gs2: #3b3fd8;
+  --color-gs3: #047857;
+  --color-gs4: #be123c;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
