@@ -133,7 +133,7 @@ The daily job installs Ollama and pulls the model on a GitHub runner with no GPU
 
 - **Sources:** edit the `FEEDS` list in `scripts/feeds.js`.
 - **Junk filtering:** add words to `SKIP_TITLE` in `scripts/feeds.js` when you spot a bad point. This is the quickest way to improve quality over time.
-- **What counts as UPSC-relevant:** edit the prompt and the examples in `screenItem` in `scripts/run.js`.
+- **What counts as relevant:** edit the prompt and the examples in `screenItem` in `scripts/run.js`.
 - **Topic to GS mapping:** edit `TOPIC_GS` in `scripts/run.js`.
 - **Model:** change `OLLAMA_MODEL`. A larger model such as `qwen2.5:7b` judges relevance better but is slower.
 - **Another exam:** change the feeds, the prompt and the topic mapping to suit a state PSC or another exam.
