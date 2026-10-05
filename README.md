@@ -7,7 +7,7 @@ npm install
 npm run dev
 
 ## Run the pipeline on your laptop
-ollama pull qwen2.5:3b
+ollama pull gemma2: 3b
 npm run daily
 
 ## Automate
