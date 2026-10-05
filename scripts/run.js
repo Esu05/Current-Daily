@@ -45,14 +45,13 @@ Score 1 to 5 for UPSC usefulness:
 4 = a clear link to governance, the economy, environment, science, international relations or a major social issue.
 3 = useful background on one of those topics, such as an explainer, an editorial, an environment or wildlife story, a development news piece, or a foreign event that matters to India.
 2 = a weak link only.
-1 = no link: city or local news, one state's party politics, crime, accidents, sports, entertainment, lifestyle, rumours, or one person's story.
+1 = no link: city or local news, one state's party politics, crime, accidents, sports, entertainment, lifestyle, business operations of one company, rumours, or one person's story.
 
 Examples:
 "Can Singapore turn doomscrollers into doomreaders?" is 1 (lifestyle commentary).
 "Rumours about a leader's health" is 1 (rumour roundup).
 "Captain X's courage, and a question for aviation" is 2 (one person's story).
-"Co-pilot accused of hijack attempt" is 1 (crime).
-"Company hikes petrol price" is 1 (one company).
+"How a big e-commerce company runs its warehouses" is 1 (one company).
 "GST exemption for banks on gold imports" is 5.
 "How the Election Commission is appointed, explained" is 5.
 "Tiger reintroduction in a reserve" is 3 (environment).
@@ -75,6 +74,7 @@ Geography = monsoon, rainfall, rivers, oceans, natural resources, regions.
 Society = tribal communities, women, population, urbanisation, migration.
 Ethics = integrity, public service values, moral dilemmas.
 
+Write "point" as a direct factual statement about what happened. Never start it with "The summary", "The article", "The headline" or "The text". Name the people, institutions or places involved.
 Use only the headline and summary. Do not add facts.
 Return JSON in exactly this shape, with "reason" first:
 {"reason":"one short sentence","score":3,"topic":"one word from the guide","point":"one clear sentence","whyInNews":"one short sentence of context"}`
@@ -84,13 +84,16 @@ Return JSON in exactly this shape, with "reason" first:
   const topic = normalizeTopic(out.topic)
   if (!topic || typeof out.point !== 'string' || !out.point.trim()) return null
 
+
+  if (/^(the\s+)?(summary|article|headline|text|rescue act)\b/i.test(out.point.trim())) return null
+
   return {
     point: out.point.trim(),
     whyInNews: String(out.whyInNews || '').trim(),
     gs: TOPIC_GS[topic],
     topic,
     source: item.source,
-    url: item.url, // always from the feed item that was screened, so it can never mismatch
+    url: item.url,
   }
 }
 
