@@ -2,124 +2,124 @@
   "date": "2026-10-05",
   "currentAffairs": [
     {
-      "point": "The U.S. Justice Department has accused a California woman of spying for China by surveilling the son of Taiwan’s leader.",
-      "whyInNews": "This event underscores concerns about foreign interference and intelligence operations, particularly in the context of geopolitical tensions between China and Taiwan.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/article71545758.ece"
-    },
-    {
-      "point": "Next-Gen GST was designed to reduce and rationalize tax rates and simplify compliance.",
-      "whyInNews": "This is relevant for understanding India’s economic policies and their impact on businesses and the overall economy.",
+      "point": "Soaring global vegetable oil prices are contributing significantly to the overall rise in India's food inflation rate.",
+      "whyInNews": "The story highlights a specific driver of inflationary pressures within the broader Indian economy.",
       "gs": "GS3",
       "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece"
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/explained/explained-economics/edible-oils-food-inflation-impact-reason-10906542/"
     },
     {
-      "point": "The Government is actively working to develop domestic capabilities in the rare-earth magnet sector.",
-      "whyInNews": "This reflects concerns about reliance on foreign sources for critical manufacturing inputs, a common theme in discussions of India’s economic security and industrial policy.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/policy/govt-pushes-rare-earth-magnet-capacity-india-seeks-control-over-critical-manufacturing-inputs-shaktikanta-das/article71545743.ece"
-    },
-    {
-      "point": "Multiple Indian payloads were launched by SpaceX’s Falcon 9 rocket as part of the Transporter-18 mission.",
-      "whyInNews": "Space launches are increasingly important for India’s space program and demonstrate international collaboration in this sector.",
+      "point": "India's Gaganyaan mission spacecraft achieved a critical velocity milestone during testing at Nagoya.",
+      "whyInNews": "This represents a significant advancement in India’s ambitious human spaceflight program and is being closely watched by global competitors.",
       "gs": "GS3",
       "topic": "Sci-Tech",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/multiple-indian-payloads-launched-by-space-xs-falcon-9/article71535904.ece"
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/opinion/editorials/india-asian-games-medal-tally-10906673/"
     },
     {
-      "point": "The UN is holding a ‘pre-COP’ climate summit in Fiji as a prelude to COP31 in Turkey.",
-      "whyInNews": "This event highlights ongoing international efforts to address climate change, a significant concern for India and the global community.",
+      "point": "Prime Minister Takaichi announced a comprehensive strategy to address Japan’s falling birth rate and declining population.",
+      "whyInNews": "This reflects global demographic trends and potential policy responses that India might consider in the future.",
       "gs": "GS2",
-      "topic": "IR",
+      "topic": "Social Justice",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
+      "url": "https://www.thehindu.com/news/international/japans-takaichi-calls-population-decline-a-quietly-advancing-national-crisis/article71546039.ece"
     },
     {
-      "point": "Protesters attempted to reach Jantar Mantar to demand the removal of CEC Gyanesh Kumar, while Delhi Police heavily barricaded the area.",
-      "whyInNews": "This event relates to the functioning of the Election Commission and the process of CEC appointment, a key aspect of Indian democracy.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece"
-    },
-    {
-      "point": "The U.S. is exiting Iraq due to perceived weariness and defeat.",
-      "whyInNews": "This reflects ongoing shifts in U.S. foreign policy and its impact on regional stability, a key area of concern for India’s foreign policy considerations.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/outbound-force-on-the-us-leaving-iraq/article71543933.ece"
-    },
-    {
-      "point": "The U.S. military conducted a series of strikes against alleged drug-smuggling boats in the Caribbean.",
-      "whyInNews": "This highlights U.S. counter-narcotics operations and maritime security efforts, which are relevant to India’s foreign policy and regional security concerns.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-military-says-latest-strike-on-alleged-drug-smuggling-boat-in-caribbean-kills-4/article71545724.ece"
-    },
-    {
-      "point": "The Centre’s pilot fertiliser sales via app in 22 districts yielded ₹1,500 crore savings.",
-      "whyInNews": "This highlights a government initiative aimed at improving agricultural supply chains and potentially reducing fertiliser costs.",
+      "point": "FM Sitharaman highlighted the rigorous negotiations involved in securing the proposed Indo-EU trade agreement.",
+      "whyInNews": "The deal represents a key step towards diversifying India’s trading partners and potentially boosting exports.",
       "gs": "GS3",
       "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/centres-pilot-fertiliser-sales-via-app-in-22-district-yields-1500-cr-savings/article71544582.ece"
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece"
     },
     {
-      "point": "IIT-Gandhinagar scientists demonstrated a quantum link through 5.5 km of air using free-space quantum-key distribution (QKD).",
-      "whyInNews": "This development reflects India’s increasing investment in advanced technologies and their potential applications in areas like defense and cybersecurity.",
+      "point": "Corteva has spun off its seed business, concentrating solely on crop protection products and activities.",
+      "whyInNews": "This move reflects a broader trend in the agrochemical industry and will likely influence government policies related to agricultural innovation and farmer subsidies.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/corteva-spins-off-seed-business-becomes-pure-play-crop-protection-company/article71546013.ece"
+    },
+    {
+      "point": "IIT Gandhinagar scientists have successfully demonstrated India’s inaugural free-space quantum key distribution (QKD) link over 5.5 km.",
+      "whyInNews": "This breakthrough showcases indigenous development in a strategically important technology – Quantum Key Distribution - vital for secure communication.",
       "gs": "GS3",
       "topic": "Sci-Tech",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/science/iit-gandhinagar-scientists-demo-quantum-link-through-55-km-of-air/article71544660.ece"
     },
     {
-      "point": "Scientists fear the entire Tuvalu archipelago could be unliveable by the end of the century due to rising sea levels.",
-      "whyInNews": "This situation is relevant to discussions about climate change impacts and the vulnerability of small island nations.",
+      "point": "UN ‘pre-COP’ talks in Fiji are a preparatory meeting for the COP31 climate conference.",
+      "whyInNews": "It establishes the timeline and location of a critical global event concerning climate action.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tuvalu-barely-above-water/article71543254.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
     },
     {
-      "point": "A tiger reintroduction is taking place in West Bengal’s Buxa reserve.",
-      "whyInNews": "This event underscores the ongoing efforts to combat ecological degradation as a key strategy for wildlife conservation, a frequently discussed topic in the Civil Services examination.",
-      "gs": "GS2",
-      "topic": "IR",
+      "point": "Nisarga Adhikary achieved the rare feat of successfully landing a microlighter rocket in the Arabian Sea, demonstrating advanced propulsion technology.",
+      "whyInNews": "This accomplishment highlights India's growing capabilities in private space launch and signals potential advancements in missile technology.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/cbse-hack-iit-gig-and-us-recognition-nisarga-adhikarys-incredible-year-10906919/"
+    },
+    {
+      "point": "A Station House Officer (SHO) was suspended in Bihar after pointing a pistol at flood victims while distributing relief materials.",
+      "whyInNews": "This incident exposes potential lapses in law and order during natural disasters and raises concerns about official conduct.",
+      "gs": "GS3",
+      "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/rescue-act-on-tiger-reintroduction-in-west-bengals-buxa/article71537248.ece"
+      "url": "https://www.thehindu.com/news/national/bihar/si-suspended-for-pointing-pistol-at-flood-victim-during-distribution-of-relief-materials-in-bihars-saran/article71545906.ece"
     },
     {
-      "point": "The PNGRB’s National PNG Drive 3.0 aims to add 50 lakh new piped gas connections by 2027.",
-      "whyInNews": "This initiative reflects government efforts to promote natural gas usage and infrastructure development within India.",
+      "point": "The Constituent Assembly debated and recorded its preference for an independent Election Commission appointed by a committee comprising judges, MPs, and state assembly members.",
+      "whyInNews": "Understanding this historical context is crucial for analyzing the current appointment process and debates surrounding electoral reform.",
       "gs": "GS2",
-      "topic": "Governance",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece"
+      "topic": "Polity",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/explained/cec-appointment-election-commission-selection-process-10906518/"
     },
     {
-      "point": "India recorded a record gross FDI of USD 97 billion in FY26 and first-quarter inflows of approximately USD 30 billion.",
-      "whyInNews": "This data is relevant for understanding India’s economic growth trajectory and investment climate, frequently discussed in UPSC exams.",
+      "point": "The statement highlights a critical change – the increased cost of global capital – which directly influences India's financial landscape and policy decisions.",
+      "whyInNews": "This reflects current macroeconomic trends impacting investment flows into and out of emerging markets like India.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/opinion/editorials/global-bond-yields-ai-spending-10906672/"
+    },
+    {
+      "point": "The Next-Generation Goods and Services Tax (GST) is being implemented to reduce tax rates and simplify compliance procedures for businesses.",
+      "whyInNews": "This reflects the government’s continuous efforts to improve India's indirect taxation system.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece"
+    },
+    {
+      "point": "The Reserve Bank of India (RBI) MPC commenced a three-day meeting with expectations of the first rate hike since 2023.",
+      "whyInNews": "Rising inflationary pressures and elevated oil prices are driving speculation about an interest rate increase by the RBI.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/private-investment-picking-up-in-india-as-capital-formation-grows-at-fastest-pace-in-over-three-years/article71545660.ece"
+      "url": "https://www.thehindubusinessline.com/economy/rbi-mpc-begins-3-day-meeting-today-amid-expectations-of-first-rate-hike-since-2023/article71545985.ece"
     },
     {
-      "point": "Slower winds prevent the replacement of saturated air with drier air, leading to increased heat experienced in cities.",
-      "whyInNews": "This relates to the broader issue of urban heat islands and climate change mitigation strategies.",
+      "point": "Multiple Indian payloads were launched by SpaceX's Falcon 9 as part of the Transporter-18 mission.",
+      "whyInNews": "This signifies a key commercial launch opportunity for Indian companies and expands India’s presence in orbital demonstrations.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/multiple-indian-payloads-launched-by-space-xs-falcon-9/article71535904.ece"
+    },
+    {
+      "point": "Dead baby whales have been found in Argentina, prompting investigation into potential causes.",
+      "whyInNews": "Biologists are investigating the cause of death to assess environmental impacts on marine life.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/letting-the-wind-flow-freely-is-the-secret-to-cooling-our-cities/article71543217.ece"
+      "url": "https://www.thehindu.com/sci-tech/science/scientists-puzzled-as-baby-whales-wash-up-dead-in-argentina/article71543684.ece"
     }
   ],
   "history": [
@@ -129,13 +129,18 @@
       "gs": "GS1"
     },
     {
-      "year": 1978,
-      "point": "Brother Eddie Villanueva and 15 others from the Polytechnic University of the Philippines begin the Jesus Is Lord Church.",
+      "year": 1988,
+      "point": "A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths.",
       "gs": "GS1"
     },
     {
       "year": 1970,
-      "point": "The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]",
+      "point": "The Public Broadcasting Service (PBS) is founded in the United States.",
       "gs": "GS1"
     },
     {
@@ -164,19 +169,10 @@
       "gs": "GS1"
     },
     {
-      "year": 1910,
-      "point": "In a revolution in Portugal the monarchy is overthrown and a republic is declared.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1813,
-      "point": "War of 1812: The Army of the Northwest defeats a British and Native Canadian force threatening Detroit.",
+      "year": 1877,
+      "point": "The Nez Perce War in the northwestern United States comes to an end.",
       "gs": "GS1"
     }
   ],
-  "revision": [
-    "The Constituent Assembly established a framework for the appointment of the Election Commission, reflecting its role as an independent body overseeing elections.",
-    "The summary highlights the importance of ecological preservation for wildlife protection.",
-    "The government is reviewing a GST exemption that has implications for India’s foreign exchange reserves."
-  ]
+  "revision": []
 }
