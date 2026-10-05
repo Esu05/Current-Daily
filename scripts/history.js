@@ -1,3 +1,5 @@
+const BLOCK = /crash|suicide|bomb|massacre|shooting|murder|hijack|collision|stabbing|earthquake|hurricane|typhoon|sinks|meltdown|cult|\bfire\b/i
+
 export async function fetchHistory(month, day) {
   const url = `https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/${month}/${day}`
   const res = await fetch(url, { headers: { 'User-Agent': 'upsc-daily/1.0 (github.com/Esu05)' } })
