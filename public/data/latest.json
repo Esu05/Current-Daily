@@ -2,64 +2,80 @@
   "date": "2026-10-05",
   "currentAffairs": [
     {
+      "point": "The U.S. Justice Department has accused a California woman of spying for China by surveilling the son of Taiwan’s leader.",
+      "whyInNews": "This event underscores concerns about foreign interference and intelligence operations, particularly in the context of geopolitical tensions between China and Taiwan.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/article71545758.ece"
+    },
+    {
       "point": "Next-Gen GST was designed to reduce and rationalize tax rates and simplify compliance.",
-      "whyInNews": "This reflects ongoing efforts by the Indian government to improve the business environment and stimulate economic growth.",
+      "whyInNews": "This is relevant for understanding India’s economic policies and their impact on businesses and the overall economy.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece"
     },
     {
-      "point": "India recorded a record gross FDI of USD 97 billion in FY26.",
-      "whyInNews": "This data is relevant to discussions about India’s economic growth, investment flows, and its role in the global economy.",
+      "point": "The Government is actively working to develop domestic capabilities in the rare-earth magnet sector.",
+      "whyInNews": "This reflects concerns about reliance on foreign sources for critical manufacturing inputs, a common theme in discussions of India’s economic security and industrial policy.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/private-investment-picking-up-in-india-as-capital-formation-grows-at-fastest-pace-in-over-three-years/article71545660.ece"
+      "url": "https://www.thehindubusinessline.com/economy/policy/govt-pushes-rare-earth-magnet-capacity-india-seeks-control-over-critical-manufacturing-inputs-shaktikanta-das/article71545743.ece"
     },
     {
-      "point": "Multiple Indian payloads were launched by SpaceX’s Falcon 9 as part of the Transporter-18 mission.",
-      "whyInNews": "Space launches are increasingly important for national security, economic development, and scientific advancement, making this a relevant current event for UPSC aspirants.",
+      "point": "Multiple Indian payloads were launched by SpaceX’s Falcon 9 rocket as part of the Transporter-18 mission.",
+      "whyInNews": "Space launches are increasingly important for India’s space program and demonstrate international collaboration in this sector.",
       "gs": "GS3",
       "topic": "Sci-Tech",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/science/multiple-indian-payloads-launched-by-space-xs-falcon-9/article71535904.ece"
     },
     {
-      "point": "The UN is holding a ‘pre-COP’ climate summit in Fiji as a lead-up to COP31 in Turkey",
-      "whyInNews": "This is relevant to India’s commitments under the Paris Agreement and ongoing discussions on climate change mitigation and adaptation.",
+      "point": "The UN is holding a ‘pre-COP’ climate summit in Fiji as a prelude to COP31 in Turkey.",
+      "whyInNews": "This event highlights ongoing international efforts to address climate change, a significant concern for India and the global community.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
     },
     {
-      "point": "Devendra Fadnavis made a remark comparing the Thackeray cousins’ protest march to the plot of the film ‘Ghajini’, suggesting they were attempting to appear believable while spreading falsehoods.",
-      "whyInNews": "This highlights political rhetoric and the use of popular culture to criticize political opponents, a common tactic in Indian politics.",
+      "point": "Protesters attempted to reach Jantar Mantar to demand the removal of CEC Gyanesh Kumar, while Delhi Police heavily barricaded the area.",
+      "whyInNews": "This event relates to the functioning of the Election Commission and the process of CEC appointment, a key aspect of Indian democracy.",
       "gs": "GS2",
       "topic": "Polity",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-fires-ghajini-barb-at-thackeray-cousins-over-protest-march/article71544836.ece"
+      "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece"
     },
     {
-      "point": "The United States is withdrawing from Iraq.",
-      "whyInNews": "India’s relations with both the U.S. and Iraq are impacted by this event, requiring an understanding of the dynamics involved.",
+      "point": "The U.S. is exiting Iraq due to perceived weariness and defeat.",
+      "whyInNews": "This reflects ongoing shifts in U.S. foreign policy and its impact on regional stability, a key area of concern for India’s foreign policy considerations.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/outbound-force-on-the-us-leaving-iraq/article71543933.ece"
     },
     {
-      "point": "A peek into the automated workflow at a Flipkart fulfilment centre in Coimbatore",
-      "whyInNews": "This provides a relevant example of logistics and supply chain operations, which are increasingly important in the Indian economy and are often discussed in the context of economic reforms and infrastructure development.",
+      "point": "The U.S. military conducted a series of strikes against alleged drug-smuggling boats in the Caribbean.",
+      "whyInNews": "This highlights U.S. counter-narcotics operations and maritime security efforts, which are relevant to India’s foreign policy and regional security concerns.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/us-military-says-latest-strike-on-alleged-drug-smuggling-boat-in-caribbean-kills-4/article71545724.ece"
+    },
+    {
+      "point": "The Centre’s pilot fertiliser sales via app in 22 districts yielded ₹1,500 crore savings.",
+      "whyInNews": "This highlights a government initiative aimed at improving agricultural supply chains and potentially reducing fertiliser costs.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/delivering-festival-seasons-joys/article71544837.ece"
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/centres-pilot-fertiliser-sales-via-app-in-22-district-yields-1500-cr-savings/article71544582.ece"
     },
     {
       "point": "IIT-Gandhinagar scientists demonstrated a quantum link through 5.5 km of air using free-space quantum-key distribution (QKD).",
-      "whyInNews": "This development reflects India’s increasing investment in advanced technologies and their potential applications in areas like defense and cybersecurity, which are relevant to UPSC exam topics related to security and technology.",
+      "whyInNews": "This development reflects India’s increasing investment in advanced technologies and their potential applications in areas like defense and cybersecurity.",
       "gs": "GS3",
       "topic": "Sci-Tech",
       "source": "The Hindu",
@@ -67,7 +83,7 @@
     },
     {
       "point": "Scientists fear the entire Tuvalu archipelago could be unliveable by the end of the century due to rising sea levels.",
-      "whyInNews": "This directly relates to climate change and its impacts on vulnerable island nations, a significant issue in international relations and environmental policy.",
+      "whyInNews": "This situation is relevant to discussions about climate change impacts and the vulnerability of small island nations.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
@@ -75,102 +91,86 @@
     },
     {
       "point": "A tiger reintroduction is taking place in West Bengal’s Buxa reserve.",
-      "whyInNews": "This event underscores the ongoing efforts to combat ecological degradation and safeguard wildlife populations, a relevant issue for UPSC examinations.",
+      "whyInNews": "This event underscores the ongoing efforts to combat ecological degradation as a key strategy for wildlife conservation, a frequently discussed topic in the Civil Services examination.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/rescue-act-on-tiger-reintroduction-in-west-bengals-buxa/article71537248.ece"
     },
     {
-      "point": "West Asian crude oil exports have surpassed pre-war levels, averaging 18 million barrels per day between March 2024 and February 2025.",
-      "whyInNews": "Fluctuations in global oil supply and demand, coupled with geopolitical tensions, are key considerations for India’s energy security and economic policy.",
+      "point": "The PNGRB’s National PNG Drive 3.0 aims to add 50 lakh new piped gas connections by 2027.",
+      "whyInNews": "This initiative reflects government efforts to promote natural gas usage and infrastructure development within India.",
       "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/west-asian-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase/article71545667.ece"
-    },
-    {
-      "point": "The PNGRB’s National PNG Drive 3.0 aims to add 50 lakh new piped gas connections, convert 40 lakh unbilled connections, and register 50 lakh more users by 2027.",
-      "whyInNews": "This initiative reflects government efforts to promote natural gas usage and infrastructure development within the Indian economy.",
-      "gs": "GS3",
-      "topic": "Economy",
+      "topic": "Governance",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece"
     },
     {
-      "point": "CIAL currently collects user fees.",
-      "whyInNews": "The summary proposes using these fees to build a second runway at Kochi airport, highlighting a governance issue related to airport infrastructure development and public perception of airport charges.",
-      "gs": "GS2",
-      "topic": "Governance",
+      "point": "India recorded a record gross FDI of USD 97 billion in FY26 and first-quarter inflows of approximately USD 30 billion.",
+      "whyInNews": "This data is relevant for understanding India’s economic growth trajectory and investment climate, frequently discussed in UPSC exams.",
+      "gs": "GS3",
+      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/shouldnt-cial-stop-collecting-user-fees/article71540705.ece"
+      "url": "https://www.thehindubusinessline.com/economy/private-investment-picking-up-in-india-as-capital-formation-grows-at-fastest-pace-in-over-three-years/article71545660.ece"
     },
     {
-      "point": "Slower winds cause the air above the ground to become saturated with water vapour, leading to increased heat.",
-      "whyInNews": "This relates to urban heat island effects and climate change mitigation strategies, frequently discussed in UPSC exams.",
+      "point": "Slower winds prevent the replacement of saturated air with drier air, leading to increased heat experienced in cities.",
+      "whyInNews": "This relates to the broader issue of urban heat islands and climate change mitigation strategies.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/science/letting-the-wind-flow-freely-is-the-secret-to-cooling-our-cities/article71543217.ece"
-    },
-    {
-      "point": "The Special Intensive Revision exercise (SIR) is being presented as a threat to universal adult franchise.",
-      "whyInNews": "This highlights a concern about potential manipulation of elections and the integrity of the democratic process, a frequent topic in UPSC examinations.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece"
     }
   ],
   "history": [
     {
       "year": 2000,
-      "point": "Colour revolutions: During protests over irregularities in the Yugoslavian general election, a wheel-loader was driven into the Radio Television of Serbia building, giving the protests the nickname \"B",
+      "point": "Mass demonstrations in Serbia force the resignation of Slobodan Milošević.",
       "gs": "GS1"
     },
     {
-      "year": 1988,
-      "point": "During the United States vice-presidential debate, Democratic candidate Lloyd Bentsen told his opponent Dan Quayle, \"Senator, you're no Jack Kennedy.\"",
+      "year": 1978,
+      "point": "Brother Eddie Villanueva and 15 others from the Polytechnic University of the Philippines begin the Jesus Is Lord Church.",
       "gs": "GS1"
     },
     {
-      "year": 1986,
-      "point": "Eugene Hasenfus's plane was shot down by Nicaraguan forces while carrying weapons to the Contra rebels on behalf of the U.S. government; he was subsequently captured, leading to an international contr",
+      "year": 1970,
+      "point": "The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]",
       "gs": "GS1"
     },
     {
-      "year": 1963,
-      "point": "The U.S. suspended the Commercial Import Program, its main economic support for South Vietnam, in response to the oppression of Buddhists by President Ngô Đình Diệm (pictured).",
+      "year": 1968,
+      "point": "A Northern Ireland Civil Rights Association march in Derry is violently suppressed by police.",
       "gs": "GS1"
     },
     {
-      "year": 1962,
-      "point": "\"Love Me Do\", the first single by the Beatles, was released in the United Kingdom.",
+      "year": 1944,
+      "point": "The Provisional Government of the French Republic enfranchises women.",
       "gs": "GS1"
     },
     {
-      "year": 1962,
-      "point": "Dr. No, the first James Bond film, was released.",
+      "year": 1938,
+      "point": "Holocaust: In Nazi Germany, Jews' passports are invalidated.",
       "gs": "GS1"
     },
     {
-      "year": 1937,
-      "point": "Six days after retiring from the Queen's College, Oxford, Robert Howard Hodgkin was elected its provost due to the sudden death of B. H. Streeter.",
+      "year": 1914,
+      "point": "World War I: An aircraft successfully destroys another aircraft with gunfire for the first time.",
       "gs": "GS1"
     },
     {
-      "year": 1936,
-      "point": "Around 200 men began a 291-mile (468 km) march from Jarrow to London, carrying a petition to the British government requesting the re-establishment of industry in the town.",
+      "year": 1911,
+      "point": "The Kowloon–Canton Railway commences service.",
       "gs": "GS1"
     },
     {
-      "year": 1903,
-      "point": "Samuel Griffith (pictured) became the first Chief Justice of Australia, while Edmund Barton and Richard O'Connor became the first Puisne Justices of the High Court of Australia.",
+      "year": 1910,
+      "point": "In a revolution in Portugal the monarchy is overthrown and a republic is declared.",
       "gs": "GS1"
     },
     {
-      "year": 1990,
-      "point": "After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper.",
+      "year": 1813,
+      "point": "War of 1812: The Army of the Northwest defeats a British and Native Canadian force threatening Detroit.",
       "gs": "GS1"
     }
   ],
