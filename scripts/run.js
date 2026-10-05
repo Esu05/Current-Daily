@@ -117,7 +117,7 @@ async function pickNews(items) {
 async function pickHistory(events) {
   const list = events.map((e) => `${e.id}. ${e.year}: ${e.text}`).join('\n')
   const prompt = `You are helping a UPSC Civil Services aspirant. Below are historical events for today's date.
-Pick up to 6 that are useful for GS1: Indian history, the freedom struggle, world history, treaties, constitutional or political milestones, science milestones, important institutions.
+Pick up to 10 that are useful for GS1: Indian history, the freedom struggle, world history, treaties, constitutional or political milestones, science milestones, important institutions.
 Skip trivia, minor events and anything not tied to a larger historical theme.
 Return JSON in exactly this shape: {"picks":[1,2,3]}
 
@@ -125,10 +125,11 @@ EVENTS:
 ${list}`
   const out = await askJson(prompt)
   const byId = new Map(events.map((e) => [e.id, e]))
+  const seen = new Set()
   return (out.picks || [])
     .map((n) => byId.get(Number(n)))
-    .filter(Boolean)
-    .slice(0, 6)
+    .filter((e) => e && !seen.has(e.id) && seen.add(e.id))
+    .slice(0, 10)
     .map((e) => ({ year: e.year, point: e.text, gs: 'GS1' }))
 }
 
@@ -147,17 +148,26 @@ async function main() {
   const date = istDate()
   const [, m, d] = date.split('-').map(Number)
 
-  const [news, events] = await Promise.all([fetchNews(), fetchHistory(m, d)])
+  const news = await fetchNews()
   if (news.length === 0) throw new Error('No news fetched, keeping previous data')
+
+  let events = []
+  try {
+    events = await fetchHistory(m, d)
+  } catch (e) {
+    console.warn('History fetch failed, continuing without it:', e.message)
+  }
 
   const currentAffairs = await pickNews(news)
   if (currentAffairs.length === 0) throw new Error('Model selected nothing, keeping previous data')
 
-  let history = []
-  try {
-    history = await pickHistory(events)
-  } catch (e) {
-    console.warn('History selection failed, continuing without it:', e.message)
+    let history = []
+  if (events.length > 0) {
+    try {
+      history = await pickHistory(events)
+    } catch (e) {
+      console.warn('History selection failed, continuing without it:', e.message)
+    }
   }
 
   const pack = { date, currentAffairs, history, revision: loadRevision() }

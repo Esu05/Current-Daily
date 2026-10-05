@@ -1,12 +1,25 @@
-
+// Skip disasters and attacks. They are not useful for GS1.
 const BLOCK = /crash|suicide|bomb|massacre|shooting|murder|hijack|collision|stabbing|earthquake|hurricane|typhoon|sinks|meltdown|cult|\bfire\b/i
 
-export async function fetchHistory(month, day) {
-  const url = `https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/${month}/${day}`
-  const res = await fetch(url, { headers: { 'User-Agent': 'upsc-daily/1.0 (github.com/Esu05)' } })
-  if (!res.ok) throw new Error(`History API failed: ${res.status}`)
-  const data = await res.json()
+const pad = (n) => String(n).padStart(2, '0')
 
+async function get(type, month, day) {
+  const url = `https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/${type}/${pad(month)}/${pad(day)}`
+  const res = await fetch(url, { headers: { 'User-Agent': 'upsc-daily/1.0 (github.com/Esu05)' } })
+  if (!res.ok) throw new Error(`History API (${type}) failed: ${res.status}`)
+  return res.json()
+}
+
+export async function fetchHistory(month, day) {
+  let data
+  try {
+    data = await get('all', month, day)
+  } catch (e) {
+    console.warn(e.message, '- trying events only')
+    data = await get('events', month, day)
+  }
+
+  // "selected" is Wikipedia's curated list, so it comes first
   const all = [...(data.selected || []), ...(data.events || [])]
   const seen = new Set()
   const out = []
