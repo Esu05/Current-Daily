@@ -6,7 +6,11 @@ const pad = (n) => String(n).padStart(2, '0')
 
 
 function clean(text) {
-  const s = text.replace(/\s*\(pictured[^)]*\)/gi, '').replace(/\s+/g, ' ').trim()
+  const s = text
+    .replace(/\s*\(pictured[^)]*\)/gi, '')
+    .replace(/\s*\[[^\]]*\]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
   if (s.length <= 220) return s
   const cut = s.slice(0, 220)
   return cut.slice(0, cut.lastIndexOf(' ')) + '...'
