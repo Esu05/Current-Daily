@@ -56,6 +56,9 @@ Examples:
 "How the Election Commission is appointed, explained" is 5.
 "Tiger reintroduction in a reserve" is 3 (environment).
 "Quantum link demonstrated by Indian scientists" is 4.
+"A chief minister's jibe at opposition leaders, or a party rally" is 1 (state party politics).
+"Why the air feels hotter when winds slow down" is 2 (local weather explainer).
+"A peek into how a company's warehouse works" is 1 (one company).
 
 Topic guide, pick the closest one:
 Polity = Constitution, Parliament, elections, judiciary.
@@ -117,8 +120,9 @@ async function pickNews(items) {
 async function pickHistory(events) {
   const list = events.map((e) => `${e.id}. ${e.year}: ${e.text}`).join('\n')
   const prompt = `You are helping a UPSC Civil Services aspirant. Below are historical events for today's date.
-Pick up to 10 that are useful for GS1: Indian history, the freedom struggle, world history, treaties, constitutional or political milestones, science milestones, important institutions.
-Skip trivia, minor events and anything not tied to a larger historical theme.
+Pick up to 10 that are useful for GS1: Indian history, the freedom struggle, world history, wars and treaties, constitutional or political milestones, independence and revolutions, science milestones, important institutions.
+Skip entertainment, music, films, sport, newspapers, personal appointments, quotes and any minor event not tied to a larger historical theme.
+Prefer events that changed a country or the world.
 Return JSON in exactly this shape: {"picks":[1,2,3]}
 
 EVENTS:
