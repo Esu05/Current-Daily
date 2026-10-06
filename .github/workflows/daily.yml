@@ -37,7 +37,8 @@ jobs:
           git add public/data
           git commit -m "daily pack" || exit 0
           for i in 1 2 3; do
-            git pull --rebase -X theirs && git push && exit 0
+            git push && exit 0
+            git pull --rebase --autostash -X theirs || true
             sleep 5
           done
           exit 1

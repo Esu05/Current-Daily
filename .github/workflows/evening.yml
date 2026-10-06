@@ -2,7 +2,7 @@ name: evening-revision
 
 on:
   schedule:
-    - cron: "30 14 * * *" # 8:00 PM IST
+    - cron: "30 13 * * *" # 7:00 PM IST
   workflow_dispatch:
 
 jobs:
