@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-07",
+  "currentAffairs": [
+    {
+      "point": "The MDR (Merchant Discount Rate) on UPI transactions is causing an outflow of value from the Indian economy.",
+      "whyInNews": "This issue raises concerns about the long-term sustainability and economic impact of India’s digital payment infrastructure.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece"
+    },
+    {
+      "point": "Dairy unions are seeking higher milk prices due to escalating feed costs.",
+      "whyInNews": "This reflects the ongoing inflationary pressures affecting agricultural inputs and supply chains.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/nandini-milk-price-set-to-rise-by-8-as-rising-feed-costs-squeeze-dairy-unions/article71552724.ece"
+    },
+    {
+      "point": "Guerlain’s ‘Women for Bees’ project is collaborating with local communities in the Nilgiri Hills to promote bee pollination.",
+      "whyInNews": "The initiative demonstrates a novel approach to biodiversity conservation integrating traditional wisdom and scientific methods.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/guerlain-women-for-bees-nilgiris-raajadharshini-india-everywhere-column/article71550875.ece"
+    },
+    {
+      "point": "The Election Commission of India (ECI) asserted that meetings with political delegations must be held at its premises to maintain protocol.",
+      "whyInNews": "This reflects a key point of contention regarding the EC’s operational independence and oversight of electoral processes.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/eci-says-opposition-mps-parliament-annexe-meet-demand-could-not-be-accepted/article71552779.ece"
+    },
+    {
+      "point": "India must prioritize strategies to cut the transmission of leprosy, addressing a persistent neglected disease burden.",
+      "whyInNews": "The headline emphasizes the need for immediate action regarding this specific public health challenge.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/break-the-chain-on-leprosy-in-india/article71552142.ece"
+    },
+    {
+      "point": "Developers are employing ‘harness engineering’ to ensure AI agents operate reliably within defined boundaries.",
+      "whyInNews": "This reflects the increasing sophistication of AI and its potential impact on system control and accountability.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/harness-engineering-is-how-ai-developers-are-now-trying-to-make-agents-work-reliably-explained/article71548899.ece"
+    },
+    {
+      "point": "The GST Council will deliberate on five focus areas to further ease of doing business in India.",
+      "whyInNews": "This reflects the current government’s priority for streamlining regulations and promoting economic activity.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/gst-council-to-deliberate-on-five-focus-areas-to-further-ease-of-doing-business/article71552327.ece"
+    },
+    {
+      "point": "India's bird island conservation program is being scrutinized for its lack of tangible results and potential to be seen solely as a public relations exercise.",
+      "whyInNews": "The summary emphasizes the need for genuine conservation action beyond superficial initiatives.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/bird-islands-on-indias-bustard-conservation-programme/article71547828.ece"
+    },
+    {
+      "point": "French riot police deployed tear gas to quell widespread demonstrations against school funding cuts.",
+      "whyInNews": "The protests are escalating and directly impacting the current French government.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/france-paris-student-protests-updates-october-7-2026/article71554062.ece"
+    },
+    {
+      "point": "Iceland is exploring technology transfer of geothermal energy and carbon capture to India.",
+      "whyInNews": "The Minister's statement indicates potential collaboration between the two countries in developing sustainable energy solutions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/iceland-courts-india-for-geothermal-ccus-carbon-to-stone-technologies/article71552541.ece"
+    },
+    {
+      "point": "The World Bank has identified India as one of the top 10 emerging markets in AI readiness based on its technical workforce.",
+      "whyInNews": "This report highlights a key factor – human capital – driving India’s potential for technological growth and innovation.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-in-top-10-leading-emerging-market-performers-on-ai-readiness-says-world-bank/article71551498.ece"
+    },
+    {
+      "point": "The Election Commission of India (ECI) asserted that it received no request from the Congress party for a meeting related to the INDIA bloc protests.",
+      "whyInNews": "This statement clarifies the timeline and processes surrounding the ongoing political developments.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahuls-protest-a-political-drama-claims-made-by-congress-are-lies-bjp/article71553057.ece"
+    },
+    {
+      "point": "The World Bank has upgraded India's GDP growth projection to 7.1% for FY27 based on its latest Development Update.",
+      "whyInNews": "This forecast reflects evolving global economic conditions and provides a benchmark for assessing India’s economic trajectory.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/world-bank-ups-indias-growth-to-71-in-fy27/article71550253.ece"
+    },
+    {
+      "point": "Francis Halzen has been awarded the 2026 Physics Nobel Prize for his work on the IceCube neutrino detector.",
+      "whyInNews": "The award recognizes a groundbreaking instrument and its contribution to astronomy.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-physics-2026-winner-francis-halzen/article71550081.ece"
+    },
+    {
+      "point": "The Supreme Court has refused to stay proceedings against the Nicobar project due to alleged violation of the Forest Rights Act and threats to indigenous communities.",
+      "whyInNews": "This highlights a critical conflict between development projects and environmental conservation, particularly concerning tribal rights.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2023,
+      "point": "Hamas and several other Palestinian militant groups launch an attack into Israel, which results in the deaths of around 1,200, mostly civilians, and the taking of 251 hostages, including civilians and soldiers.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2008,
+      "point": "Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into Earth's atmosphere.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2002,
+      "point": "The Space Shuttle Atlantis launches on STS-112 to continue assembly of the International Space Station.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2000,
+      "point": "Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "Mother Teresa establishes the Missionaries of Charity.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1940,
+      "point": "World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1924,
+      "point": "Andreas Michalakopoulos becomes prime minister of Greece for a short period of time.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1912,
+      "point": "The Helsinki Stock Exchange sees its first transaction.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1828,
+      "point": "Morea expedition: The city of Patras, Greece, is liberated by the French expeditionary force.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1777,
+      "point": "American Revolutionary War: The Americans defeat British forces under general John Burgoyne in the Second Battle of Saratoga, also known as the Battle of Bemis Heights, compelling Burgoyne's eventual surrender.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "India's bird island conservation program is being criticized for prioritizing symbolism over addressing underlying ecological challenges.",
+    "Alternative for Germany’s strong regional election result raises concerns about potential restrictions on asylum seekers in Saxony-Anhalt.",
+    "The Union Cabinet is establishing a ₹10,000 crore fund for direct equity investments in Small and Medium Enterprises (SMEs).",
+    "Soaring global vegetable oil prices are contributing significantly to the overall rise in India's food inflation rate.",
+    "India's Gaganyaan mission spacecraft achieved a critical velocity milestone during testing at Nagoya.",
+    "Prime Minister Takaichi announced a comprehensive strategy to address Japan’s falling birth rate and declining population."
+  ]
+}
