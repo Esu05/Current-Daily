@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-11",
+  "currentAffairs": [
+    {
+      "point": "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
+      "whyInNews": "This reflects ongoing efforts by the government to improve efficiency and compliance within India’s Goods & Services Tax regime.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
+    },
+    {
+      "point": "Increased demand from AI infrastructure is putting strain on India’s electricity supply.",
+      "whyInNews": "This highlights the need for investment in grid modernization and sustainable energy sources to support technological growth.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece"
+    },
+    {
+      "point": "A Saudi Arabian airport was attacked resulting in multiple casualties and operational disruptions.",
+      "whyInNews": "The attack highlights heightened security concerns within the Kingdom and potential for further instability in Yemen.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/riyadh-airport-attacked-again-as-missile-strike-wounds-passengers-flights-diverted/article71569419.ece"
+    },
+    {
+      "point": "The Office of the UN Human Rights Commissioner (OHCHR) expressed concern over reported mass detentions during Delhi protests.",
+      "whyInNews": "This highlights a potential human rights issue and government response to public demonstrations.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece"
+    },
+    {
+      "point": "Anne Carson has been awarded the Nobel Prize in Literature for her experimental and imaginative writing.",
+      "whyInNews": "The award recognizes innovative approaches within literature, a field often explored during Mains exams.",
+      "gs": "GS1",
+      "topic": "Culture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece"
+    },
+    {
+      "point": "Airlines have requested structural safety reports from the Mumbai Airport Authority regarding Terminal 1.",
+      "whyInNews": "This highlights potential infrastructural concerns and could influence future airport redevelopment plans.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/airlines-ask-mumbai-airport-for-terminal-1-structural-safety-reports/article71567462.ece"
+    },
+    {
+      "point": "Residents of Assam and Meghalaya villages are protesting the Kulsi River dam project due to concerns about displacement and ecological damage.",
+      "whyInNews": "The conflict highlights ongoing disputes between states over river water management and infrastructure development – a recurring theme in Indian politics.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
+    },
+    {
+      "point": "The RBI has indicated the need for central government support to combat rising inflation rates.",
+      "whyInNews": "This highlights the complex interplay between monetary policy and macroeconomic stability, a frequently tested topic in UPSC.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece"
+    },
+    {
+      "point": "Christa Pike was released from hospital following her execution in Tennessee.",
+      "whyInNews": "This marks the conclusion of a protracted legal battle over the circumstances and legality of her conviction.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/tennessee-execution-survivor-christa-pike-released-from-hospital-returned-to-prison/article71569633.ece"
+    },
+    {
+      "point": "Coal supply to power plants increased by 36% from September lows.",
+      "whyInNews": "This reflects a shift in demand patterns and government efforts to manage energy availability amidst potential disruptions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
+    },
+    {
+      "point": "India is aggressively pursuing the ‘Yellow Revolution’ through scaling up its oil palm production to meet domestic demand and potentially export opportunities.",
+      "whyInNews": "The shift from ‘no’ to ‘yes’ reflects a strategic national policy initiative with far-reaching economic and environmental consequences.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/from-no-to-the-yellow-revolution/article71565487.ece"
+    },
+    {
+      "point": "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms.",
+      "whyInNews": "The project aims to attract tourists while promoting community involvement and sustainable practices.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/travel/araku-pinery-new-experiences-at-the-community-led-eco-tourism-retreat/article71558325.ece"
+    },
+    {
+      "point": "India’s greenfield investments have more than doubled China's share in 2020-25 according to the UNCTAD report.",
+      "whyInNews": "This reflects a growing global recognition of India as an attractive investment destination and its strategic importance within the global economy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece"
+    },
+    {
+      "point": "Air India Express and Air India have announced extended flight cancellation periods due to operational issues.",
+      "whyInNews": "This reflects potential disruptions in the aviation sector impacting passenger travel and economic activity.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/ai-express-air-india-extend-cancellation-of-riyadh-flights/article71568154.ece"
+    },
+    {
+      "point": "The GST Council has unveiled process reforms aimed at further streamlining the administration of India’s Goods and Services Tax (GST).",
+      "whyInNews": "These reforms follow recent rate-related adjustments and represent a significant shift in how the tax is managed nationally.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/what-are-the-reforms-proposed-by-the-gst-council/article71563133.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1986,
+      "point": "Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1984,
+      "point": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "The hull of the Mary Rose is recovered, over four hundred years after her sinking during the battle of the Solent.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1976,
+      "point": "George Washington is posthumously promoted to the grade of General of the Armies.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "The Tuvan People's Republic is annexed by the Soviet Union.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1937,
+      "point": "The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1910,
+      "point": "Piloted by Arch Hoxsey, Theodore Roosevelt becomes the first U.S. president to fly in an airplane.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1890,
+      "point": "In Washington, D.C., the Daughters of the American Revolution is founded.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
+    "Two staff members were suspended following a technical fault in an empty train at the GIFT City station.",
+    "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms.",
+    "The RBI has indicated the need for central government support to effectively combat rising inflation rates.",
+    "Banks and nominated agencies are now subject to IGST on gold imports at a rate of 3%.",
+    "Andhra Pradesh achieved record egg production in FY25 with 2,739 crore eggs."
+  ]
+}

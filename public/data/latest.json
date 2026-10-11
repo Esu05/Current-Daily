@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "currentAffairs": [
     {
       "point": "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
@@ -10,20 +10,28 @@
       "url": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
     },
     {
-      "point": "Two staff members were suspended following a technical fault in an empty train at the GIFT City station.",
-      "whyInNews": "This highlights operational issues within India’s expanding metro infrastructure projects.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/ahmedabad-metro-train-fault-disrupts-gift-city-service-two-staff-suspended/article71564830.ece"
+      "point": "Increased demand from AI infrastructure is putting strain on India’s electricity supply.",
+      "whyInNews": "This highlights the need for investment in grid modernization and sustainable energy sources to support technological growth.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece"
     },
     {
-      "point": "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms.",
-      "whyInNews": "The project aims to attract tourists while promoting community involvement and sustainable practices.",
+      "point": "A Saudi Arabian airport was attacked resulting in multiple casualties and operational disruptions.",
+      "whyInNews": "The attack highlights heightened security concerns within the Kingdom and potential for further instability in Yemen.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/riyadh-airport-attacked-again-as-missile-strike-wounds-passengers-flights-diverted/article71569419.ece"
+    },
+    {
+      "point": "The Office of the UN Human Rights Commissioner (OHCHR) expressed concern over reported mass detentions during Delhi protests.",
+      "whyInNews": "This highlights a potential human rights issue and government response to public demonstrations.",
       "gs": "GS2",
-      "topic": "IR",
+      "topic": "Polity",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/life-and-style/travel/araku-pinery-new-experiences-at-the-community-led-eco-tourism-retreat/article71558325.ece"
+      "url": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece"
     },
     {
       "point": "Anne Carson has been awarded the Nobel Prize in Literature for her experimental and imaginative writing.",
@@ -34,28 +42,20 @@
       "url": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece"
     },
     {
-      "point": "A flydubai co-pilot attempted to crash the plane into Tel Aviv airport with inspiration from the 9/11 attacks.",
-      "whyInNews": "This represents a direct threat to India’s strategic interests and requires immediate attention regarding aviation security protocols.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/flydubai-co-pilot-intended-to-crash-plane-into-tel-aviv-airport-uae-prosecutor-says/article71565815.ece"
-    },
-    {
-      "point": "Coal supply to power plants increased by 36% from September lows.",
-      "whyInNews": "This reflects a shift in demand patterns and government efforts to manage energy availability amidst potential disruptions.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
-    },
-    {
-      "point": "The Tea Board is increasing the number of auction centres to improve tea producer profitability.",
-      "whyInNews": "This reflects ongoing efforts within government to support agricultural sectors and promote fair trade practices.",
-      "gs": "GS3",
-      "topic": "Agriculture",
+      "point": "Airlines have requested structural safety reports from the Mumbai Airport Authority regarding Terminal 1.",
+      "whyInNews": "This highlights potential infrastructural concerns and could influence future airport redevelopment plans.",
+      "gs": "GS2",
+      "topic": "Governance",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/tea-board-increasing-number-of-auction-centres-to-help-tea-producers-realise-better-prices/article71565066.ece"
+      "url": "https://www.thehindubusinessline.com/economy/logistics/airlines-ask-mumbai-airport-for-terminal-1-structural-safety-reports/article71567462.ece"
+    },
+    {
+      "point": "Residents of Assam and Meghalaya villages are protesting the Kulsi River dam project due to concerns about displacement and ecological damage.",
+      "whyInNews": "The conflict highlights ongoing disputes between states over river water management and infrastructure development – a recurring theme in Indian politics.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
     },
     {
       "point": "The RBI has indicated the need for central government support to combat rising inflation rates.",
@@ -66,12 +66,36 @@
       "url": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece"
     },
     {
-      "point": "Katie Zacharia has been appointed as the White House Press Secretary.",
-      "whyInNews": "Her appointment precedes key midterm congressional elections, highlighting a strategic move by the Trump administration.",
+      "point": "Christa Pike was released from hospital following her execution in Tennessee.",
+      "whyInNews": "This marks the conclusion of a protracted legal battle over the circumstances and legality of her conviction.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/tennessee-execution-survivor-christa-pike-released-from-hospital-returned-to-prison/article71569633.ece"
+    },
+    {
+      "point": "Coal supply to power plants increased by 36% from September lows.",
+      "whyInNews": "This reflects a shift in demand patterns and government efforts to manage energy availability amidst potential disruptions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
+    },
+    {
+      "point": "India is aggressively pursuing the ‘Yellow Revolution’ through scaling up its oil palm production to meet domestic demand and potentially export opportunities.",
+      "whyInNews": "The shift from ‘no’ to ‘yes’ reflects a strategic national policy initiative with far-reaching economic and environmental consequences.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/from-no-to-the-yellow-revolution/article71565487.ece"
+    },
+    {
+      "point": "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms.",
+      "whyInNews": "The project aims to attract tourists while promoting community involvement and sustainable practices.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/katie-zacharia-picked-as-white-house-press-secretary/article71565837.ece"
+      "url": "https://www.thehindu.com/life-and-style/travel/araku-pinery-new-experiences-at-the-community-led-eco-tourism-retreat/article71558325.ece"
     },
     {
       "point": "India’s greenfield investments have more than doubled China's share in 2020-25 according to the UNCTAD report.",
@@ -82,28 +106,12 @@
       "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece"
     },
     {
-      "point": "The ‘Bharat Spice Map’ will align spice production with industry demand and scientific insights.",
-      "whyInNews": "India is a major spice exporter; this map aims to optimize its position in the global market.",
+      "point": "Air India Express and Air India have announced extended flight cancellation periods due to operational issues.",
+      "whyInNews": "This reflects potential disruptions in the aviation sector impacting passenger travel and economic activity.",
       "gs": "GS3",
-      "topic": "Agriculture",
+      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/bharat-spice-map-to-drive-value-addition-global-competitiveness-of-indian-spices/article71564743.ece"
-    },
-    {
-      "point": "A ‘Super’ El Niño is developing, potentially leading to extreme weather events globally.",
-      "whyInNews": "Scientists are tracking the intensification of this event and its projected impacts on global climate patterns.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-super-el-nino-effect-green-humour-by-rohan-chakravarty/article71546325.ece"
-    },
-    {
-      "point": "A magnitude 7.6 earthquake struck Panama City on October 9, 2026.",
-      "whyInNews": "Residents are gathering outside awaiting news of the quake’s impact, indicating immediate concern and potential for damage assessment.",
-      "gs": "GS3",
-      "topic": "Disaster",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
+      "url": "https://www.thehindubusinessline.com/economy/logistics/ai-express-air-india-extend-cancellation-of-riyadh-flights/article71568154.ece"
     },
     {
       "point": "The GST Council has unveiled process reforms aimed at further streamlining the administration of India’s Goods and Services Tax (GST).",
@@ -112,74 +120,66 @@
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/what-are-the-reforms-proposed-by-the-gst-council/article71563133.ece"
-    },
-    {
-      "point": "Weekly flight movements at Mangaluru International Airport will increase to 195 from 181 in the winter schedule.",
-      "whyInNews": "This reflects a shift in air travel patterns and could impact regional trade and tourism.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/mangaluru-airport-to-add-more-destinations-in-winter-schedule/article71563879.ece"
     }
   ],
   "history": [
     {
-      "year": 1980,
-      "point": "The Farabundo Martí National Liberation Front is founded in El Salvador.",
+      "year": 1986,
+      "point": "Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.",
       "gs": "GS1"
     },
     {
-      "year": 1967,
-      "point": "The Outer Space Treaty comes into force.",
+      "year": 1984,
+      "point": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.",
       "gs": "GS1"
     },
     {
-      "year": 1963,
-      "point": "The Partial Nuclear Test Ban Treaty comes into effect.",
+      "year": 1982,
+      "point": "The hull of the Mary Rose is recovered, over four hundred years after her sinking during the battle of the Solent.",
       "gs": "GS1"
     },
     {
-      "year": 1933,
-      "point": "A United Airlines Boeing 247 is destroyed by sabotage, the first such proven case in the history of commercial aviation.",
+      "year": 1976,
+      "point": "George Washington is posthumously promoted to the grade of General of the Armies.",
       "gs": "GS1"
     },
     {
-      "year": 1903,
-      "point": "The Women's Social and Political Union is founded in support of the enfranchisement of British women.",
+      "year": 1950,
+      "point": "CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
       "gs": "GS1"
     },
     {
-      "year": 1992,
-      "point": "After 20 years of construction, Vidyasagar Setu, the longest cable-stayed bridge in India, opened, joining Kolkata and Howrah.",
+      "year": 1944,
+      "point": "The Tuvan People's Republic is annexed by the Soviet Union.",
       "gs": "GS1"
     },
     {
-      "year": 1963,
-      "point": "The Partial Nuclear Test Ban Treaty, which prohibits all test detonations of nuclear weapons except for those conducted underground, went into effect.",
+      "year": 1937,
+      "point": "The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.",
       "gs": "GS1"
     },
     {
-      "year": 1933,
-      "point": "In the first proven act of sabotage in the history of commercial aviation, a Boeing 247 operated by United Airlines exploded in mid-air near Chesterton, Indiana, killing all seven people aboard.",
+      "year": 1910,
+      "point": "Piloted by Arch Hoxsey, Theodore Roosevelt becomes the first U.S. president to fly in an airplane.",
       "gs": "GS1"
     },
     {
-      "year": 1911,
-      "point": "The Xinhai Revolution began with the Wuchang Uprising, marking the beginning of the collapse of the Qing dynasty and the establishment of the Republic of China.",
+      "year": 1890,
+      "point": "In Washington, D.C., the Daughters of the American Revolution is founded.",
       "gs": "GS1"
     },
     {
-      "year": 1760,
-      "point": "In a treaty with Dutch colonial authorities, the Ndyuka people of Suriname gained territorial autonomy.",
+      "year": 1987,
+      "point": "Sri Lankan Civil War: The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers and enforce their disarmament as a part of the Indo-Sri Lanka Accord.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
+    "Two staff members were suspended following a technical fault in an empty train at the GIFT City station.",
+    "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms.",
     "The RBI has indicated the need for central government support to effectively combat rising inflation rates.",
     "Banks and nominated agencies are now subject to IGST on gold imports at a rate of 3%.",
-    "Andhra Pradesh achieved record egg production in FY25 with 2,739 crore eggs.",
-    "India’s cumulative property tax represents only 0.15-0.2% of GDP, highlighting systemic inefficiencies in revenue collection from urban areas.",
-    "India and Ghana have signed an MoU facilitating scientific exchanges focused on crop production technology transfer.",
-    "The Union Government is holding up the approval of satellite internet services, including SpaceX's Starlink, due to security concerns."
+    "Andhra Pradesh achieved record egg production in FY25 with 2,739 crore eggs."
   ]
 }
