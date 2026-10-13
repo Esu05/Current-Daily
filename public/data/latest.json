@@ -1,185 +1,185 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "currentAffairs": [
     {
-      "point": "The government’s actions regarding peaceful assembly and protest are central to understanding India's constitutional framework and the balance between state authority and citizen freedoms.",
-      "whyInNews": "Recent instances of police action during protests underscore the ongoing tension surrounding this fundamental right.",
+      "point": "Ruling parties secured victories in the West Bengal, Tamil Nadu, and Puducherry by-elections, indicating continued regional power structures.",
+      "whyInNews": "The results demonstrate evolving political allegiances and potential defections within Tamil Nadu, a crucial state for national politics.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece"
+    },
+    {
+      "point": "The International Monetary Fund (IMF) has slightly raised its global growth forecast to 3.1% for 2026, citing resilience in the face of shocks.",
+      "whyInNews": "This update provides a crucial benchmark against which India’s economic performance will be assessed and informs policy discussions regarding growth targets.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/imf-slightly-raises-forecast-for-2026-global-growth-to-31-citing-resilience-to-shocks/article71577836.ece"
+    },
+    {
+      "point": "India's population is forecast to increase by 347 million by 2050, creating substantial demand for elderly care services.",
+      "whyInNews": "This demographic trend necessitates a proactive approach from the government regarding workforce training and caregiving infrastructure.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece"
+    },
+    {
+      "point": "IISc researchers have identified the possibility of strong magnetic fields influencing the growth rates of white dwarfs beyond the Chandrasekhar limit.",
+      "whyInNews": "This breakthrough offers a new theoretical pathway for understanding stellar evolution and supernovae formation.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece"
+    },
+    {
+      "point": "Karnataka and Andhra Pradesh are experiencing drought conditions due to the southwest monsoon.",
+      "whyInNews": "The report necessitates monitoring of rainfall patterns and their impact on agricultural output – a key concern for UPSC.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/drought-report-on-southwest-monsoon-drought-in-karnataka-and-andhra-pradesh/article71575181.ece"
+    },
+    {
+      "point": "Section 4 of the RTI Act mandates disclosure by public authorities but reports indicate voluntary disclosures have not been consistently followed.",
+      "whyInNews": "This reflects ongoing issues with effective implementation of key legislation and accountability mechanisms within government.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/data/the-gaps-in-the-implementation-of-the-rti-act/article71575044.ece"
+    },
+    {
+      "point": "ADNOC is supplying approximately one-tenth of India's total crude imports daily.",
+      "whyInNews": "This highlights the growing reliance on Middle Eastern energy sources and a key trade relationship between India and Abu Dhabi.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/adnoc-open-to-long-term-lpg-deals-with-india-eyes-bigger-strategic-reserves/article71575015.ece"
+    },
+    {
+      "point": "The International Monetary Fund (IMF) has raised its projection for India’s FY27 GDP growth to 7% due to strong domestic demand.",
+      "whyInNews": "This forecast contrasts with the IMF's overall subdued global growth outlook and highlights a specific, data-driven assessment of India’s economic trajectory.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/imf-raises-indias-fy27-growth-forecast-to-7-on-strong-domestic-demand/article71575995.ece"
+    },
+    {
+      "point": "The Supreme Court has been petitioned against the closure of Metro stations in Delhi on Oct. 13th due to alleged poll irregularities.",
+      "whyInNews": "This highlights a challenge to executive authority and raises concerns about potential interference with democratic processes.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece"
+    },
+    {
+      "point": "911 calls reveal delays in assistance after an attempted lethal injection procedure at Christa Pike’s residence.",
+      "whyInNews": "The incident highlights potential failures within emergency response systems and raises questions about the protocols surrounding end-of-life care.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/emergency-help-was-delayed-after-failed-execution-of-christa-pike-911-calls-reveal/article71577819.ece"
+    },
+    {
+      "point": "Robert E. Hall and Michael Woodford’s research highlights the importance of effective communication by governments in stabilizing economies.",
+      "whyInNews": "The findings provide an empirical basis for a key debate surrounding economic policy interventions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece"
+    },
+    {
+      "point": "India’s crude oil imports have decreased due to reduced Russian supply.",
+      "whyInNews": "This reflects shifting geopolitical dynamics impacting India's energy market.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/iraq-crude-shipments-to-india-rebound-as-russian-crude-shipments-decline/article71573674.ece"
+    },
+    {
+      "point": "The retreating glaciers and thawing permafrost in the Indian Himalayas are increasing the risk of glacial lake outburst floods (GLOFs) and other natural disasters.",
+      "whyInNews": "This news highlights a tangible environmental consequence with significant human security implications, directly relevant to disaster management preparedness.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/warming-himalayas-demand-a-rethink-on-development/article71576109.ece"
+    },
+    {
+      "point": "The government’s stance on dissent raises concerns about the interpretation and application of Article 19(1)(b) guaranteeing freedom of speech and expression, including peaceful assembly.",
+      "whyInNews": "Recent instances have seen authorities attempting to restrict protests under various laws, creating a crucial test for India's democratic values.",
       "gs": "GS2",
       "topic": "Polity",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece"
     },
     {
-      "point": "North Korea fired a projectile towards the sea, indicating continued military build-up and potential destabilization of Northeast Asia.",
-      "whyInNews": "This event underscores heightened tensions on India’s northern border and necessitates careful monitoring of regional security dynamics.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/north-korea-fired-projectile-towards-sea-south-korean-military-says/article71573610.ece"
-    },
-    {
-      "point": "The increasing ability to trace transactions through digital footprints raises concerns regarding government surveillance and potential misuse of personal information.",
-      "whyInNews": "This reflects a broader trend of data collection and tracking capabilities impacting civil liberties globally.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/when-our-meandering-money-leaves-a-mark/article71570547.ece"
-    },
-    {
-      "point": "A quarter of India's labour force is estimated to be exposed to Artificial Intelligence (AI).",
-      "whyInNews": "The report’s findings regarding productivity gains and potential job displacement are crucial for understanding the future of work in India.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/quarter-of-indias-labour-force-highly-exposed-to-ai-says-report/article71571889.ece"
-    },
-    {
-      "point": "CJI Surya Kant has declined meetings with INDIA bloc leaders, escalating tensions surrounding the suspension of MPs.",
-      "whyInNews": "This action raises questions about judicial neutrality and its role in parliamentary processes.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/anti-cec-protests-against-gyanesh-kumar-cjp-october-12-2026-live-updates/article71573601.ece"
-    },
-    {
-      "point": "The news highlights the growing trend of sector-specific and thematic investment funds within India’s financial market.",
-      "whyInNews": "This reflects evolving investor preferences and potential impacts on capital flows and economic diversification.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/investing-in-sector-and-thematic-funds/article71570556.ece"
-    },
-    {
-      "point": "The government has set a target of 505 MT steel demand by 2047 and plans to achieve a 604 MT steelmaking capacity.",
-      "whyInNews": "This reflects the strategic importance of steel production for India’s infrastructure development and manufacturing sector.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/govt-targets-505-mt-steel-demand-by-2047-plans-604-mt-capacity/article71571648.ece"
-    },
-    {
-      "point": "CJI Surya Kant has declined meetings with INDIA bloc leaders due to ‘reasons’, raising questions about the judiciary's neutrality in the upcoming elections.",
-      "whyInNews": "This reflects a potential point of friction between the executive and judicial branches, directly relevant to India’s democratic processes.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cji-surya-kant-declines-to-meet-india-bloc-leaders-on-october-12-with-reasons/article71572588.ece"
-    },
-    {
-      "point": "The GST Council has approved reforms intended to make the Goods and Services Tax (GST) simpler and more effective.",
-      "whyInNews": "These reforms represent a significant step towards improving India’s tax structure and boosting economic efficiency.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
-    },
-    {
-      "point": "Policies can incorporate compulsory or voluntary ‘excess’ provisions for certain services.",
-      "whyInNews": "The concept of ‘excess’ in policy design is a relatively uncommon but important consideration for understanding how government programs are structured and funded.",
+      "point": "Elon Musk has donated $276 million to Republican candidates in the US midterm elections.",
+      "whyInNews": "This represents a record-breaking political donation and raises concerns about undue influence on electoral processes.",
       "gs": "GS2",
       "topic": "Governance",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/excess-more-to-pay-not-more-to-receive/article71570551.ece"
-    },
-    {
-      "point": "Residents in Assam and Meghalaya are protesting the Kulsi River dam project due to concerns about potential ecological damage and displacement of local communities.",
-      "whyInNews": "The conflict highlights ongoing tensions between states regarding river water management and resource allocation – a significant geopolitical factor.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
-    },
-    {
-      "point": "Anti-government protests continue with the Congress party planning a march to the Supreme Court.",
-      "whyInNews": "The SC order and potential reintroduction of curbs highlight government action against dissent and its impact on public freedoms.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/anti-cec-protests-continue-journalists-detained-despite-sc-order-rahul-gandhi-announces-march-to-supreme-court-as-delhi-braces-for-fresh-curbs/article71572486.ece"
-    },
-    {
-      "point": "Anne Carson has been awarded the Nobel Prize in Literature for her experimental and imaginative writing style.",
-      "whyInNews": "The award highlights a specific area of contemporary literature and recognizes innovative approaches to storytelling.",
-      "gs": "GS1",
-      "topic": "Culture",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece"
-    },
-    {
-      "point": "A projectile struck a passenger terminal at Riyadh Airport, raising concerns about regional stability and security threats.",
-      "whyInNews": "The incident highlights the ongoing instability in the Middle East and potential risks to international travel.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-a-projectile-struck-passenger-terminal-at-riyadh-airport/article71572331.ece"
-    },
-    {
-      "point": "Increased demand for electricity due to AI infrastructure is putting strain on India’s existing power grids.",
-      "whyInNews": "Electricity officials are actively grappling with the operational challenges posed by this growing sector.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece"
+      "url": "https://www.thehindu.com/news/international/musk-has-spent-276-million-on-midterms-to-help-republicans-retain-control-of-congress/article71577755.ece"
     }
   ],
   "history": [
     {
       "year": 2010,
-      "point": "The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally \"gay night\"), which leads to the resignation of almost 50,000 Finns from the Evangelical...",
+      "point": "The mining accident in Copiapó, Chile ends as all 33 trapped miners arrive at the surface after a record 69 days underground.",
       "gs": "GS1"
     },
     {
-      "year": 2005,
-      "point": "The second Chinese human spaceflight, Shenzhou 6, is launched, carrying two cosmonauts in orbit for five days.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1999,
-      "point": "Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a bloodless coup.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1999,
-      "point": "The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia.",
+      "year": 1990,
+      "point": "Syrian forces attack free areas of Lebanon, removing General Michel Aoun from the presidential palace.",
       "gs": "GS1"
     },
     {
       "year": 1983,
-      "point": "Japan's former Prime Minister Tanaka Kakuei is found guilty of taking a $2 million bribe from the Lockheed Corporation, and is sentenced to four years in jail.",
+      "point": "Ameritech Mobile Communications launches the first US cellular network in Chicago.",
       "gs": "GS1"
     },
     {
-      "year": 1977,
-      "point": "Hua Guofeng succeeds Mao Zedong as paramount leader of China.",
+      "year": 1946,
+      "point": "France adopts the constitution of the Fourth Republic.",
       "gs": "GS1"
     },
     {
-      "year": 1970,
-      "point": "Vietnam War: Vietnamization continues as President Richard Nixon announces that the United States will withdraw 40,000 more troops before Christmas.",
+      "year": 1943,
+      "point": "World War II: Marshal Pietro Badoglio announces that Italy has officially declared war on Germany.",
       "gs": "GS1"
     },
     {
-      "year": 1968,
-      "point": "Equatorial Guinea becomes independent from Spain.",
+      "year": 1923,
+      "point": "Ankara becomes the capital of Turkey.",
       "gs": "GS1"
     },
     {
-      "year": 1963,
-      "point": "After nearly 23 years of imprisonment, Reverend Walter Ciszek, a Jesuit missionary, was released from the Soviet Union.",
+      "year": 1921,
+      "point": "Soviet republics sign the Treaty of Kars to formalize the borders between Turkey and the South Caucasus states.",
       "gs": "GS1"
     },
     {
-      "year": 1945,
-      "point": "The Lao Issara took control of Laos' government and reaffirmed the country's independence.",
+      "year": 1903,
+      "point": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1881,
+      "point": "First known conversation in modern Hebrew by Eliezer Ben-Yehuda and friends.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1775,
+      "point": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "The government’s actions regarding peaceful assembly and protest are central to understanding India's constitutional framework and the balance between state authority and citizen freedoms.",
+    "North Korea fired a projectile towards the sea, indicating continued military build-up and potential destabilization of Northeast Asia.",
+    "The increasing ability to trace transactions through digital footprints raises concerns regarding government surveillance and potential misuse of personal information.",
     "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
     "Increased demand from AI infrastructure is putting strain on India’s electricity supply.",
-    "A Saudi Arabian airport was attacked resulting in multiple casualties and operational disruptions.",
-    "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
-    "Two staff members were suspended following a technical fault in an empty train at the GIFT City station.",
-    "Araku Pinery is implementing eco-tourism initiatives with new attractions like camping and seasonal farms."
+    "A Saudi Arabian airport was attacked resulting in multiple casualties and operational disruptions."
   ]
 }
