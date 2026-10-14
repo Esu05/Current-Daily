@@ -1,101 +1,69 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "currentAffairs": [
     {
-      "point": "Ruling parties secured victories in the West Bengal, Tamil Nadu, and Puducherry by-elections, indicating continued regional power structures.",
-      "whyInNews": "The results demonstrate evolving political allegiances and potential defections within Tamil Nadu, a crucial state for national politics.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece"
-    },
-    {
-      "point": "The International Monetary Fund (IMF) has slightly raised its global growth forecast to 3.1% for 2026, citing resilience in the face of shocks.",
-      "whyInNews": "This update provides a crucial benchmark against which India’s economic performance will be assessed and informs policy discussions regarding growth targets.",
+      "point": "Rural household inflation is significantly impacting India’s economy due to rising food costs.",
+      "whyInNews": "The summary explicitly states the disproportionate impact on rural communities, highlighting a critical economic vulnerability.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/imf-slightly-raises-forecast-for-2026-global-growth-to-31-citing-resilience-to-shocks/article71577836.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/spiralling-food-prices-on-rising-inflation/article71579752.ece"
     },
     {
-      "point": "India's population is forecast to increase by 347 million by 2050, creating substantial demand for elderly care services.",
-      "whyInNews": "This demographic trend necessitates a proactive approach from the government regarding workforce training and caregiving infrastructure.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece"
-    },
-    {
-      "point": "IISc researchers have identified the possibility of strong magnetic fields influencing the growth rates of white dwarfs beyond the Chandrasekhar limit.",
-      "whyInNews": "This breakthrough offers a new theoretical pathway for understanding stellar evolution and supernovae formation.",
+      "point": "OPEC has revised its oil demand growth forecasts, reducing the projected increase for India to 40,000 barrels per day.",
+      "whyInNews": "This reflects global energy market dynamics and potential implications for India’s import requirements.",
       "gs": "GS3",
-      "topic": "Sci-Tech",
+      "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece"
+      "url": "https://www.thehindu.com/business/Economy/opec-cuts-indias-2026-oil-demand-growth-forecast-to-40000-barrels-per-day/article71580576.ece"
     },
     {
-      "point": "Karnataka and Andhra Pradesh are experiencing drought conditions due to the southwest monsoon.",
-      "whyInNews": "The report necessitates monitoring of rainfall patterns and their impact on agricultural output – a key concern for UPSC.",
+      "point": "India has announced two credit risk insurance policies specifically designed for the shipbuilding industry.",
+      "whyInNews": "The measures are intended to provide crucial support and stability to India’s burgeoning maritime infrastructure development.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/india-announces-two-credit-risk-insurance-policies-to-support-shipbuilding-industry/article71580901.ece"
+    },
+    {
+      "point": "Type I error (false positive) occurs when rejecting the null hypothesis when it is actually true; Type II error (false negative) happens when failing to reject a false null hypothesis.",
+      "whyInNews": "Understanding these errors directly impacts interpreting research findings and evaluating policy decisions, frequently tested in Mains Economics.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/what-are-type-i-and-type-ii-errors/article71570911.ece"
+    },
+    {
+      "point": "The Chief Justice of India has granted an extension to the Centre's response timeline regarding petitions related to unlawful detentions.",
+      "whyInNews": "This reflects ongoing concerns about executive overreach and judicial oversight in matters of human rights.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/response-to-allegations-of-illegal-detention-clampdown-ready-but-needs-fine-tuning-government/article71578376.ece"
+    },
+    {
+      "point": "Research suggests that green crackers produce significantly less particulate matter than conventional ones but do not substantially reduce overall noise or other pollutants.",
+      "whyInNews": "The news highlights a common misconception about ‘green’ technologies and their actual impact on pollution reduction, which is relevant for understanding environmental policy.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece"
+    },
+    {
+      "point": "NTPC aims to establish green hydrogen as a commercially viable export product targeting Asian and European markets.",
+      "whyInNews": "This reflects the government’s push for decarbonization and diversification of India's energy sources.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/ntpc-eyes-green-hydrogen-exports-targets-asian-and-european-markets/article71580094.ece"
+    },
+    {
+      "point": "J&K poultry farmers are losing market share due to expansion by larger national producers.",
+      "whyInNews": "The previous government’s import tariff provided a protective barrier now eroded by increased competition.",
       "gs": "GS3",
       "topic": "Agriculture",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/drought-report-on-southwest-monsoon-drought-in-karnataka-and-andhra-pradesh/article71575181.ece"
-    },
-    {
-      "point": "Section 4 of the RTI Act mandates disclosure by public authorities but reports indicate voluntary disclosures have not been consistently followed.",
-      "whyInNews": "This reflects ongoing issues with effective implementation of key legislation and accountability mechanisms within government.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/data/the-gaps-in-the-implementation-of-the-rti-act/article71575044.ece"
-    },
-    {
-      "point": "ADNOC is supplying approximately one-tenth of India's total crude imports daily.",
-      "whyInNews": "This highlights the growing reliance on Middle Eastern energy sources and a key trade relationship between India and Abu Dhabi.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/adnoc-open-to-long-term-lpg-deals-with-india-eyes-bigger-strategic-reserves/article71575015.ece"
-    },
-    {
-      "point": "The International Monetary Fund (IMF) has raised its projection for India’s FY27 GDP growth to 7% due to strong domestic demand.",
-      "whyInNews": "This forecast contrasts with the IMF's overall subdued global growth outlook and highlights a specific, data-driven assessment of India’s economic trajectory.",
-      "gs": "GS3",
-      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/imf-raises-indias-fy27-growth-forecast-to-7-on-strong-domestic-demand/article71575995.ece"
-    },
-    {
-      "point": "The Supreme Court has been petitioned against the closure of Metro stations in Delhi on Oct. 13th due to alleged poll irregularities.",
-      "whyInNews": "This highlights a challenge to executive authority and raises concerns about potential interference with democratic processes.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece"
-    },
-    {
-      "point": "911 calls reveal delays in assistance after an attempted lethal injection procedure at Christa Pike’s residence.",
-      "whyInNews": "The incident highlights potential failures within emergency response systems and raises questions about the protocols surrounding end-of-life care.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/emergency-help-was-delayed-after-failed-execution-of-christa-pike-911-calls-reveal/article71577819.ece"
-    },
-    {
-      "point": "Robert E. Hall and Michael Woodford’s research highlights the importance of effective communication by governments in stabilizing economies.",
-      "whyInNews": "The findings provide an empirical basis for a key debate surrounding economic policy interventions.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece"
-    },
-    {
-      "point": "India’s crude oil imports have decreased due to reduced Russian supply.",
-      "whyInNews": "This reflects shifting geopolitical dynamics impacting India's energy market.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/iraq-crude-shipments-to-india-rebound-as-russian-crude-shipments-decline/article71573674.ece"
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/jk-poultry-farmers-lose-control-as-big-companies-expand/article71580731.ece"
     },
     {
       "point": "The retreating glaciers and thawing permafrost in the Indian Himalayas are increasing the risk of glacial lake outburst floods (GLOFs) and other natural disasters.",
@@ -106,80 +74,112 @@
       "url": "https://www.thehindu.com/opinion/op-ed/warming-himalayas-demand-a-rethink-on-development/article71576109.ece"
     },
     {
-      "point": "The government’s stance on dissent raises concerns about the interpretation and application of Article 19(1)(b) guaranteeing freedom of speech and expression, including peaceful assembly.",
-      "whyInNews": "Recent instances have seen authorities attempting to restrict protests under various laws, creating a crucial test for India's democratic values.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece"
-    },
-    {
-      "point": "Elon Musk has donated $276 million to Republican candidates in the US midterm elections.",
-      "whyInNews": "This represents a record-breaking political donation and raises concerns about undue influence on electoral processes.",
+      "point": "Petitions highlight concerns regarding potential restrictions on access to government data under the amended RTI Act.",
+      "whyInNews": "The amendment raises fundamental questions about transparency and accountability within the Indian state.",
       "gs": "GS2",
       "topic": "Governance",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/musk-has-spent-276-million-on-midterms-to-help-republicans-retain-control-of-congress/article71577755.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece"
+    },
+    {
+      "point": "The Reserve Bank of India (RBI) announced continued measures to prevent rupee exchange rate volatility.",
+      "whyInNews": "This reflects the RBI’s ongoing role in managing macroeconomic stability and is a core topic for UPSC economics.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-nirmala-sitharaman/article71579023.ece"
+    },
+    {
+      "point": "The government has introduced an amnesty scheme allowing retrospective regularisation of exempt status under the Employees’ Provident Fund (EPF) Scheme 2026.",
+      "whyInNews": "This reflects ongoing efforts by the Centre to amend and clarify regulations within the pension sector, a key area for social security policy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/epfo-steps-up-drive-for-retrospective-regularisation-of-exempt-status-of-pf-trusts/article71580540.ece"
+    },
+    {
+      "point": "Karnataka and Andhra Pradesh are experiencing drought conditions due to the southwest monsoon.",
+      "whyInNews": "The report necessitates monitoring of rainfall patterns and their impact on agricultural output – a key concern for UPSC.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/drought-report-on-southwest-monsoon-drought-in-karnataka-and-andhra-pradesh/article71575181.ece"
+    },
+    {
+      "point": "Indian Railways recorded a 9.3% growth in freight revenue during September 2026 compared to the previous month.",
+      "whyInNews": "This reflects increased demand for transportation of goods and highlights railway’s contribution to India's economic output.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/614-growth-registered-in-freight-loading-in-september-2026-over-september-2025-indian-railways/article71579378.ece"
+    },
+    {
+      "point": "CropLife issued an advisory regarding judicious use of crop protection products during the Rabi sowing season.",
+      "whyInNews": "The statement reflects ongoing efforts within the agricultural sector to balance productivity with cost-effectiveness.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/pesticides-makers-body-croplife-issues-advisory-as-rabi-sowing-begins/article71580106.ece"
     }
   ],
   "history": [
     {
-      "year": 2010,
-      "point": "The mining accident in Copiapó, Chile ends as all 33 trapped miners arrive at the surface after a record 69 days underground.",
+      "year": 1991,
+      "point": "Burmese opposition leader Aung San Suu Kyi is awarded the Nobel Peace Prize.",
       "gs": "GS1"
     },
     {
-      "year": 1990,
-      "point": "Syrian forces attack free areas of Lebanon, removing General Michel Aoun from the presidential palace.",
+      "year": 1964,
+      "point": "Martin Luther King Jr. receives the Nobel Peace Prize for combating racial inequality through nonviolence.",
       "gs": "GS1"
     },
     {
-      "year": 1983,
-      "point": "Ameritech Mobile Communications launches the first US cellular network in Chicago.",
+      "year": 1962,
+      "point": "The Cuban Missile Crisis begins when an American reconnaissance aircraft takes photographs of Soviet ballistic missiles being installed in Cuba.",
       "gs": "GS1"
     },
     {
-      "year": 1946,
-      "point": "France adopts the constitution of the Fourth Republic.",
+      "year": 1956,
+      "point": "Dr. B. R. Ambedkar, leader of India's Untouchable caste, converts to Buddhism along with 385,000 of his followers (see Neo-Buddhism).",
+      "gs": "GS1"
+    },
+    {
+      "year": 1949,
+      "point": "The Smith Act trials of Communist Party leaders in the United States convicts eleven defendants of conspiring to advocate the violent overthrow of the federal government.",
       "gs": "GS1"
     },
     {
       "year": 1943,
-      "point": "World War II: Marshal Pietro Badoglio announces that Italy has officially declared war on Germany.",
+      "point": "World War II: Prisoners at Sobibor extermination camp covertly assassinate most of the on-duty SS officers and then stage a mass breakout.",
       "gs": "GS1"
     },
     {
-      "year": 1923,
-      "point": "Ankara becomes the capital of Turkey.",
+      "year": 1943,
+      "point": "World War II: The Second Philippine Republic, a puppet state of Japan, is inaugurated with José P. Laurel as its president.",
       "gs": "GS1"
     },
     {
-      "year": 1921,
-      "point": "Soviet republics sign the Treaty of Kars to formalize the borders between Turkey and the South Caucasus states.",
+      "year": 1933,
+      "point": "Germany withdraws from the League of Nations and World Disarmament Conference.",
       "gs": "GS1"
     },
     {
-      "year": 1903,
-      "point": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.",
+      "year": 1915,
+      "point": "World War I: Bulgaria joins the Central Powers.",
       "gs": "GS1"
     },
     {
-      "year": 1881,
-      "point": "First known conversation in modern Hebrew by Eliezer Ben-Yehuda and friends.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1775,
-      "point": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).",
+      "year": 1808,
+      "point": "The Republic of Ragusa is annexed by France.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "Ruling parties secured victories in the West Bengal, Tamil Nadu, and Puducherry by-elections, indicating continued regional power structures.",
+    "The International Monetary Fund (IMF) has slightly raised its global growth forecast to 3.1% for 2026, citing resilience in the face of shocks.",
+    "India's population is forecast to increase by 347 million by 2050, creating substantial demand for elderly care services.",
     "The government’s actions regarding peaceful assembly and protest are central to understanding India's constitutional framework and the balance between state authority and citizen freedoms.",
     "North Korea fired a projectile towards the sea, indicating continued military build-up and potential destabilization of Northeast Asia.",
-    "The increasing ability to trace transactions through digital footprints raises concerns regarding government surveillance and potential misuse of personal information.",
-    "The GST Council held its latest meet to discuss further reforms aimed at simplifying the indirect taxation system.",
-    "Increased demand from AI infrastructure is putting strain on India’s electricity supply.",
-    "A Saudi Arabian airport was attacked resulting in multiple casualties and operational disruptions."
+    "The increasing ability to trace transactions through digital footprints raises concerns regarding government surveillance and potential misuse of personal information."
   ]
 }
