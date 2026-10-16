@@ -1,29 +1,85 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "currentAffairs": [
     {
-      "point": "Delhi’s draft rolls are flagged with ‘logical discrepancies’ indicating a potential design aimed at disproportionately affecting the Muslim population.",
-      "whyInNews": "This highlights issues of data manipulation and potential discrimination within government processes – a critical area for UPSC analysis.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/illogical-reasons-on-the-hindus-investigation-of-delhis-draft-rolls/article71584599.ece"
-    },
-    {
-      "point": "Donald Trump's deposition agreement was retracted by his lawyers, creating controversy in the $10-billion defamation suit.",
-      "whyInNews": "This highlights legal challenges faced by high-profile individuals and impacts perceptions of due process.",
+      "point": "Protests are being suppressed by denying access to sites of demonstration.",
+      "whyInNews": "This reflects concerns about freedom of expression and the role of public dissent in a democracy.",
       "gs": "GS2",
       "topic": "Polity",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/bbc-accuses-trump-of-dodging-deposition-in-10-billion-defamation-suit/article71585645.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/out-of-site-on-jantar-mantar-denotification-protests-and-democracy/article71588428.ece"
     },
     {
-      "point": "The BS VII draft proposes new standards for electric vehicle battery durability to be introduced in three phases starting from April 2029.",
-      "whyInNews": "This reflects the growing adoption of EVs and potential government intervention to ensure quality and standardization.",
+      "point": "An attacker fatally shot five people at an elementary school in Oregon following a police response.",
+      "whyInNews": "The event highlights ongoing concerns about gun violence and school safety protocols within the United States.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
+    },
+    {
+      "point": "The national unemployment rate stands at 5% in September, as reported by the National Statistical Office (NSO).",
+      "whyInNews": "This figure offers a snapshot of labor market conditions and is frequently referenced in discussions about economic policy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/unemployment-rate-in-country-stands-at-5-in-september-stable-compared-to-august-nso/article71589002.ece"
+    },
+    {
+      "point": "India is facing increasing levels of water stress due to projected demand exceeding available supply.",
+      "whyInNews": "The summary explicitly states the severity of water scarcity as a pressing national concern.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/water-stress/article71589661.ece"
+    },
+    {
+      "point": "A giant tortoise named Jonathan has lived for 198 years, representing a remarkable case study in long-term survival.",
+      "whyInNews": "The story is framed as a ‘secret’ and linked to the Science for All newsletter, suggesting an unusual scientific observation.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/in-this-weeks-science-for-all-newsletter-divya-gandhi-explains-the-secret-behind-the-longevity-of-the-198-year-old-giant-tortoise-jonathan/article71574170.ece"
+    },
+    {
+      "point": "The rollout of the weather network is significantly behind schedule due to project delays.",
+      "whyInNews": "Private partners are raising concerns about retrospective sensor requirements imposed by the IMD, potentially further delaying implementation.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece"
+    },
+    {
+      "point": "The Public Accounts Committee (PAC) grilled the Ministry of Social Justice & Empowerment on alleged ‘fraud markers’ flagged by CAG in SC scholarship schemes.",
+      "whyInNews": "This highlights systemic issues within government oversight and implementation of flagship social welfare programs.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/pac-grills-centre-states-on-fraud-markers-flagged-by-cag-in-sc-scholarship-schemes/article71588571.ece"
+    },
+    {
+      "point": "The G20 has called for eliminating structural excess capacity in economies globally.",
+      "whyInNews": "This reflects ongoing discussions within the forum regarding global economic imbalances and potential policy responses.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/china-says-divergent-opinions-contributed-to-lack-of-g20-consensus/article71544457.ece"
+    },
+    {
+      "point": "India’s exports increased by 23% in September, leading to a narrowing trade deficit of $30.21 billion.",
+      "whyInNews": "The rise is attributed primarily to higher crude oil prices and resulting petroleum product export revenues – a critical factor for India's economic stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-exports-jump-23-in-september-trade-deficit-narrows-to-3021-billion/article71588471.ece"
+    },
+    {
+      "point": "India’s exports jumped by 23% to $44.4 billion in September, marking a narrowing of the trade deficit to $30.2 billion.",
+      "whyInNews": "This reflects shifts in global demand and India's manufacturing performance.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/bs-vii-draft-proposes-battery-durability-norms-vehicle-passport-for-passenger-cars/article71585066.ece"
+      "url": "https://www.thehindubusinessline.com/economy/indias-september-exports-jump-23-to-444-billion-trade-deficit-narrows-to-302-billion/article71588950.ece"
     },
     {
       "point": "A planned bauxite mining project in Odisha’s Balda hills poses an immediate threat to the remaining population of the Jeypore ground gecko.",
@@ -34,152 +90,96 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/mining-project-threatens-future-of-rare-jeypore-ground-gecko/article71582605.ece"
     },
     {
-      "point": "Mr. Patwari questioned the government's decision to appoint Mr. Sisonia as Collector following a judicial panel’s finding of responsibility in the Indore water tragedy.",
-      "whyInNews": "The story highlights potential lapses in governance and accountability, particularly concerning disaster management and the use of investigative reports for administrative appointments.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/weeks-after-judicial-panel-held-him-responsible-for-indore-water-tragedy-ias-officer-made-collector/article71584133.ece"
-    },
-    {
-      "point": "Punjab is experiencing a surge in narcotrafficking activities linked to targeted killings, posing a significant threat to internal security.",
-      "whyInNews": "This escalating violence necessitates an assessment of law enforcement capabilities and potential implications for regional stability.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/drugs-and-bullets-on-narcotrafficking-and-targeted-killings-in-punjab/article71584835.ece"
-    },
-    {
-      "point": "Sally Rooney has withdrawn her books from sale in the UK following accusations of supporting a pro-Palestinian group.",
-      "whyInNews": "This reflects ongoing tensions and debates surrounding political activism and artistic expression within Western countries.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/books/sally-rooneys-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group/article71585477.ece"
-    },
-    {
-      "point": "The Indian rupee closed at 95.17 against the US dollar after a rise of 19 paise.",
-      "whyInNews": "This reflects RBI’s ongoing efforts to manage currency volatility and its impact on India's trade balance.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/rupee-rises-19-paise-to-close-at-9517-against-us-dollar/article71583687.ece"
-    },
-    {
-      "point": "The Thai government has expanded its existing flood protection measures around Bangkok to mitigate the risk from rising river levels.",
-      "whyInNews": "This proactive approach highlights the importance of preventative infrastructure in managing climate-induced disasters.",
-      "gs": "GS3",
-      "topic": "Disaster",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/thailand-floods-villages-to-protect-capital/article71583180.ece"
-    },
-    {
-      "point": "Research suggests green crackers do not significantly reduce particulate matter or gaseous pollutants compared to conventional alternatives.",
-      "whyInNews": "This directly relates to ongoing discussions about effective pollution control strategies in India’s urban centers.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece"
-    },
-    {
-      "point": "Congresswoman Pramila Jayapal raised concerns about alleged ‘purges’ of voters in India by the government.",
-      "whyInNews": "This reflects potential interference with democratic processes and could impact electoral integrity – a significant issue for Indian governance.",
+      "point": "Delhi’s draft rolls are flagged for ‘logical discrepancies’ that point towards a design aimed at disproportionately impacting Muslim voters.",
+      "whyInNews": "This highlights potential misuse of administrative processes to influence electoral outcomes and raises questions about the integrity of voter lists.",
       "gs": "GS2",
       "topic": "Polity",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-lawmaker-pramila-jayapal-concerned-over-sir-voter-rolls-deletions/article71585479.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/illogical-reasons-on-the-hindus-investigation-of-delhis-draft-rolls/article71584599.ece"
     },
     {
-      "point": "The BSE Sensex declined due to rising crude oil prices and inflationary pressures.",
-      "whyInNews": "Market movements reflect investor sentiment regarding macroeconomic risks.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/stock-markets-close-lower-amid-elevated-crude-oil-rising-inflation/article71583631.ece"
-    },
-    {
-      "point": "The Tamil Nadu Revenue Augmentation Committee held its fifth meeting to present work related to revenue generation strategies.",
-      "whyInNews": "This highlights a state-level initiative within the broader context of national economic policy and fiscal management.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/tn-revenue-augmentation-committee-held-its-fifth-meeting-on-wednesday/article71584766.ece"
-    },
-    {
-      "point": "The news focuses on World Arthritis Day, raising awareness about a common chronic disease affecting millions globally.",
-      "whyInNews": "It provides an opportunity to examine the prevalence of arthritis and its implications for public health.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/health-quiz-on-arthritis/article71582241.ece"
-    },
-    {
-      "point": "CJP is alleged to be receiving funds from U.S. donors, raising questions regarding its operational independence and potential external interference.",
-      "whyInNews": "The allegation involves a prominent cultural organization and the source of its funding, creating an immediate point of scrutiny.",
+      "point": "The PMDDKY scheme is being implemented in Gadchiroli to transform drought-affected areas.",
+      "whyInNews": "This demonstrates a successful application of a government initiative with measurable results regarding landscape restoration and agricultural output.",
       "gs": "GS2",
       "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/gadchiroli-stands-out-for-exemplary-work-in-water-conservation-under-pmddky-scheme/article71588637.ece"
+    },
+    {
+      "point": "Microsoft has announced a new quantum processor chip, the 'Wo', aiming to achieve higher qubit counts.",
+      "whyInNews": "Professor Frolov's skepticism regarding Microsoft’s previous claims highlights concerns about the reliability and progress of quantum computing development.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/mary-millben-abhijeet-dipke-exchange-barbs-over-cjp-funding/article71586449.ece"
+      "url": "https://www.thehindu.com/sci-tech/science/majorana-2-old-doubts-linger-new-microsoft-quantum-chip-raises-stakes/article71583068.ece"
+    },
+    {
+      "point": "The Southwest Monsoon ended with a rainfall deficit of 12.6% compared to the normal for this season.",
+      "whyInNews": "This data immediately impacts projections for crop yields and potential challenges in the upcoming agricultural year.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/southwest-monsoon-withdraws-from-entire-country-imd/article71587953.ece"
     }
   ],
   "history": [
     {
-      "year": 2003,
-      "point": "China launches Shenzhou 5, its first crewed space mission.",
+      "year": 2002,
+      "point": "The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.",
       "gs": "GS1"
     },
     {
-      "year": 2001,
-      "point": "NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io.",
+      "year": 1984,
+      "point": "Desmond Tutu is awarded the Nobel Peace Prize.",
       "gs": "GS1"
     },
     {
-      "year": 1991,
-      "point": "The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.",
+      "year": 1978,
+      "point": "Cardinal Karol Wojtyła is elected to the papacy as Pope John Paul II, he becomes the first non-Italian pontiff since 1523.",
       "gs": "GS1"
     },
     {
-      "year": 1990,
-      "point": "Soviet Union leader Mikhail Gorbachev is awarded the Nobel Peace Prize for his efforts to lessen Cold War tensions and open up his nation.",
+      "year": 1975,
+      "point": "Three-year-old Rahima Banu, from Bangladesh, is the last known case of naturally occurring smallpox.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1970,
+      "point": "Canadian Prime Minister Pierre Trudeau invokes the War Measures Act during the October Crisis.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1968,
+      "point": "Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1964,
+      "point": "China detonates its first nuclear weapon.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1964,
+      "point": "Leonid Brezhnev becomes leader of the Soviet Communist Party, while Alexei Kosygin becomes the head of government.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1953,
+      "point": "Cuban revolutionary Fidel Castro delivers his \"History Will Absolve Me\" speech, and is sentenced to 15 years' imprisonment by the Fulgencio Batista government for leading an attack on the Moncada Barracks.",
       "gs": "GS1"
     },
     {
       "year": 1951,
-      "point": "Mexican chemist Luis E. Miramontes completes the synthesis of norethisterone, the basis of an early oral contraceptive.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1932,
-      "point": "Tata Airlines (later to become Air India) makes its first flight.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1928,
-      "point": "The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1910,
-      "point": "Airship America is launched from New Jersey in the first attempt to cross the Atlantic by a powered aircraft.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1864,
-      "point": "American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1781,
-      "point": "The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown.",
+      "point": "The first Prime Minister of Pakistan, Liaquat Ali Khan, is assassinated in Rawalpindi.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "Delhi’s draft rolls are flagged with ‘logical discrepancies’ indicating a potential design aimed at disproportionately affecting the Muslim population.",
+    "Donald Trump's deposition agreement was retracted by his lawyers, creating controversy in the $10-billion defamation suit.",
+    "The BS VII draft proposes new standards for electric vehicle battery durability to be introduced in three phases starting from April 2029.",
     "Rural household inflation is significantly impacting India’s economy due to rising food costs.",
     "OPEC has revised its oil demand growth forecasts, reducing the projected increase for India to 40,000 barrels per day.",
-    "India has announced two credit risk insurance policies specifically designed for the shipbuilding industry.",
-    "Ruling parties secured victories in the West Bengal, Tamil Nadu, and Puducherry by-elections, indicating continued regional power structures.",
-    "The International Monetary Fund (IMF) has slightly raised its global growth forecast to 3.1% for 2026, citing resilience in the face of shocks.",
-    "India's population is forecast to increase by 347 million by 2050, creating substantial demand for elderly care services."
+    "India has announced two credit risk insurance policies specifically designed for the shipbuilding industry."
   ]
 }
