@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-17",
+  "currentAffairs": [
+    {
+      "point": "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+      "whyInNews": "This action is crucial following the SSR (Special Summary Revision) process and aims to improve the integrity of the electoral roll.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/a-necessary-corrective-on-the-ssr-the-special-summary-revision-of-electoral-rolls/article71593451.ece"
+    },
+    {
+      "point": "Deforestation rates in Brazil’s Amazon rainforest have fallen to an all-time low of 3,335 square kilometers for the year ending July.",
+      "whyInNews": "This represents a key indicator of conservation efforts and pressures on the world's largest tropical forest.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/brazils-amazon-deforestation-hits-a-record-low/article71595215.ece"
+    },
+    {
+      "point": "The Economics Nobel Award recognizes work with implications for India's economic policies and developmental strategies.",
+      "whyInNews": "This award signifies a globally recognized assessment of research potentially applicable to India’s specific circumstances.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece"
+    },
+    {
+      "point": "Delhi government has imposed restrictions on commercial vehicles adhering to BS-IV emission standards and older models.",
+      "whyInNews": "This reflects ongoing efforts to combat pollution within the national capital.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/delhi-to-ban-bs-iv-and-older-commercial-goods-vehicles-from-november-1/article71593968.ece"
+    },
+    {
+      "point": "ISRO has completed a key test phase for the first uncrewed mission of India's Gaganyaan programme.",
+      "whyInNews": "The test signifies progress towards India’s human spaceflight ambitions and raises implications for national strategic autonomy.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/gaganyaan-isro-completes-key-test-ahead-of-first-uncrewed-mission/article71592436.ece"
+    },
+    {
+      "point": "The United Nations reports that approximately $30 is still invested in activities degrading nature for every dollar spent on protecting it.",
+      "whyInNews": "This statistic underscores the urgent need to re-evaluate global energy policies and redirect investment towards sustainable solutions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-chief-says-subsidising-fossil-fuels-is-subsidising-suicide/article71591488.ece"
+    },
+    {
+      "point": "Nitin Gadkari stated the BJP opposes attempts to settle people in India with a ‘foreign mindset’.",
+      "whyInNews": "This reflects ongoing political tensions surrounding national identity and foreign influence within India.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-has-anarchist-mindset-bjp-nitin-nabin/article71558595.ece"
+    },
+    {
+      "point": "The Indian government is proposing the use of Rupee-denominated settlements for international trade transactions.",
+      "whyInNews": "This initiative aims to reduce reliance on the US dollar and offers a potential solution to current global forex shortages.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/sitharaman-pitches-rupee-mechanism-to-bridge-global-forex-crunch-trade-disruptions/article71592229.ece"
+    },
+    {
+      "point": "India has constructed a nearly one-kilometer highway overpass spanning a highway, rail yard, and golf course to facilitate wildlife movement.",
+      "whyInNews": "This demonstrates an innovative approach to mitigating human-wildlife conflict and preserving biodiversity in areas of high development pressure.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/building-bridges-for-indias-wildlife/article71582783.ece"
+    },
+    {
+      "point": "The World Bank has increased India's FY27 GDP growth forecast to 7.1% based on stronger-than-expected export performance.",
+      "whyInNews": "This revision reflects a shift in global economic outlook and provides updated projections for India’s future economic trajectory.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece"
+    },
+    {
+      "point": "Domestic flight ticket prices have surged significantly, particularly to Bihar and Goa, indicating rising demand and potentially contributing to inflation.",
+      "whyInNews": "The price increases reflect the upcoming holiday season travel rush.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/festive-airfares-shoot-through-the-roof-with-some-domestic-tickets-touching-rs-35000/article71592518.ece"
+    },
+    {
+      "point": "The PIB announced the reintroduction of tigers in Buxa National Park with the primary goal of creating a self-sustaining tiger population.",
+      "whyInNews": "This marks a deliberate and strategic intervention by the government to address declining tiger numbers and establish a long-term conservation strategy.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece"
+    },
+    {
+      "point": "Politicians and economists within the European Union are expressing anxiety regarding China’s substantial export subsidies and their potential impact on core industrial sectors.",
+      "whyInNews": "This highlights a growing global concern about trade imbalances and protectionist measures that could affect India's economic relationships.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/eu-sends-envoy-to-beijing-as-rising-exports-from-china-raise-economic-anxiety/article71558543.ece"
+    },
+    {
+      "point": "The Centre is proposing reforms to the Goods and Services Tax (GST) system at the upcoming GST Council meeting.",
+      "whyInNews": "This includes process, structural, ease-of-doing business, export of services, and e-commerce related changes – all directly impacting India’s economic landscape.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece"
+    },
+    {
+      "point": "The Ministry stated that hosting foreign dignitaries in Mumbai has been a long-standing practice over the past decade.",
+      "whyInNews": "This highlights India’s evolving approach to diplomacy – moving beyond solely relying on Delhi for international engagements and potentially signalling openness to engagement with other regions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/mea-defends-jaishankars-mumbai-meetings-with-rubio/article71593228.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1994,
+      "point": "Russian journalist Dmitry Kholodov is assassinated while investigating corruption in the armed forces.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1992,
+      "point": "Having gone to the wrong house, Japanese student Yoshihiro Hattori is killed by the homeowner in Baton Rouge, Louisiana.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1989,
+      "point": "The East German Politburo votes to remove Erich Honecker from his role as General Secretary.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1980,
+      "point": "As part of the Holy See–United Kingdom relations a British monarch makes the first state visit to the Vatican.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1975,
+      "point": "'Salem's Lot, an American vampire novel by Stephen King, is published.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "OPEC imposes an oil embargo against countries they deem to have helped Israel in the Yom Kippur War.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1969,
+      "point": "The Caravaggio painting Nativity with St. Francis and St. Lawrence is stolen from the Oratory of Saint Lawrence in Palermo.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1961,
+      "point": "The first attempt of the apartheid analogy by Ahmad Shukeiri.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1952,
+      "point": "Indonesian Army elements surrounded the Merdeka Palace demanding President Sukarno disband the Provisional People's Representative Council.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1943,
+      "point": "Nazi Holocaust in Poland: Sobibór extermination camp is closed.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Protests are being suppressed by denying access to sites of demonstration.",
+    "An attacker fatally shot five people at an elementary school in Oregon following a police response.",
+    "The national unemployment rate stands at 5% in September, as reported by the National Statistical Office (NSO).",
+    "Delhi’s draft rolls are flagged with ‘logical discrepancies’ indicating a potential design aimed at disproportionately affecting the Muslim population.",
+    "Donald Trump's deposition agreement was retracted by his lawyers, creating controversy in the $10-billion defamation suit.",
+    "The BS VII draft proposes new standards for electric vehicle battery durability to be introduced in three phases starting from April 2029."
+  ]
+}
