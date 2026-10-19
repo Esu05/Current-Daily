@@ -1,185 +1,185 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "currentAffairs": [
     {
-      "point": "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
-      "whyInNews": "This action is crucial following the SSR (Special Summary Revision) process and aims to improve the integrity of the electoral roll.",
+      "point": "Poor crowd regulation at the Kolkata pandal led to a tragic stampede, exposing vulnerabilities in public safety infrastructure.",
+      "whyInNews": "The incident underscores the need for improved disaster management protocols and emergency response capabilities within densely populated areas.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece"
+    },
+    {
+      "point": "The Saudi coalition intercepted and destroyed four Houthi drones targeting Riyadh, Eastern Province, and the South.",
+      "whyInNews": "This reflects ongoing tensions between Saudi Arabia and Iran, impacting regional stability and India’s maritime security concerns.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/saudi-arabia-intercepts-houthi-drones-as-egypt-weighs-defensive-support/article71599060.ece"
+    },
+    {
+      "point": "Indian Bank's net profit rose by 14.7% to ₹3,462 crore in Q2 due to increased operating profits and a decline in NPAs.",
+      "whyInNews": "This reflects broader trends within the banking sector and provides data for assessing financial stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece"
+    },
+    {
+      "point": "Rolls-Royce is committing £300 million to expand its defense business within the UK.",
+      "whyInNews": "This reflects increasing global demand for advanced aerospace and defence technologies and India’s ongoing efforts to bolster its military capabilities through strategic partnerships.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/rolls-royce-vows-300-mn-for-uk-plants/article71601046.ece"
+    },
+    {
+      "point": "Satish Bhaskar undertook extensive coastal walks across India to identify nesting beaches for sea turtles, contributing to their conservation.",
+      "whyInNews": "The story focuses on a unique and impactful approach to wildlife protection – direct observation and mapping of critical habitats.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/turtle-walker-zoya-akhtar-taira-malaney-satish-bhaskar-animal-planet-documentary-india-epic-wild-stories/article71599741.ece"
+    },
+    {
+      "point": "A tragic boating accident occurred in the Gandak River in Bihar, resulting in multiple fatalities.",
+      "whyInNews": "This event underscores systemic failures regarding safe transport infrastructure and emergency response capabilities within underserved regions.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece"
+    },
+    {
+      "point": "Vice-President Dhankhar met with Sri Lankan representatives to reaffirm India’s position on devolution as per the Indo-Lanka Accord.",
+      "whyInNews": "This highlights a persistent issue of contention and underscores India's role in maintaining stability within its neighborhood.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/sri-lankas-tamil-parties-seek-sustained-indian-push-to-realise-spirit-of-indo-lanka-accord/article70883508.ece"
+    },
+    {
+      "point": "Cashless claim settlement promises a simpler way to handle hospitalisation insurance claims but does not eliminate hospital bills.",
+      "whyInNews": "The story focuses on the practical difficulties faced by patients and insurers regarding cost recovery within cashless healthcare schemes.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/your-claim-may-be-cashless-but-not-costless/article71598982.ece"
+    },
+    {
+      "point": "Commerce and Finance Ministries are discussing the future of key export support schemes due to differing views on their effectiveness.",
+      "whyInNews": "The potential discontinuation of these schemes raises concerns about India’s competitiveness in global markets.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/commerce-finance-ministries-at-odds-over-future-of-key-export-support-schemes/article71600113.ece"
+    },
+    {
+      "point": "Scientists in Argentina and Brazil developed a test to assess the adaptability of nine rodent species to climate change parameters.",
+      "whyInNews": "The methodology is novel and could be applied more broadly across different animal groups and geographical locations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/new-study-proposes-simple-test-to-spot-mammals-most-vulnerable-to-climate/article71587719.ece"
+    },
+    {
+      "point": "Petitions highlight concerns regarding potential restrictions on transparency under the amended RTI Act.",
+      "whyInNews": "The amendment raises fundamental questions about government accountability and citizen participation.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece"
+    },
+    {
+      "point": "Student activist groups staged protests against the Chief Election Commissioner (CEC) Gyanesh Kumar's appointment, accompanied by counter-protests.",
+      "whyInNews": "The event highlights concerns regarding potential political interference in election administration and raises questions about the independence of electoral bodies.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece"
+    },
+    {
+      "point": "The projected rise in India’s 60+ population to 347 million by 2050 necessitates investment in elder care infrastructure and training.",
+      "whyInNews": "This highlights a critical demographic shift with direct implications for social welfare programs and healthcare planning.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece"
+    },
+    {
+      "point": "The CAIT estimates that Delhi's daily commercial turnover of approximately ₹2,200 crore is vulnerable to disruptions due to protests.",
+      "whyInNews": "Protests in Delhi are causing significant economic losses and highlighting vulnerabilities within the city’s business ecosystem.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/protests-in-delhi-put-daily-business-worth-over-400-crore-at-risk-estimates-cait/article71599748.ece"
+    },
+    {
+      "point": "The Election Commission of India (ECI) has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+      "whyInNews": "Following concerns raised about the accuracy of voter lists, particularly in Special Summary Revision (SSR) phases.",
       "gs": "GS2",
       "topic": "Polity",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/a-necessary-corrective-on-the-ssr-the-special-summary-revision-of-electoral-rolls/article71593451.ece"
-    },
-    {
-      "point": "President Zelenskyy expressed concerns about declining U.S. support for Ukraine.",
-      "whyInNews": "This reflects a critical juncture in the Russia-Ukraine conflict and its impact on international security architecture.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece"
-    },
-    {
-      "point": "The Food Safety Standards Authority of India (FSSAI) has proposed new pesticide residue limits for tea products to enhance consumer safety.",
-      "whyInNews": "This regulatory action addresses potential health risks associated with pesticide contamination in a widely consumed food item.",
-      "gs": "GS3",
-      "topic": "Agriculture",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/fssai-proposes-new-pesticide-residue-limits-for-tea-to-protect-consumers/article71597565.ece"
-    },
-    {
-      "point": "The Hindu's Science for All newsletter highlights the role of food waste as a major driver of climate change.",
-      "whyInNews": "This article directly addresses a key environmental challenge with significant implications for India’s sustainable development goals.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-food-waste-a-major-contributor-to-climate-change/article71546619.ece"
-    },
-    {
-      "point": "The United Nations reports that approximately $30 is still invested in activities degrading nature for every dollar spent on protecting it.",
-      "whyInNews": "This statistic underscores the urgent need to re-evaluate global energy policies and redirect investment towards sustainable solutions.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-chief-says-subsidising-fossil-fuels-is-subsidising-suicide/article71591488.ece"
-    },
-    {
-      "point": "The Economics Nobel Award recognizes work with implications for India's economic policies and developmental strategies.",
-      "whyInNews": "This award signifies a globally recognized assessment of research potentially applicable to India’s specific circumstances.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece"
-    },
-    {
-      "point": "The Indian rupee closed at 95.17 against the US dollar after a rise of 19 paise.",
-      "whyInNews": "This reflects RBI’s ongoing efforts to manage currency volatility and its impact on India's trade balance.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/rupee-rises-19-paise-to-close-at-9517-against-us-dollar/article71583687.ece"
-    },
-    {
-      "point": "The government has implemented price caps on 137 cancer drugs to reduce the financial burden on patients.",
-      "whyInNews": "This is a recent policy intervention addressing affordability of essential medicines and its implications for public health.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/govt-notifies-30-cap-on-trade-margins-on-137-cancer-drugs-new-prices-from-november-9/article71597290.ece"
-    },
-    {
-      "point": "India has constructed a nearly one-kilometer highway overpass spanning a highway, rail yard, and golf course to facilitate wildlife movement.",
-      "whyInNews": "This demonstrates an innovative approach to mitigating human-wildlife conflict and preserving biodiversity in areas of high development pressure.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/building-bridges-for-indias-wildlife/article71582783.ece"
-    },
-    {
-      "point": "U.S. Coast Guard and Navy are conducting a search and rescue operation after a boat capsized off the Baja California coast.",
-      "whyInNews": "The incident highlights vulnerabilities in maritime travel and necessitates examination of safety regulations and response protocols.",
-      "gs": "GS3",
-      "topic": "Disaster",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/search-on-after-boat-capsizes-off-baja-california-coast-16-rescued-others-missing/article71597970.ece"
-    },
-    {
-      "point": "The BSE Sensex declined due to rising crude oil prices and inflationary pressures.",
-      "whyInNews": "Market movements reflect investor sentiment regarding macroeconomic risks.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/stock-markets-close-lower-amid-elevated-crude-oil-rising-inflation/article71583631.ece"
-    },
-    {
-      "point": "The case in Pune highlights the continued lack of clear regulations governing bike taxi operations across India.",
-      "whyInNews": "This reflects ongoing debates about safety standards, licensing requirements, and the role of private transport services within urban environments.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/rapido-booked-in-pune-for-allegedly-operating-bike-taxis-without-licence/article71597251.ece"
-    },
-    {
-      "point": "The PIB announced the reintroduction of tigers in Buxa National Park with the primary goal of creating a self-sustaining tiger population.",
-      "whyInNews": "This marks a deliberate and strategic intervention by the government to address declining tiger numbers and establish a long-term conservation strategy.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece"
-    },
-    {
-      "point": "Wholesale Inflation in September 2026 reached a series-high of 11.4% according to the new WPI data.",
-      "whyInNews": "This indicates persistent inflationary pressures impacting India’s economic outlook and requires attention for macroeconomic policy formulation.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/september-wpi-inflation-rises-to-1139-as-food-fuel-and-manufactured-goods-prices-increase/article71582698.ece"
-    },
-    {
-      "point": "North-east monsoon storms have brought heavy rainfall to South India, including Tamil Nadu and Andhra Pradesh.",
-      "whyInNews": "This event highlights the intensity and frequency of extreme weather events linked to climate change.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/imd-declares-arrival-of-north-east-monsoon-over-south-peninsula/article71586984.ece"
     }
   ],
   "history": [
     {
-      "year": 1991,
-      "point": "The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.",
+      "year": 2005,
+      "point": "Saddam Hussein goes on trial in Baghdad for crimes against humanity.",
       "gs": "GS1"
     },
     {
-      "year": 1963,
-      "point": "Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.",
+      "year": 1989,
+      "point": "The convictions of the Guildford Four are quashed by the Court of Appeal of England and Wales, after they had spent 15 years in prison.",
       "gs": "GS1"
     },
     {
-      "year": 1945,
-      "point": "A group of the Venezuelan Armed Forces, led by Mario Vargas, Marcos Pérez Jiménez and Carlos Delgado Chalbaud, stages a coup d'état against president Isaías Medina Angarita, who is overthrown by the end of the day.",
+      "year": 1988,
+      "point": "The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.",
       "gs": "GS1"
     },
     {
-      "year": 1945,
-      "point": "Argentine military officer and politician Juan Perón marries actress Eva Duarte.",
+      "year": 1987,
+      "point": "The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "Black Monday: The Dow Jones Industrial Average falls by 22%, 508 points.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1974,
+      "point": "Niue becomes a self-governing colony of New Zealand.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "President Nixon rejects an Appeals Court decision that he turn over the Watergate tapes.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.",
       "gs": "GS1"
     },
     {
       "year": 1944,
-      "point": "World War II: Soviet Union begins the liberation of Czechoslovakia from Nazi Germany.",
+      "point": "A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.",
       "gs": "GS1"
     },
     {
-      "year": 1944,
-      "point": "World War II: The state funeral of Field Marshal Erwin Rommel takes place in Ulm, Germany.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1929,
-      "point": "The Judicial Committee of the Privy Council overrules the Supreme Court of Canada in Edwards v. Canada when it declares that women are considered \"Persons\" under Canadian law.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1922,
-      "point": "The British Broadcasting Company (later Corporation) is founded by a consortium, to establish a nationwide network of radio transmitters to provide a national broadcasting service.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1921,
-      "point": "The Crimean Autonomous Soviet Socialist Republic is formed as part of the Russian Soviet Federative Socialist Republic.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1912,
-      "point": "The Kingdom of Italy and the Ottoman Empire sign the treaty of Ouchy, by which the Italo-Turkish War is ended and the Ottomans loose Libya to Italy.",
+      "year": 1943,
+      "point": "Streptomycin, the first antibiotic remedy for tuberculosis, is isolated by researchers at Rutgers University.",
       "gs": "GS1"
     }
   ],
   "revision": [
     "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+    "President Zelenskyy expressed concerns about declining U.S. support for Ukraine.",
+    "The Food Safety Standards Authority of India (FSSAI) has proposed new pesticide residue limits for tea products to enhance consumer safety.",
+    "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
     "Deforestation rates in Brazil’s Amazon rainforest have fallen to an all-time low of 3,335 square kilometers for the year ending July.",
-    "The Economics Nobel Award recognizes work with implications for India's economic policies and developmental strategies.",
-    "Protests are being suppressed by denying access to sites of demonstration.",
-    "An attacker fatally shot five people at an elementary school in Oregon following a police response.",
-    "The national unemployment rate stands at 5% in September, as reported by the National Statistical Office (NSO)."
+    "The Economics Nobel Award recognizes work with implications for India's economic policies and developmental strategies."
   ]
 }

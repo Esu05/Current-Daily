@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-19",
+  "currentAffairs": [
+    {
+      "point": "Poor crowd regulation at the Kolkata pandal led to a tragic stampede, exposing vulnerabilities in public safety infrastructure.",
+      "whyInNews": "The incident underscores the need for improved disaster management protocols and emergency response capabilities within densely populated areas.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece"
+    },
+    {
+      "point": "The Saudi coalition intercepted and destroyed four Houthi drones targeting Riyadh, Eastern Province, and the South.",
+      "whyInNews": "This reflects ongoing tensions between Saudi Arabia and Iran, impacting regional stability and India’s maritime security concerns.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/saudi-arabia-intercepts-houthi-drones-as-egypt-weighs-defensive-support/article71599060.ece"
+    },
+    {
+      "point": "Indian Bank's net profit rose by 14.7% to ₹3,462 crore in Q2 due to increased operating profits and a decline in NPAs.",
+      "whyInNews": "This reflects broader trends within the banking sector and provides data for assessing financial stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece"
+    },
+    {
+      "point": "Rolls-Royce is committing £300 million to expand its defense business within the UK.",
+      "whyInNews": "This reflects increasing global demand for advanced aerospace and defence technologies and India’s ongoing efforts to bolster its military capabilities through strategic partnerships.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/rolls-royce-vows-300-mn-for-uk-plants/article71601046.ece"
+    },
+    {
+      "point": "Satish Bhaskar undertook extensive coastal walks across India to identify nesting beaches for sea turtles, contributing to their conservation.",
+      "whyInNews": "The story focuses on a unique and impactful approach to wildlife protection – direct observation and mapping of critical habitats.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/turtle-walker-zoya-akhtar-taira-malaney-satish-bhaskar-animal-planet-documentary-india-epic-wild-stories/article71599741.ece"
+    },
+    {
+      "point": "A tragic boating accident occurred in the Gandak River in Bihar, resulting in multiple fatalities.",
+      "whyInNews": "This event underscores systemic failures regarding safe transport infrastructure and emergency response capabilities within underserved regions.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece"
+    },
+    {
+      "point": "Vice-President Dhankhar met with Sri Lankan representatives to reaffirm India’s position on devolution as per the Indo-Lanka Accord.",
+      "whyInNews": "This highlights a persistent issue of contention and underscores India's role in maintaining stability within its neighborhood.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/sri-lankas-tamil-parties-seek-sustained-indian-push-to-realise-spirit-of-indo-lanka-accord/article70883508.ece"
+    },
+    {
+      "point": "Cashless claim settlement promises a simpler way to handle hospitalisation insurance claims but does not eliminate hospital bills.",
+      "whyInNews": "The story focuses on the practical difficulties faced by patients and insurers regarding cost recovery within cashless healthcare schemes.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/your-claim-may-be-cashless-but-not-costless/article71598982.ece"
+    },
+    {
+      "point": "Commerce and Finance Ministries are discussing the future of key export support schemes due to differing views on their effectiveness.",
+      "whyInNews": "The potential discontinuation of these schemes raises concerns about India’s competitiveness in global markets.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/commerce-finance-ministries-at-odds-over-future-of-key-export-support-schemes/article71600113.ece"
+    },
+    {
+      "point": "Scientists in Argentina and Brazil developed a test to assess the adaptability of nine rodent species to climate change parameters.",
+      "whyInNews": "The methodology is novel and could be applied more broadly across different animal groups and geographical locations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/new-study-proposes-simple-test-to-spot-mammals-most-vulnerable-to-climate/article71587719.ece"
+    },
+    {
+      "point": "Petitions highlight concerns regarding potential restrictions on transparency under the amended RTI Act.",
+      "whyInNews": "The amendment raises fundamental questions about government accountability and citizen participation.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece"
+    },
+    {
+      "point": "Student activist groups staged protests against the Chief Election Commissioner (CEC) Gyanesh Kumar's appointment, accompanied by counter-protests.",
+      "whyInNews": "The event highlights concerns regarding potential political interference in election administration and raises questions about the independence of electoral bodies.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece"
+    },
+    {
+      "point": "The projected rise in India’s 60+ population to 347 million by 2050 necessitates investment in elder care infrastructure and training.",
+      "whyInNews": "This highlights a critical demographic shift with direct implications for social welfare programs and healthcare planning.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece"
+    },
+    {
+      "point": "The CAIT estimates that Delhi's daily commercial turnover of approximately ₹2,200 crore is vulnerable to disruptions due to protests.",
+      "whyInNews": "Protests in Delhi are causing significant economic losses and highlighting vulnerabilities within the city’s business ecosystem.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/protests-in-delhi-put-daily-business-worth-over-400-crore-at-risk-estimates-cait/article71599748.ece"
+    },
+    {
+      "point": "The Election Commission of India (ECI) has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+      "whyInNews": "Following concerns raised about the accuracy of voter lists, particularly in Special Summary Revision (SSR) phases.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/a-necessary-corrective-on-the-ssr-the-special-summary-revision-of-electoral-rolls/article71593451.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2005,
+      "point": "Saddam Hussein goes on trial in Baghdad for crimes against humanity.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1989,
+      "point": "The convictions of the Guildford Four are quashed by the Court of Appeal of England and Wales, after they had spent 15 years in prison.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1988,
+      "point": "The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "Black Monday: The Dow Jones Industrial Average falls by 22%, 508 points.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1974,
+      "point": "Niue becomes a self-governing colony of New Zealand.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "President Nixon rejects an Appeals Court decision that he turn over the Watergate tapes.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1943,
+      "point": "Streptomycin, the first antibiotic remedy for tuberculosis, is isolated by researchers at Rutgers University.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+    "President Zelenskyy expressed concerns about declining U.S. support for Ukraine.",
+    "The Food Safety Standards Authority of India (FSSAI) has proposed new pesticide residue limits for tea products to enhance consumer safety.",
+    "The Election Commission of India has announced a summary revision of electoral rolls to address discrepancies and ensure accurate voter registration.",
+    "Deforestation rates in Brazil’s Amazon rainforest have fallen to an all-time low of 3,335 square kilometers for the year ending July.",
+    "The Economics Nobel Award recognizes work with implications for India's economic policies and developmental strategies."
+  ]
+}
