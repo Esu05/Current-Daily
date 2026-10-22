@@ -1,53 +1,77 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "currentAffairs": [
     {
-      "point": "India’s increasing data breach incidents necessitate enhanced detection and prevention capabilities as highlighted by the CERT-In advisory.",
-      "whyInNews": "The advisory underscores a growing concern regarding cybersecurity threats impacting national infrastructure and citizen data.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece"
-    },
-    {
-      "point": "India and the United States are close to finalizing a Bilateral Trade Agreement.",
-      "whyInNews": "The deal's progress reflects ongoing diplomatic efforts and potential benefits for both nations’ energy and defense sectors.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece"
-    },
-    {
-      "point": "The North of England is seeking to unlock the potential of the India-U.K. trade pact through regional partnerships.",
-      "whyInNews": "This highlights a key element – increased trade – within the existing UK-India trade agreement and its potential expansion.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/moves-by-the-north-of-england-to-unlock-india-trade/article71605182.ece"
-    },
-    {
-      "point": "The Indian Government has announced a Rs3/litre reduction in the purchase price of maize-based ethanol from distilleries.",
-      "whyInNews": "This intervention aims to balance distortions within the biofuel market and is linked to sugar sector’s welcome of the decision.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-govts-price-correction-of-ethanol-from-maize-may-help-balance-distortion/article71604610.ece"
-    },
-    {
-      "point": "Researchers have identified 'heat storms' as distinct weather phenomena characterized by rapid temperature increases.",
-      "whyInNews": "The concept’s emergence from a detailed analysis of global temperatures provides crucial data for climate modelling and risk assessment.",
+      "point": "The WMO reports a projected sea surface temperature rise of 3.8 degrees Celsius above average during the November 2026 to January 2027 El Nino event in the tropical Pacific.",
+      "whyInNews": "This highlights an extreme weather scenario and potential impacts on global climate patterns, requiring monitoring and India’s adaptation strategies.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-are-heat-storms/article71604489.ece"
+      "url": "https://www.thehindu.com/news/international/wmo-warns-the-current-el-nino-could-be-unprecedented-in-strength/article71609858.ece"
     },
     {
-      "point": "Shiv Sena (UBT) activists staged a protest demanding justice for students affected by paper leaks, reflecting concerns about corruption within the education system.",
-      "whyInNews": "The event underscores persistent issues of farmer distress and student grievances – key areas of concern for UPSC examination.",
+      "point": "The government is planning to incorporate agrivoltaic projects into the PM-Kusum scheme.",
+      "whyInNews": "This reflects a growing focus on innovative solutions for energy and food security within India’s renewable energy strategy.",
       "gs": "GS3",
       "topic": "Agriculture",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece"
+      "url": "https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece"
+    },
+    {
+      "point": "The Wiikwemkoong First Nation community is utilizing data centre technology to safeguard its heritage and language recordings.",
+      "whyInNews": "This demonstrates a localized solution for cultural preservation, relevant to discussions on indigenous rights and digital archiving.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece"
+    },
+    {
+      "point": "The UNEP report sets specific emission cut targets (18%, 45% & 69%) by 2030, 2035 and 2040 respectively to achieve a 1.5°C warming limit.",
+      "whyInNews": "This highlights the urgency of climate action and India’s role in meeting global targets.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/drastic-emission-cuts-can-help-return-to-15c-warming-by-2100-unep/article71607543.ece"
+    },
+    {
+      "point": "The Food Safety Standards Authority of India (FSSAI) is proposing expanded restrictions to prohibit the addition of all added sugars in infant foods.",
+      "whyInNews": "This reflects growing concerns about childhood obesity and nutritional deficiencies linked to excessive sugar consumption.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece"
+    },
+    {
+      "point": "India’s currency recorded its eighth consecutive day of gains driven by initial public offering (IPO) inflows.",
+      "whyInNews": "This reflects current market sentiment and potential impacts on foreign investment and exchange rate management.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/markets/rupee-closes-at-six-week-high-of-9443-driven-by-jio-ipo-rbi-intervention/article71607257.ece"
+    },
+    {
+      "point": "The WMO reports that Pacific Ocean temperatures could rise by 3.8°C above average during November-January due to the potential strength of El Niño.",
+      "whyInNews": "This highlights a critical climate event with potentially severe consequences for global weather and requires monitoring by UPSC.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/el-nino-may-reach-unprecedented-strength-raising-global-weather-risks-wmo/article71608496.ece"
+    },
+    {
+      "point": "The Great Nicobar Project is being examined for its potential detrimental impact on the environment.",
+      "whyInNews": "Frontline's investigation highlights growing environmental anxieties surrounding a major government-led development initiative.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/this-talk-in-chennai-will-explore-the-great-nicobar-project-and-its-environmental-costs/article71604591.ece"
+    },
+    {
+      "point": "BJD has accused BJP of employing personal attacks against Odisha Chief Minister Naveen Patnaik following his comments regarding CJP leaders’ release demands.",
+      "whyInNews": "This highlights a key political rivalry and potential for polarization within India.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece"
     },
     {
       "point": "Economic difficulties are contributing to public dissatisfaction within France under Macron’s leadership.",
@@ -58,128 +82,104 @@
       "url": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece"
     },
     {
-      "point": "The Government has decided not to regulate airfares, allowing airlines greater pricing freedom.",
-      "whyInNews": "This reflects a shift in government approach towards liberalizing the aviation sector and highlights potential implications for consumer costs.",
+      "point": "North Korea has issued a direct threat related to border tensions with South Korea.",
+      "whyInNews": "This statement reflects heightened military posturing and the potential for miscalculation on both sides.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece"
+    },
+    {
+      "point": "Demand for luxury cars, specifically Ferraris, in India has surged due to anticipated duty reductions under the upcoming India-EU Free Trade Agreement.",
+      "whyInNews": "The news highlights a direct economic consequence of an ongoing trade negotiation and signals potential shifts in import patterns.",
       "gs": "GS3",
       "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/anticipation-over-upcoming-eu-fta-more-than-doubles-ferrari-orders-in-india/article71607082.ece"
+    },
+    {
+      "point": "Karnataka sugarcane farmers have suspended their agitation following the Chief Minister's request to the Prime Minister regarding revisions to the sugar Minimum Support Price (MSP) and restoration of the Fair & Remunerative Pricing (FRP) base.",
+      "whyInNews": "This highlights a contentious issue between state governments, central policy, and farmer welfare – directly relevant to agricultural policies and food security.",
+      "gs": "GS3",
+      "topic": "Agriculture",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/new-rules-govt-may-cap-unjustified-airfares-on-individual-routes/article71604886.ece"
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/karanataka-sugarcane-farmers-suspend-agitation/article71608020.ece"
     },
     {
-      "point": "West Bengal CM Suvendu Adhikari criticized the Left parties' book sales at Durga Puja pandals, highlighting potential infringements on freedom of expression and religious practices.",
-      "whyInNews": "This event reflects a broader tension between political groups and cultural celebrations within West Bengal, demanding attention to constitutional rights and secularism.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece"
-    },
-    {
-      "point": "Poor crowd regulation contributed to the tragic collapse of pandals during Durga Puja celebrations in Kolkata.",
-      "whyInNews": "The incident underscores systemic failures in disaster management planning and execution within densely populated urban areas.",
-      "gs": "GS3",
-      "topic": "Disaster",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/beyond-religiosity-on-the-kolkata-pandal-tragedy/article71600037.ece"
-    },
-    {
-      "point": "Robert Hall and Michael Woodford’s work emphasizes the importance of people as the core component of an economy.",
-      "whyInNews": "The Nobel Prize recognition signals a potentially influential new approach to economic modeling and policy recommendations.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece"
-    },
-    {
-      "point": "The India-New Zealand FTA has been operationalized, granting duty-free access to Indian goods in key sectors.",
-      "whyInNews": "This marks a shift in trade policy with potential implications for domestic industries and global competition.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/india-new-zealand-fta-kicks-in-duty-free-access-for-indian-goods-gains-hinge-on-competitiveness/article71604920.ece"
-    },
-    {
-      "point": "Two lab experiments successfully brought bleached corals back to luminous life.",
-      "whyInNews": "This breakthrough offers potential new approaches to coral reef restoration efforts in the face of rising ocean temperatures.",
+      "point": "Researchers have identified 'heat storms' as distinct weather phenomena characterized by rapid temperature increases.",
+      "whyInNews": "The concept’s emergence from a detailed analysis of global temperatures provides crucial data for climate modelling and risk assessment.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bleached-corals-brought-back-to-luminous-life-in-two-lab-experiments/article71602221.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-are-heat-storms/article71604489.ece"
     },
     {
-      "point": "A significant number of people died in a boat accident in Bihar due to unsafe transport conditions.",
-      "whyInNews": "The incident underscores the urgent need for improved infrastructure and safety measures in remote regions.",
-      "gs": "GS3",
-      "topic": "Disaster",
+      "point": "Haryana Congress has raised serious grievances regarding law and order failures, farmer distress, unemployment, corruption, and healthcare deficiencies within the state.",
+      "whyInNews": "This directly relates to government performance and key socio-economic challenges impacting India.",
+      "gs": "GS2",
+      "topic": "Governance",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/treacherous-waters-on-the-bihar-boat-tragedy/article71599919.ece"
-    },
-    {
-      "point": "India has launched two new Temporary Employment Entry (TEE) visa categories to attract skilled workers.",
-      "whyInNews": "The FTA’s implementation signifies a shift in India's trade and immigration strategies following negotiations with New Zealand.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece"
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece"
     }
   ],
   "history": [
     {
-      "year": 1994,
-      "point": "North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.",
+      "year": 2015,
+      "point": "Anton Lundin Pettersson attacks a school in Trollhättan, killing three people and injuring two others.",
       "gs": "GS1"
     },
     {
-      "year": 1994,
-      "point": "In Seoul, South Korea, 32 people are killed when a span of the Seongsu Bridge collapses.",
+      "year": 2008,
+      "point": "India launches its first uncrewed lunar probe mission Chandrayaan-1.",
       "gs": "GS1"
     },
     {
-      "year": 1986,
-      "point": "In Lebanon, pro-Iran kidnappers claim to have abducted American writer Edward Tracy (he is released in August 1991).",
+      "year": 2007,
+      "point": "A raid on Anuradhapura Air Force Base is carried out by 21 Tamil Tiger commandos, with all except one dying in this attack. Eight Sri Lanka Air Force planes are destroyed and ten damaged.",
       "gs": "GS1"
     },
     {
-      "year": 1984,
-      "point": "Niki Lauda claims his third and final Formula One Drivers' Championship Title by half a point ahead of McLaren team-mate Alain Prost at the Portuguese Grand Prix.",
+      "year": 2006,
+      "point": "A Panama Canal expansion proposal is approved by 77.8% of voters in a national referendum.",
       "gs": "GS1"
     },
     {
-      "year": 1978,
-      "point": "Australian civilian pilot Frederick Valentich vanishes over the Bass Strait south of Melbourne, after reporting contact with an unidentified aircraft.",
+      "year": 1987,
+      "point": "John Adams' opera Nixon in China premiered at the Houston Grand Opera.",
       "gs": "GS1"
     },
     {
-      "year": 1973,
-      "point": "Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.",
+      "year": 1962,
+      "point": "Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval...",
       "gs": "GS1"
     },
     {
-      "year": 1969,
-      "point": "The 1969 Somali coup d'état establishes a Marxist–Leninist administration.",
+      "year": 1946,
+      "point": "Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment.",
       "gs": "GS1"
     },
     {
-      "year": 1967,
-      "point": "The National Mobilization Committee to End the War in Vietnam organizes a march of fifty thousand people from the Lincoln Memorial to the Pentagon.",
+      "year": 1383,
+      "point": "The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.",
       "gs": "GS1"
     },
     {
-      "year": 1959,
-      "point": "President Dwight D. Eisenhower approves the transfer of all US Army space-related activities to NASA, including most of the Army Ballistic Missile Agency.",
+      "year": 451,
+      "point": "The Chalcedonian Creed, regarding the divine and human nature of Jesus, is adopted by the Council of Chalcedon, an ecumenical council.",
       "gs": "GS1"
     },
     {
-      "year": 1950,
-      "point": "Korean War: Heavy fighting begins between British and Australian forces and North Koreans during the Battle of Yongju.",
+      "year": 1964,
+      "point": "The first volume of Ian Fleming's children's novel Chitty-Chitty-Bang-Bang was published posthumously.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "India’s increasing data breach incidents necessitate enhanced detection and prevention capabilities as highlighted by the CERT-In advisory.",
+    "India and the United States are close to finalizing a Bilateral Trade Agreement.",
+    "The North of England is seeking to unlock the potential of the India-U.K. trade pact through regional partnerships.",
     "Poor crowd regulation contributed to the tragic collapse of pandals during Durga Puja celebrations in Kolkata.",
     "Two Indian nationals have been charged with voter fraud in California during the November 2024 U.S. elections.",
-    "Maersk has established its first planned drydocking facility in India through a partnership with L&T Shipyard at Kattupalli.",
-    "Poor crowd regulation at the Kolkata pandal led to a tragic stampede, exposing vulnerabilities in public safety infrastructure.",
-    "The Saudi coalition intercepted and destroyed four Houthi drones targeting Riyadh, Eastern Province, and the South.",
-    "Indian Bank's net profit rose by 14.7% to ₹3,462 crore in Q2 due to increased operating profits and a decline in NPAs."
+    "Maersk has established its first planned drydocking facility in India through a partnership with L&T Shipyard at Kattupalli."
   ]
 }
