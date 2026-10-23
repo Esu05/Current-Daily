@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-23",
+  "currentAffairs": [
+    {
+      "point": "India's core industrial sectors have shown signs of slowing growth in the latest PMI figures.",
+      "whyInNews": "This data reflects concerns about future economic performance and potential policy implications.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/canary-in-the-coal-mine-on-performance-of-indias-core-industrial-sectors/article71611800.ece"
+    },
+    {
+      "point": "India has extended its duty-free raw sugar import allowance to December 31st, providing importers additional time to fulfill their commitments.",
+      "whyInNews": "This reflects ongoing government efforts to manage fluctuations in the global sugar market and address domestic supply shortages.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-extends-duty-free-raw-sugar-import-deadline-to-december-31/article71613173.ece"
+    },
+    {
+      "point": "The Green Climate Fund has made its first allocation of $20 million to Nepal following the August disasters.",
+      "whyInNews": "This marks a key milestone in the fund’s operationalization and highlights the growing recognition of climate-induced loss and damage globally.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece"
+    },
+    {
+      "point": "SEBI has issued a warning regarding fraudulent stock-tip WhatsApp groups to protect investors.",
+      "whyInNews": "This highlights the growing problem of misinformation and manipulation within investment spaces.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups/article71613503.ece"
+    },
+    {
+      "point": "A magnitude 7.0 earthquake struck Tibet, resulting in at least sixteen deaths and widespread destruction of homes.",
+      "whyInNews": "The event highlights the ongoing seismic vulnerability of Himalayan regions and demands attention to disaster preparedness and response protocols.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece"
+    },
+    {
+      "point": "State Bank of India (SBI) is developing an integrated Cyber Defence Centre to bolster its IT security infrastructure.",
+      "whyInNews": "The news highlights SBI’s proactive measures regarding cyber threats and the timeline for establishing a dedicated defense center.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/sbis-cyber-defences-under-scrutiny-its-cyber-defence-centre-to-be-operational-by-fy27/article71610953.ece"
+    },
+    {
+      "point": "India's petroleum product exports are likely to wane due to increased domestic consumption.",
+      "whyInNews": "The summary highlights the primary driver of reduced export potential – strong domestic demand for diesel and industrial activity.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/indias-petroleum-product-exports-likely-to-wane-during-october-december-2026/article71612430.ece"
+    },
+    {
+      "point": "Bryde's whales found on Gujarat beaches are listed as Protected Species under the Wildlife Protection Act of 1972.",
+      "whyInNews": "The story underscores a lack of public awareness regarding protected species and potential challenges in effective wildlife protection.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece"
+    },
+    {
+      "point": "Nitin Nabin, as BJP President, addressed party workers at the inaugural session of the Jharkhand BJP State Working Committee meeting.",
+      "whyInNews": "This highlights the BJP’s organizational efforts and activities within a key state ahead of potential elections.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/bjp-president-nitin-nabin-on-a-three-day-visit-to-jharkhand-from-october-23/article71611494.ece"
+    },
+    {
+      "point": "The VB-GRAM G Act replaces the MGNREGA, potentially weakening the rural right to work framework established by the National Rural Employment Guarantee Act.",
+      "whyInNews": "This shift raises concerns about funding levels, wage standards and the overall effectiveness of a key government scheme in addressing poverty and unemployment.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece"
+    },
+    {
+      "point": "The Wiikwemkoong First Nation community is utilizing data centre technology to safeguard its heritage and language recordings.",
+      "whyInNews": "This demonstrates a localized solution for cultural preservation, relevant to discussions on indigenous rights and digital archiving.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece"
+    },
+    {
+      "point": "The Food Safety Standards Authority of India (FSSAI) is proposing expanded restrictions to prohibit the addition of all added sugars in infant foods.",
+      "whyInNews": "This reflects growing concerns about childhood obesity and nutritional deficiencies linked to excessive sugar consumption.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece"
+    },
+    {
+      "point": "The government is planning to incorporate agrivoltaic projects into the PM-Kusum scheme.",
+      "whyInNews": "This reflects a growing focus on innovative solutions for energy and food security within India’s renewable energy strategy.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece"
+    },
+    {
+      "point": "The Indian Food Ministry has directed states to ensure no sugar is diverted from supply for ethanol production.",
+      "whyInNews": "This action addresses potential disruptions in the ethanol blending program and safeguards food grain availability.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-food-ministry-asks-states-to-ensure-no-sugar-is-diverted-for-ethanol/article71612452.ece"
+    },
+    {
+      "point": "Millions of blue tiger and dark blue tiger butterflies are undertaking an annual migratory journey towards the Western Ghats.",
+      "whyInNews": "This migration signals a new phase in their life cycle and highlights the importance of monitoring butterfly populations for ecological health.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/butterfly-migration-blue-tigers-head-towards-western-ghats-with-the-onset-of-north-east-monsoon/article71606604.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2020,
+      "point": "Second Libyan Civil War: The Second Libyan Civil War comes to an end as all parties to the 5+5 Joint Libyan Military Commission agree to a ceasefire.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2011,
+      "point": "The Libyan National Transitional Council deems the Libyan Civil War over.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1998,
+      "point": "Israel and the Palestinian Authority sign the Wye River Memorandum.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1955,
+      "point": "Prime Minister Ngô Đình Diệm defeats former emperor Bảo Đại in a referendum and founds the Republic of Vietnam.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "World War II: The Battle of Leyte Gulf begins.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "World War II: Allied forces commence the Second Battle of El Alamein, which proves to be the key turning point in the North African campaign.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "World War II: The Battle for Henderson Field begins on Guadalcanal.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1906,
+      "point": "Alberto Santos-Dumont flies an airplane in the first heavier-than-air flight in Europe.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1812,
+      "point": "General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign.",
+      "gs": "GS1"
+    },
+    {
+      "year": 502,
+      "point": "The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The WMO reports a projected sea surface temperature rise of 3.8 degrees Celsius above average during the November 2026 to January 2027 El Nino event in the tropical Pacific.",
+    "The government is planning to incorporate agrivoltaic projects into the PM-Kusum scheme.",
+    "The Wiikwemkoong First Nation community is utilizing data centre technology to safeguard its heritage and language recordings.",
+    "India’s increasing data breach incidents necessitate enhanced detection and prevention capabilities as highlighted by the CERT-In advisory.",
+    "India and the United States are close to finalizing a Bilateral Trade Agreement.",
+    "The North of England is seeking to unlock the potential of the India-U.K. trade pact through regional partnerships."
+  ]
+}
