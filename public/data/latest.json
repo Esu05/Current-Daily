@@ -1,57 +1,73 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "currentAffairs": [
     {
-      "point": "The International Atomic Energy Agency (IAEA) projects a significant rise in nuclear power generation globally by 2060 due to increasing electricity demand and technological advancements.",
-      "whyInNews": "This reflects evolving energy strategies and the role of carbon-free sources, aligning with discussions on climate change mitigation.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/nuclear-power-could-more-than-triple-by-2060-un-agency-says/article71618915.ece"
-    },
-    {
-      "point": "IndusInd Bank reported a record Q2 profit of ₹1,242 crore driven by net interest income growth.",
-      "whyInNews": "The report provides key indicators for assessing the health and performance of India’s banking sector.",
+      "point": "Indonesia has reduced its natural gas exports to Singapore by approximately 9 mmscfd due to supply constraints.",
+      "whyInNews": "This reflects shifts in global energy markets and highlights Indonesia’s role as a significant LNG supplier.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece"
+      "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
     },
     {
-      "point": "A 17% drop in kharif maize output due to drought in Karnataka and Maharashtra poses a significant threat to national food production.",
-      "whyInNews": "The news highlights the vulnerability of key crops to climate-related events and their impact on India’s agricultural landscape.",
+      "point": "A rice-focused approach to ethanol procurement is driving concerns about the sustainability of India’s biofuel program.",
+      "whyInNews": "The tender outcome reflects ongoing debates regarding optimal feedstock choices for government-backed renewable energy initiatives.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/ethanol-tender-sparks-feedstock-concerns-as-rice-gains-ground-over-maize/article71620019.ece"
+    },
+    {
+      "point": "The Centre has issued 11 crore farmer IDs under the AgriStack scheme.",
+      "whyInNews": "This represents a significant step in digitizing agricultural operations and improving government service delivery to farmers.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/centre-issues-11-crore-farmer-ids-under-agristack-26-are-women/article71620251.ece"
+    },
+    {
+      "point": "A shifting oceanic phenomenon known as ‘Victoria Mode’ is causing increased semi-arid conditions in northwest India.",
+      "whyInNews": "Scientists from IMD and the Indian Institute of Tropical Meteorology have identified this cycle as a key driver of drought risk.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-distant-pacific-phenomenon-may-be-drying-indias-north-says-study/article71620192.ece"
+    },
+    {
+      "point": "RBI Bulletin indicates a broadening increase in food price inflation across commodities.",
+      "whyInNews": "This reflects broader inflationary pressures impacting the Indian economy and requires attention from policymakers.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece"
+    },
+    {
+      "point": "India's basmati rice yield is projected to increase by 5-10% due to favorable monsoon conditions.",
+      "whyInNews": "The report highlights a key factor influencing agricultural output and national food security.",
       "gs": "GS3",
       "topic": "Agriculture",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/livestock-sector-estimates-17-drop-in-kharif-maize-output-due-to-drought-in-karnataka-maharashtra/article71616713.ece"
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-basmati-rice-yield-likely-to-be-5-10-higher-this-year-industry-leader/article71619944.ece"
     },
     {
-      "point": "The current instrumental record shows a brewing El Niño event with unusually high Pacific temperatures.",
-      "whyInNews": "El Niño events are known to disrupt monsoon patterns and have cascading effects on agriculture and water resources – key areas of concern for UPSC.",
+      "point": "A CEEW study revealed that only half of rooftop solar adopters monitor system performance daily, highlighting a critical need for improved monitoring and maintenance practices.",
+      "whyInNews": "The report underscores the operational challenges impacting the effectiveness of India’s burgeoning rooftop solar sector.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-rooftop-solar-panels-need-regular-maintenance/article71620979.ece"
     },
     {
-      "point": "West Asia crisis is driving up oil prices, contributing to inflationary pressures.",
-      "whyInNews": "RBI’s assessment reflects the immediate macroeconomic risks facing India due to global energy market volatility.",
+      "point": "Over 10 people have died in Madhya Pradesh from alleged consumption of contaminated alcohol, highlighting serious lapses in regulatory oversight.",
+      "whyInNews": "This incident underscores the ongoing issue of spurious liquor and its devastating impact on public health across several states.",
       "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/indian-economy-anchored-by-solid-macroeconomic-fundamentals-and-policy-interventions-rbi-bulletin/article71616589.ece"
-    },
-    {
-      "point": "The UN's Loss and Damage Fund has initiated payouts to Nepal following pledges of $822.06 million for countries impacted by climate change.",
-      "whyInNews": "This marks the first disbursement from this newly established mechanism, highlighting its operationalization and potential impact on vulnerable nations.",
-      "gs": "GS2",
-      "topic": "IR",
+      "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece"
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/another-alleged-hooch-tragedy-claims-over-10-in-madhya-pradesh-district-administration-denies/article71620685.ece"
     },
     {
-      "point": "India's core industrial sectors have shown signs of slowing growth in the latest PMI figures.",
-      "whyInNews": "This data reflects concerns about future economic performance and potential policy implications.",
+      "point": "India's core industrial sectors have shown signs of slowing growth according to recent data releases.",
+      "whyInNews": "This signals a potentially significant economic trend requiring monitoring by UPSC candidates.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
@@ -59,97 +75,111 @@
     },
     {
       "point": "Bharat Petroleum reported a decline in net profit due to volatile crude prices.",
-      "whyInNews": "This highlights the vulnerability of Indian oil companies to global commodity price fluctuations and their impact on profitability.",
+      "whyInNews": "This highlights the vulnerability of state-owned oil companies to global commodity market fluctuations and underscores macroeconomic challenges.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece"
     },
     {
-      "point": "The Tamil Nadu government has reduced ATF (Aviation Turbine Fuel) tax rates at Chennai airport from 29% to 16%, and at other TN airports to 1%.",
-      "whyInNews": "This reduction is expected to lower airlines’ operating costs, potentially impacting air ticket prices for consumers.",
+      "point": "Cordelia Cruises launched its second vessel, Cordelia Sky, marking an expansion in the Indian cruise industry.",
+      "whyInNews": "This signifies a growing investment in tourism and potentially impacts port infrastructure development and related economic activities.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/chennai-airport-atf-tax-cut-to-16-from-29-rate-slashed-to-1-for-other-tn-airports/article71616683.ece"
+      "url": "https://www.thehindubusinessline.com/economy/logistics/cordelia-cruises-launches-cordelia-sky-expands-fleet-to-two-ships/article71619024.ece"
     },
     {
-      "point": "Bryde's whales found on Gujarat beaches are listed as Protected Species under the Wildlife Protection Act of 1972.",
-      "whyInNews": "The story underscores a lack of public awareness regarding protected species and potential challenges in effective wildlife protection.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece"
-    },
-    {
-      "point": "Bhupen Hazarika's birth centenary celebrations are being marked by the inaugural presentation of the newly established Bhupen Hazarika National Award.",
-      "whyInNews": "The event is taking place at a prominent location (Bharat Mandapam) with the Prime Minister’s direct involvement, highlighting its importance.",
-      "gs": "GS1",
-      "topic": "History",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece"
-    },
-    {
-      "point": "HPCL is shifting from FOB (Free on Board) to landed basis procurement of crude oil.",
-      "whyInNews": "This reflects current volatile global crude oil markets and a focus on minimizing import costs.",
+      "point": "Ashoke Sen has received the Oskar Klein Medal, internationally recognized for his pioneering work in string field theory.",
+      "whyInNews": "This award signifies a major advancement in theoretical physics and India's role within it.",
       "gs": "GS3",
-      "topic": "Economy",
+      "topic": "Sci-Tech",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/crude-oil-sourcing-presently-volatile-procuring-more-on-landed-basis-hpcl-chief/article71616945.ece"
-    },
-    {
-      "point": "The Wiikwemkoong First Nation community is utilizing data centre technology to safeguard its heritage and language recordings.",
-      "whyInNews": "This demonstrates a localized solution for cultural preservation, relevant to discussions on indigenous rights and digital archiving.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece"
+      "url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece"
     },
     {
       "point": "Millions of blue tiger and dark blue tiger butterflies are undertaking an annual migratory journey towards the Western Ghats.",
-      "whyInNews": "This migration signals a new phase in their life cycle and highlights the importance of monitoring butterfly populations for ecological health.",
+      "whyInNews": "This migration signals a new phase in their life cycle and highlights the importance of monsoon patterns for ecological processes.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/butterfly-migration-blue-tigers-head-towards-western-ghats-with-the-onset-of-north-east-monsoon/article71606604.ece"
     },
     {
-      "point": "Nineteen people died in a stampede at a Durga Puja pandal in Kolkata due to overcrowding and poor conditions.",
-      "whyInNews": "The incident raises concerns about safety standards during large public gatherings and the government’s response to disaster situations.",
+      "point": "A bus carrying passengers was killed and injured due to a mudslide triggered by heavy rainfall in the Nilgiris district of Tamil Nadu.",
+      "whyInNews": "The event highlights India’s vulnerability to extreme weather events and necessitates discussion on disaster preparedness, early warning systems, and infrastructure resilience.",
       "gs": "GS3",
       "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece"
+      "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+    },
+    {
+      "point": "China is restricting the export of TBM technology to control its own advanced manufacturing capabilities.",
+      "whyInNews": "This reflects a broader trend of nations prioritizing domestic technological prowess and supply chain security.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/tunnelling-through-on-chinas-export-control-list-tunnel-boring-machines/article71611821.ece"
     }
   ],
   "history": [
     {
+      "year": 1990,
+      "point": "The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1980,
+      "point": "Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1971,
+      "point": "The People's Republic of China replaces the Republic of China at the United Nations.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1949,
+      "point": "The Battle of Guningtou in the Taiwan Strait begins.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "World War II: The final attempt of the Imperial Japanese Navy to win the war climaxes at the Battle of Leyte Gulf.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1932,
+      "point": "George Lansbury became the leader of the opposition British Labour Party.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1920,
+      "point": "After 74 days on hunger strike in Brixton Prison, England, the Sinn Féin Lord Mayor of Cork, Terence MacSwiney dies.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1917,
+      "point": "Old Style date of the October Revolution in Russia.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2010,
+      "point": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
+      "gs": "GS1"
+    },
+    {
       "year": 1950,
-      "point": "Annexation of Tibet by the People's Republic of China: The People's Liberation Army ceases all military operations in Tibet, ending the Battle of Chamdo.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1946,
-      "point": "A camera on board the V-2 No. 13 rocket takes the first photograph of earth from outer space.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1945,
-      "point": "The United Nations Charter comes into effect.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1641,
-      "point": "Felim O'Neill of Kinard, the leader of the Irish Rebellion, issues his Proclamation of Dungannon, justifying the uprising and declaring continued loyalty to King Charles I of England.",
+      "point": "The People's Volunteer Army ambushed the South Korean II Corps at the Battle of Onjong, and elsewhere engaged the 1st Infantry Division at the Battle of Unsan, marking China's entry into the Korean War.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "The International Atomic Energy Agency (IAEA) projects a significant rise in nuclear power generation globally by 2060 due to increasing electricity demand and technological advancements.",
+    "IndusInd Bank reported a record Q2 profit of ₹1,242 crore driven by net interest income growth.",
+    "A 17% drop in kharif maize output due to drought in Karnataka and Maharashtra poses a significant threat to national food production.",
     "India's core industrial sectors have shown signs of slowing growth in the latest PMI figures.",
     "India has extended its duty-free raw sugar import allowance to December 31st, providing importers additional time to fulfill their commitments.",
-    "The Green Climate Fund has made its first allocation of $20 million to Nepal following the August disasters.",
-    "The WMO reports a projected sea surface temperature rise of 3.8 degrees Celsius above average during the November 2026 to January 2027 El Nino event in the tropical Pacific.",
-    "The government is planning to incorporate agrivoltaic projects into the PM-Kusum scheme.",
-    "The Wiikwemkoong First Nation community is utilizing data centre technology to safeguard its heritage and language recordings."
+    "The Green Climate Fund has made its first allocation of $20 million to Nepal following the August disasters."
   ]
 }
