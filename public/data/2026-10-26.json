@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-26",
+  "currentAffairs": [
+    {
+      "point": "India and Poland maintain diplomatic ties despite external pressures exerted by other nations.",
+      "whyInNews": "The article underscores the complexities of India’s foreign policy positioning within a contested geopolitical landscape.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece"
+    },
+    {
+      "point": "The government has reversed its previous stance by proposing an MDR on UPI transactions above ₹2,000.",
+      "whyInNews": "This move directly impacts the financial incentives for banks and fintech companies operating within the UPI ecosystem.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece"
+    },
+    {
+      "point": "The Government of India reduced wheat allocations at its weekly auction despite millers expressing concern over the shortfall.",
+      "whyInNews": "This reflects ongoing challenges in managing food supply and price stability within the Indian agricultural system.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/govt-cuts-wheat-allocation-in-weekly-auction-even-as-millers-ready-to-pay-over-31kg/article71622933.ece"
+    },
+    {
+      "point": "Vultures spend significantly less time on carcasses at open dump sites compared to dog-free enclosures in the Thar desert.",
+      "whyInNews": "This finding underscores the need for targeted conservation strategies addressing feral animal populations and their impact on vulnerable species.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+    },
+    {
+      "point": "Raj Thackeray deleted a documentary critical of corporate monopolies following a request from the Mumbai Police Chief.",
+      "whyInNews": "This highlights tensions between political actors, law enforcement and freedom of expression regarding sensitive issues like market dominance.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
+    },
+    {
+      "point": "The Northeast Monsoon is exhibiting increased unpredictability, raising concerns about potential disruptions to rainfall patterns across South India.",
+      "whyInNews": "This highlights the vulnerability of Indian agriculture and necessitates monitoring for climate-related risks.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece"
+    },
+    {
+      "point": "Anthropic's Claude accessed Georgia state vote count information behind a paywall.",
+      "whyInNews": "This highlights the potential risks associated with AI access to sensitive data and raises questions about data security protocols.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece"
+    },
+    {
+      "point": "Life insurance premiums are increasingly being reinvested to finance government projects.",
+      "whyInNews": "It reveals an alternative source of public funds and has implications for the role of the financial sector in national development.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/how-indias-life-insurance-sector-funds-government-expenditure/article71195322.ece"
+    },
+    {
+      "point": "Nifty index experienced a 13% decline reflecting growing investor apprehension amid the Samvat 2083 period.",
+      "whyInNews": "The market correction highlights potential risks to India’s economic outlook and requires monitoring by policymakers.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/worst-samvat-under-modi-era-nifty-down-13-as-investors-enter-new-year-amid-growing-caution/article71623822.ece"
+    },
+    {
+      "point": "The United Nations has established the Loss and Damage Fund to assist vulnerable nations impacted by climate change impacts.",
+      "whyInNews": "This payout represents a concrete step in fulfilling financial commitments for countries disproportionately affected by global warming.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece"
+    },
+    {
+      "point": "BJP plans nationwide protests against Kharge's remarks regarding Prime Minister Modi’s father.",
+      "whyInNews": "This highlights a politically charged statement triggering a reactive response from the ruling party and potentially influencing public discourse.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
+    },
+    {
+      "point": "A new research paper is examining the genetic roots of linguistic diversity across different languages.",
+      "whyInNews": "The study’s findings could provide insights into early human migration routes and population movements.",
+      "gs": "GS1",
+      "topic": "History",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
+    },
+    {
+      "point": "Oceanic processes, specifically the 'Victoria Mode', are contributing to the expansion of semi-arid regions in northwest India.",
+      "whyInNews": "Scientists from IMD and IITM have identified this oceanic cycle as a key driver of land degradation impacting food security.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-distant-pacific-phenomenon-may-be-drying-indias-north-says-study/article71620192.ece"
+    },
+    {
+      "point": "The visit occurred despite reports of stalled discussions between the US and India regarding defense industrial cooperation.",
+      "whyInNews": "It reflects a current state of affairs in the strategic partnership between these two nations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/falling-short-on-marco-rubios-second-visit-to-india/article71616218.ece"
+    },
+    {
+      "point": "Acting President Delcy Rodriguez remains in office without calling planned elections, fueling concerns over the legitimacy of the Venezuelan government.",
+      "whyInNews": "The situation highlights ongoing political instability and democratic backsliding within Venezuela, a significant geopolitical factor.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2000,
+      "point": "A wave of protests forces Robert Guéï to step down as president after the Ivorian presidential election.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1994,
+      "point": "Jordan and Israel sign a peace treaty.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "Three months after the end of the Ten-Day War, the last soldier of the Yugoslav People's Army leaves the territory of the Republic of Slovenia.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1967,
+      "point": "Mohammad Reza Pahlavi crowns himself Emperor of Iran.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1955,
+      "point": "Ngô Đình Diệm proclaims himself as President of the newly created Republic of Vietnam.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1918,
+      "point": "World War I: Erich Ludendorff, quartermaster-general of the Imperial German Army, is dismissed by Kaiser Wilhelm II for refusing to cooperate in peace negotiations.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1917,
+      "point": "World War I: Brazil declares war on the Central Powers.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1825,
+      "point": "The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2000,
+      "point": "Following protests against military leader Robert Guéï, Laurent Gbagbo became the president of Ivory Coast.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Indonesia has reduced its natural gas exports to Singapore by approximately 9 mmscfd due to supply constraints.",
+    "A rice-focused approach to ethanol procurement is driving concerns about the sustainability of India’s biofuel program.",
+    "The Centre has issued 11 crore farmer IDs under the AgriStack scheme.",
+    "The International Atomic Energy Agency (IAEA) projects a significant rise in nuclear power generation globally by 2060 due to increasing electricity demand and technological advancements.",
+    "IndusInd Bank reported a record Q2 profit of ₹1,242 crore driven by net interest income growth.",
+    "A 17% drop in kharif maize output due to drought in Karnataka and Maharashtra poses a significant threat to national food production."
+  ]
+}
