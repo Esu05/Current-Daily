@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-27",
+  "currentAffairs": [
+    {
+      "point": "Luiz Inácio Lula da Silva has been elected President of Brazil following a closely contested electoral process.",
+      "whyInNews": "His victory is framed as an opposition to US-led influence in the region and signals potential shifts in South American foreign policy.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece"
+    },
+    {
+      "point": "The Department of Justice is investigating claims that over 400 individuals cast ballots in prior elections despite potentially being ineligible to vote.",
+      "whyInNews": "This directly relates to the integrity of electoral processes and constitutional eligibility for voting rights.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-administration-asks-washington-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens/article71629596.ece"
+    },
+    {
+      "point": "BPCL is altering its crude oil procurement strategy to prioritize Middle Eastern sources.",
+      "whyInNews": "This shift indicates evolving global energy dynamics and India’s strategic adjustments in the face of changing Russian pricing.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/bpcl-shifts-crude-sourcing-towards-middle-east-as-russian-oil-loses-price-edge/article71628150.ece"
+    },
+    {
+      "point": "People in Andhra Pradesh can utilize the ‘Hi’ WhatsApp service (9552300009) to report cyclone-related emergencies such as power outages or structural damage.",
+      "whyInNews": "The initiative highlights a technology-driven approach to disaster response and citizen engagement, aligning with UPSC priorities regarding effective governance and emergency management.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/national/cyclone-arnab-affected-people-in-ap-can-report-emergencies-via-mana-mitra-whatsapp-service/article71627821.ece"
+    },
+    {
+      "point": "IMD has issued red alerts for seven districts in Andhra Pradesh due to Cyclone ‘Arnab’ approaching land.",
+      "whyInNews": "The alert signifies an imminent threat of severe weather conditions and potential damage requiring immediate response measures.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
+    },
+    {
+      "point": "The government is reversing a decade-old policy by proposing an MDR on UPI transactions above ₹2,000.",
+      "whyInNews": "This move could significantly alter the dynamics of India’s digital payment ecosystem and requires careful monitoring for its economic impact.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece"
+    },
+    {
+      "point": "LANXESS and Hindustan Cements have partnered for testing of new road construction technology.",
+      "whyInNews": "The collaboration focuses on a specific technological innovation (Addipave CR 36) within the infrastructure sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/lanxess-hindustan-colas-join-hands-for-latest-road-construction-technologies/article71627517.ece"
+    },
+    {
+      "point": "The Government must finance an ecosystem for user data protection alongside the DPDP Act.",
+      "whyInNews": "Current approaches relying solely on legal compliance are deemed insufficient by experts due to the commoditization of user data.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece"
+    },
+    {
+      "point": "The Gujarat government has declared four districts as drought-affected based on Centre guidelines following the end of the monsoon season.",
+      "whyInNews": "This announcement reflects a formal assessment of rainfall deficits and initiates potential relief measures aligned with national drought protocols.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-porbandar-as-drought-affected/article71626790.ece"
+    },
+    {
+      "point": "The Northeast Monsoon is exhibiting increased unpredictability, raising concerns about potential disruptions to rainfall patterns across South India.",
+      "whyInNews": "This highlights a critical vulnerability in India’s climate and agricultural systems that demands attention from policymakers and researchers.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece"
+    },
+    {
+      "point": "A substantial portion of life insurance premiums are being reinvested to finance government expenditure.",
+      "whyInNews": "This highlights an unusual funding mechanism for the government and warrants further investigation into its implications.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/how-indias-life-insurance-sector-funds-government-expenditure/article71195322.ece"
+    },
+    {
+      "point": "Blue Energy Motors launched a battery-swap station for its electric trucks, aiming to reduce downtime and improve fleet utilization.",
+      "whyInNews": "This represents an emerging technology within the EV sector with potential implications for India’s industrial growth and sustainability efforts.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/blue-energy-motors-launches-battery-swap-station-for-electric-trucks/article71627332.ece"
+    },
+    {
+      "point": "Ammonia emissions from agricultural activities are contributing to worsening air pollution across the Indo-Gangetic Plain.",
+      "whyInNews": "The report focuses on a specific pollutant (ammonia) and its source (agriculture), providing crucial context for understanding air quality issues in India.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/books/excerpt-from-the-nitrogen-bombby-jacob-koshy/article71603863.ece"
+    },
+    {
+      "point": "The Election Commission of India has asserted that attempts to restrain the CEC’s functions are contrary to the 2023 Act.",
+      "whyInNews": "This highlights a potential legal challenge and underscores the importance of maintaining independence within constitutional bodies.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
+    },
+    {
+      "point": "India and Poland are experiencing divergent pressures from other nations regarding their bilateral relationship.",
+      "whyInNews": "This reflects a broader trend of great power competition influencing smaller state relationships – relevant for India’s strategic positioning.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2014,
+      "point": "Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1981,
+      "point": "Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1980,
+      "point": "The Chun Doo-hwan government forcibly arrests and investigates monks and personnel of the Jogye Order.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1962,
+      "point": "By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1958,
+      "point": "Iskander Mirza, the first President of Pakistan, is deposed by General Ayub Khan, who had been appointed the enforcer of martial law by Mirza 20 days earlier.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1954,
+      "point": "Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1936,
+      "point": "Abdication Crisis: Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1930,
+      "point": "Ratifications are exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1924,
+      "point": "The Uzbek SSR is founded in the Soviet Union.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1922,
+      "point": "A referendum in Rhodesia rejects the country's annexation to the South African Union.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "India and Poland maintain diplomatic ties despite external pressures exerted by other nations.",
+    "The government has reversed its previous stance by proposing an MDR on UPI transactions above ₹2,000.",
+    "The Government of India reduced wheat allocations at its weekly auction despite millers expressing concern over the shortfall.",
+    "Indonesia has reduced its natural gas exports to Singapore by approximately 9 mmscfd due to supply constraints.",
+    "A rice-focused approach to ethanol procurement is driving concerns about the sustainability of India’s biofuel program.",
+    "The Centre has issued 11 crore farmer IDs under the AgriStack scheme."
+  ]
+}
