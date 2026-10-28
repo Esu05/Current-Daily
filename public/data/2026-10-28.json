@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-28",
+  "currentAffairs": [
+    {
+      "point": "Large-scale drug operations involving criminal syndicates are disrupting national security.",
+      "whyInNews": "The operation exposes vulnerabilities in border control and intelligence gathering related to illicit trafficking.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece"
+    },
+    {
+      "point": "Delhi’s government is proposing changes to agricultural land circle rates to align with market values.",
+      "whyInNews": "This reflects ongoing efforts by state governments to regulate land markets and potentially influence investment in agriculture.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/delhi-may-raise-agricultural-land-circle-rates-to-5-crore-per-acre/article71633226.ece"
+    },
+    {
+      "point": "PM Modi urged researchers to focus on measurable outcomes from their innovations to ensure practical application and impact.",
+      "whyInNews": "The Prime Minister’s emphasis underscores the government's commitment to translating scientific advancements into tangible solutions for India.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece"
+    },
+    {
+      "point": "Industrial effluents from Rajasthan are causing severe pollution in rivers, indicating systemic failures in regulatory oversight and industrial compliance.",
+      "whyInNews": "The summary explicitly frames the issue as a ‘state failure,’ emphasizing its importance for understanding governance challenges.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece"
+    },
+    {
+      "point": "Coal India’s capital expenditure surged by 27% to ₹7,966 crore, exceeding its fiscal year target.",
+      "whyInNews": "This indicates a shift in government priorities regarding coal production and investment within the energy sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-india-h1-capital-expenditure-surges-27-to-7966-cr-exceeds-target/article71630764.ece"
+    },
+    {
+      "point": "The RBI highlighted domestic investment and foreign capital as key drivers of India’s GDP growth prospects.",
+      "whyInNews": "This reflects the current global uncertainty and provides a specific economic outlook relevant to UPSC examination.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-could-have-achieved-over-8-gdp-growth-without-external-shocks-rbi-deputy-governor/article71633214.ece"
+    },
+    {
+      "point": "The northern spiral band of Cyclone Arnab has made landfall along the Andhra coast.",
+      "whyInNews": "IMD is tracking the ongoing process of the cyclone’s landfall for the next three hours.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece"
+    },
+    {
+      "point": "The BRICS Parliamentary Forum issued a joint declaration advocating for a two-state solution to the Israel-Palestine conflict.",
+      "whyInNews": "This reflects ongoing geopolitical tensions and India’s position within multilateral forums addressing international conflicts.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
+    },
+    {
+      "point": "India’s crude basket price has surged to $120 per barrel amid the West Asia war.",
+      "whyInNews": "This reflects global oil market volatility and its immediate impact on India's import costs.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/oil-import-bill-rises-on-west-asia-conflict/article71632295.ece"
+    },
+    {
+      "point": "Laboratory tests indicate that five plant-based meat products exhibit higher absorbable protein levels compared to traditional chicken.",
+      "whyInNews": "The study highlights a potential nutritional advantage of plant-based alternatives and could influence future food production strategies.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece"
+    },
+    {
+      "point": "Cyclone Arnab made landfall along the Andhra Pradesh coast, causing high waves and damage to infrastructure in north Chennai and Tiruvallur districts.",
+      "whyInNews": "This highlights a current weather event with direct consequences for coastal communities and demands attention from disaster management authorities.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
+    },
+    {
+      "point": "Luiz Inácio Lula da Silva has been elected President of Brazil following a closely contested electoral process.",
+      "whyInNews": "His victory is framed as an opposition to US-led influence in the region and signals potential shifts in South American foreign policy.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece"
+    },
+    {
+      "point": "Amendments have been made to the rules regarding emission testing for motor vehicles under Rule 115 and 115E of MoEFCC notification.",
+      "whyInNews": "These amendments directly impact India’s air quality regulations and vehicle standards.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+    },
+    {
+      "point": "A nationwide audit revealed 92% of compliance gaps relate to labour, environment, and safety violations within Indian businesses.",
+      "whyInNews": "The audit underscores the systemic challenges in ensuring regulatory adherence across various sectors.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/labour-environment-and-safety-violations-account-for-92-of-compliance-gaps-teamlease-regtech/article71631496.ece"
+    },
+    {
+      "point": "Research indicates that personality is primarily shaped by environmental factors rather than genetics, challenging simplistic views of inherited traits.",
+      "whyInNews": "The findings directly address the complex relationship between genes and behavior – a topic relevant to understanding social inequalities and interventions.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2007,
+      "point": "Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2006,
+      "point": "A funeral service takes place at the Bykivnia graves for Ukrainians who were killed by the Soviet secret police.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1990,
+      "point": "Georgia holds its only free election under Soviet rule.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1962,
+      "point": "The Cuban Missile Crisis ends and Premier Nikita Khrushchev orders the removal of Soviet missiles from Cuba.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1948,
+      "point": "Paul Hermann Müller is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1928,
+      "point": "Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1918,
+      "point": "World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1893,
+      "point": "Pyotr Tchaikovsky's Symphony No. 6 in B Minor, Pathétique receives its première performance only nine days before the composer's death.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1664,
+      "point": "The Duke of York and Albany's Maritime Regiment of Foot, later to be known as the Royal Marines, is established.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Luiz Inácio Lula da Silva has been elected President of Brazil following a closely contested electoral process.",
+    "The Department of Justice is investigating claims that over 400 individuals cast ballots in prior elections despite potentially being ineligible to vote.",
+    "BPCL is altering its crude oil procurement strategy to prioritize Middle Eastern sources.",
+    "India and Poland maintain diplomatic ties despite external pressures exerted by other nations.",
+    "The government has reversed its previous stance by proposing an MDR on UPI transactions above ₹2,000.",
+    "The Government of India reduced wheat allocations at its weekly auction despite millers expressing concern over the shortfall."
+  ]
+}
