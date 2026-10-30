@@ -1,6 +1,110 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "currentAffairs": [
+    {
+      "point": "The Supreme Court has identified fundamental flaws within the Sir scheme's design.",
+      "whyInNews": "This judgment highlights an important scrutiny of a government initiative by India’s highest court.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece"
+    },
+    {
+      "point": "The IMF suggests intervention in India's FX market may be justified under disorderly conditions.",
+      "whyInNews": "This reflects the ongoing debate about India’s monetary policy and its impact on global markets.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-should-be-indias-first-line-of-defence-against-energy-shocks-imf/article71643376.ece"
+    },
+    {
+      "point": "Cyclone Arnab’s potential reliance on Tamil Nadu moisture highlights the vulnerability of coastal regions to weather systems.",
+      "whyInNews": "Understanding these atmospheric interactions is crucial for predicting and mitigating the impacts of extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cyclone-arnab-likely-drew-moisture-from-tamil-nadu-system-but-did-not-merge/article71640101.ece"
+    },
+    {
+      "point": "Over 55,000 people were evacuated across nine districts of Odisha due to Cyclone Arnab's severe weather conditions.",
+      "whyInNews": "The cyclone’s impact is being assessed and the scale of evacuation highlights potential vulnerabilities in India’s disaster preparedness.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+    },
+    {
+      "point": "Public functionaries are prohibited from using privacy as an exemption for scrutiny under the Digital Personal Data Protection Act, 2023.",
+      "whyInNews": "The news focuses on a key principle of accountability and transparency within the newly enacted data protection legislation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece"
+    },
+    {
+      "point": "Three people were killed in a helicopter collision near Dayton, Oregon.",
+      "whyInNews": "The incident necessitates assessment of aviation safety protocols and potential implications for transportation infrastructure.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/2-helicopters-carrying-3-people-collide-in-oregon-shutting-down-highway/article71643387.ece"
+    },
+    {
+      "point": "Coal India's profit increased by 57% due to higher output and prices, but rising input material costs pose a challenge.",
+      "whyInNews": "This reflects broader inflationary trends impacting the Indian economy and highlights potential supply chain vulnerabilities for critical energy resources.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
+    },
+    {
+      "point": "Milky Mist reported a 42% increase in revenue to ₹1,089 crore driven by strong demand.",
+      "whyInNews": "The company’s performance provides insights into consumer behaviour and the health of India's dairy sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/milky-mist-q2-results-revenue-grows-42-to-1089-crore-net-profit-nearly-triples/article71640724.ece"
+    },
+    {
+      "point": "Studies show disproportionate focus on birds and mammals despite their lower contribution to overall biodiversity.",
+      "whyInNews": "The news reveals a concerning bias in research priorities within the ecological field.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece"
+    },
+    {
+      "point": "Bauxite mining is proposed in the Eastern Ghats forest region of India.",
+      "whyInNews": "The project raises concerns about deforestation, biodiversity loss, and potential displacement of local communities – issues frequently examined by UPSC.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-bauxite-mining-in-the-eastern-ghats-green-humour-by-rohan-chakravarty/article71631435.ece"
+    },
+    {
+      "point": "The MVA’s success in the MLC elections demonstrates its continued regional strength and influence within Maharashtra.",
+      "whyInNews": "The election results reveal a significant tactical advantage for Pawar's faction amidst ongoing political realignment.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/setbacks-for-bjp-in-maharashtra-mlc-maha-vikas-aghadi-congress-nagpur-ncp-shiv-sena/article71643394.ece"
+    },
+    {
+      "point": "The U.S. Federal Reserve has decided to maintain its interest rates elevated.",
+      "whyInNews": "This action is expected to strengthen the US dollar and put pressure on emerging market economies reliant on foreign investment.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
+    },
+    {
+      "point": "PI Industries is launching Pioxaniliprole, an insecticide targeting Fall Armyworm in maize crops.",
+      "whyInNews": "The launch addresses a significant threat to India’s maize production and food security.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/pi-industries-to-launch-insecticide-pioxaniliprole-this-rabi-season-in-india/article71640975.ece"
+    },
     {
       "point": "Proactive governance measures successfully minimized casualties during Cyclone Arnab's impact on West Bengal and Odisha.",
       "whyInNews": "The news emphasizes effective preparedness and response strategies in the face of a significant weather event.",
@@ -10,166 +114,72 @@
       "url": "https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece"
     },
     {
-      "point": "Government has re-opened the Textiles Production Linked Incentive (PLI) scheme’s application portal from November 1st.",
-      "whyInNews": "This extension provides manufacturers with a longer timeframe to benefit from the incentive and potentially boost domestic textile production.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/policy/textiles-pli-scheme-government-reopens-application-portal-from-november-1/article71637577.ece"
-    },
-    {
-      "point": "Dolores Huerta took on leadership of the U.S. farmworker movement alongside Cesar Chavez during the 1960s.",
-      "whyInNews": "Her death marks a significant loss for this historical labor rights movement.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece"
-    },
-    {
       "point": "The US Federal Reserve has held interest rates steady at 3.75-4.00% despite rising inflation.",
       "whyInNews": "This reflects the ongoing debate about the appropriate monetary policy response to inflationary pressures globally.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
-    },
-    {
-      "point": "Two international airlines may opt to cease operations from Mumbai airport for the next two years due to ongoing disruptions.",
-      "whyInNews": "This reflects potential instability within a key Indian aviation hub and could trigger broader economic consequences.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/couple-of-international-airlines-may-opt-not-to-fly-from-mumbai-for-next-2-yrs-adani-airports-ceo/article71636314.ece"
-    },
-    {
-      "point": "Private companies are investing in apomixis technology within Indian seeds, potentially altering crop breeding practices.",
-      "whyInNews": "The increasing availability of these tools necessitates an examination of the adaptation required within India’s agricultural system.",
-      "gs": "GS3",
-      "topic": "Agriculture",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/genetic-tools-apomixis-breathing-fresh-life-india-staple-crops/article71635064.ece"
-    },
-    {
-      "point": "The RSS Friends organization has registered with the US to engage in outreach activities, listing the RSS as a ‘foreign principal’ – this highlights concerns about foreign influence and potential interference in Indian politics.",
-      "whyInNews": "This registration signifies a deliberate attempt by an external group to actively shape perceptions and potentially exert pressure within India.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/rss-friends-registers-in-us-to-step-up-outreach-correct-inaccuracies/article71638780.ece"
-    },
-    {
-      "point": "Large-scale drug operations involving criminal syndicates are disrupting national security efforts.",
-      "whyInNews": "The operation exposes vulnerabilities in border control and the need for enhanced intelligence gathering to combat illicit trafficking.",
-      "gs": "GS3",
-      "topic": "Security",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/small-fish-on-operation-trident/article71631754.ece"
-    },
-    {
-      "point": "Vedanta Group is targeting $20 billion in profits over the next two years based on its current operational performance.",
-      "whyInNews": "The announcement reflects investor confidence and provides a key indicator of India’s economic growth trajectory.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece"
-    },
-    {
-      "point": "Finance Minister Nirmala Sitharaman engaged in a public exchange with Congress leader Rahul Gandhi regarding alleged interference by the government in Tata Sons’ operations.",
-      "whyInNews": "This highlights potential conflicts between executive power and corporate governance within India's largest business groups.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/fm-spars-with-rahul-after-his-tata-group-being-criminally-destroyed-remark/article71637020.ece"
-    },
-    {
-      "point": "The concept of human composting (natural organic reduction) is emerging as an alternative method to traditional burial or cremation.",
-      "whyInNews": "It represents a developing trend in end-of-life practices and raises questions about resource consumption and environmental impact.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/what-is-human-composting-how-does-it-work/article71630017.ece"
-    },
-    {
-      "point": "The report identifies India as having one of the highest levels of heatwave exposure for infants and older adults globally.",
-      "whyInNews": "This highlights a critical public health issue exacerbated by climate change requiring urgent policy action.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece"
-    },
-    {
-      "point": "Industrial effluents from Rajasthan are causing severe pollution in rivers, indicating systemic failures in regulatory oversight and industrial practices.",
-      "whyInNews": "The summary explicitly frames the issue as a ‘state failure,’ emphasizing its importance for UPSC examination.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece"
-    },
-    {
-      "point": "Exit polls indicate nearly 80% Arab voter turnout in Israel's elections – the highest in at least a decade.",
-      "whyInNews": "This unprecedented turnout signals shifting dynamics within Israeli politics and its broader regional implications.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/news-analysis-what-has-driven-the-high-arab-turnout-in-israels-elections/article71637664.ece"
-    },
-    {
-      "point": "India risks being trapped in a middle-income, low-productivity scenario due to weak job creation and investment.",
-      "whyInNews": "The summary identifies the core problem – economic stagnation – as a key concern for India’s future development.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece"
     }
   ],
   "history": [
     {
-      "year": 1998,
-      "point": "Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.",
+      "year": 1973,
+      "point": "The Bosphorus Bridge in Turkey is completed, connecting the continents of Europe and Asia over the Bosphorus for the second time.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1941,
+      "point": "Holocaust: Fifteen hundred Jews from Pidhaytsi are sent by Nazis to Bełżec extermination camp.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1920,
+      "point": "The Communist Party of Australia is founded in Sydney.",
       "gs": "GS1"
     },
     {
       "year": 1918,
-      "point": "World War I: the German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.",
+      "point": "World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.",
       "gs": "GS1"
     },
     {
-      "year": 1914,
-      "point": "World War I : the Ottoman Empire enters the war on the side of the Central Powers.",
+      "year": 1918,
+      "point": "World War I: Lands of the Crown of Saint Stephen, a state union of Kingdom of Hungary and Triune Kingdom of Croatia, Slavonia and Dalmatia is abolished with decisions of Croatian and Hungarian parliaments.",
       "gs": "GS1"
     },
     {
-      "year": 1665,
-      "point": "Portuguese forces defeat the Kingdom of Kongo and decapitate King António I of Kongo, also known as Nvita a Nkanga.",
+      "year": 1888,
+      "point": "The Rudd Concession is granted by Matabeleland to agents of Cecil Rhodes.",
       "gs": "GS1"
     },
     {
-      "year": 1390,
-      "point": "First trial for witchcraft in Paris leading to the death of three people.",
+      "year": 942,
+      "point": "Election of Pope Marinus II following the death of Pope Stephen VIII in the same month.",
       "gs": "GS1"
     },
     {
-      "year": 1998,
-      "point": "At 77 years old, former astronaut John Glenn returned to space aboard the Space Shuttle Discovery on the STS-95 mission.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1955,
-      "point": "An explosion, likely caused by a World War II–era naval mine, capsized the Soviet ship Novorossiysk in the harbor of Sevastopol, with the loss of 608 men.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1863,
-      "point": "American Civil War: The Battle of Wauhatchie, one of the few night battles of the war, concluded with the Union Army opening a supply line to troops in Chattanooga, Tennessee.",
+      "year": 1948,
+      "point": "A luzzu (Maltese fishing boat) overloaded with passengers capsized and sank in the Gozo Channel off Qala, killing 23 of the 27 people on board (monument pictured).",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "Proactive governance measures successfully minimized casualties during Cyclone Arnab's impact on West Bengal and Odisha.",
+    "Government has re-opened the Textiles Production Linked Incentive (PLI) scheme’s application portal from November 1st.",
+    "Dolores Huerta took on leadership of the U.S. farmworker movement alongside Cesar Chavez during the 1960s.",
     "Large-scale drug operations involving criminal syndicates are disrupting national security.",
     "Delhi’s government is proposing changes to agricultural land circle rates to align with market values.",
-    "PM Modi urged researchers to focus on measurable outcomes from their innovations to ensure practical application and impact.",
-    "Luiz Inácio Lula da Silva has been elected President of Brazil following a closely contested electoral process.",
-    "The Department of Justice is investigating claims that over 400 individuals cast ballots in prior elections despite potentially being ineligible to vote.",
-    "BPCL is altering its crude oil procurement strategy to prioritize Middle Eastern sources."
+    "PM Modi urged researchers to focus on measurable outcomes from their innovations to ensure practical application and impact."
   ]
 }
