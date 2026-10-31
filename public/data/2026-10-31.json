@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-31",
+  "currentAffairs": [
+    {
+      "point": "The November 3rd U.S. midterms determine the composition of Congress, affecting legislative priorities related to trade, security alliances, and international agreements.",
+      "whyInNews": "Control of Congress will shape future policy debates and potentially impact India-U.S. relations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece"
+    },
+    {
+      "point": "Q2 FY27 performance saw growth driven by healthcare, BFSI, and IT services in India.",
+      "whyInNews": "This reflects shifting investment patterns within the Indian economy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/info-tech/healthcare-bfsi-supported-it-growth-in-q2-as-technology-and-retail-remained-mixed/article71645809.ece"
+    },
+    {
+      "point": "A civilian was apprehended for illegally killing a cheetah using a country-made firearm.",
+      "whyInNews": "The incident highlights concerns about poaching and the need for stricter regulations regarding firearms in protected areas.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-held-over-death-of-cheetah-firearm-as-yet-untraced/article71646344.ece"
+    },
+    {
+      "point": "Suboptimal outcomes have been reported regarding the establishment of Social Security Boards for unorganized, gig, and platform workers.",
+      "whyInNews": "This reflects ongoing difficulties in extending social security protections to a rapidly growing segment of India’s workforce.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/suboptimal-outcomes-on-social-security-boards-for-unorganised-gig-platform-workers/article71646647.ece"
+    },
+    {
+      "point": "Coal India's profit increase reflects higher domestic demand and output, impacting the nation’s energy mix.",
+      "whyInNews": "The rising input costs highlight potential inflationary pressures within the coal sector and its broader economic implications.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
+    },
+    {
+      "point": "The Government has established a High Level Committee to suggest reform measures for banks.",
+      "whyInNews": "This reflects ongoing efforts to strengthen the banking system and address potential vulnerabilities.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/govt-sets-up-high-level-committee-to-suggest-reform-measures-for-banks/article71645916.ece"
+    },
+    {
+      "point": "ISRO's NVS-03 satellite launch aims to restore functionality of NavIC, India’s regional satellite navigation system.",
+      "whyInNews": "The mission was initiated in response to perceived restrictions on US GPS data access during the Kargil War.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+    },
+    {
+      "point": "Scientists are investigating how plants detect insect attacks to develop crop protection strategies that minimize reliance on chemical insecticides.",
+      "whyInNews": "The research focuses on harnessing natural plant defense systems as a potential solution for sustainable pest control in agriculture.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
+    },
+    {
+      "point": "Public functionaries are prohibited from using privacy as an exemption for scrutiny under the Digital Personal Data Protection Act, 2023.",
+      "whyInNews": "The news focuses on a key principle of accountability and transparency within the newly enacted data protection legislation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece"
+    },
+    {
+      "point": "The U.S. Federal Reserve has held interest rates steady, leading to expectations of a stronger dollar.",
+      "whyInNews": "This decision directly affects global capital flows and the relative attractiveness of different economies for investment.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece"
+    },
+    {
+      "point": "The Uttar Pradesh government plans to significantly increase paddy procurement starting November 1st, 2023.",
+      "whyInNews": "This reflects the ongoing efforts of the central and state governments to stabilize food prices and support farmers through direct purchase schemes.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/uttar-pradesh-targets-to-buy-more-paddy-procurement-to-start-from-november-1/article71645877.ece"
+    },
+    {
+      "point": "NVS-03 satellite was successfully launched into its intended orbit equipped with both domestic and imported atomic clocks.",
+      "whyInNews": "This highlights India’s ongoing efforts to develop indigenous space technologies and reduce reliance on foreign components.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece"
+    },
+    {
+      "point": "The cyclone’s likely reliance on Tamil Nadu moisture highlights the interconnectedness of weather systems and their impact on coastal regions.",
+      "whyInNews": "Understanding the source of moisture fueling cyclones is crucial for climate modelling and predicting future extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cyclone-arnab-likely-drew-moisture-from-tamil-nadu-system-but-did-not-merge/article71640101.ece"
+    },
+    {
+      "point": "External Affairs Minister Jaishankar held bilateral meetings with foreign ministers of G20 nations during the meeting in Atlanta.",
+      "whyInNews": "This reflects India’s diplomatic efforts within the framework of the G20 and its strategic importance on the global stage.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
+    },
+    {
+      "point": "The Supreme Court has identified fundamental flaws within the SIR (System of Integrated Review) process.",
+      "whyInNews": "This judgment highlights a critical assessment of India’s strategic planning methodology by a key constitutional body.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1998,
+      "point": "Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1984,
+      "point": "Indian Prime Minister Indira Gandhi is assassinated by two Sikh security guards. Riots break out in New Delhi and other cities and around 3,000 Sikhs are killed.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1941,
+      "point": "After 14 years of work, Mount Rushmore is completed.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1941,
+      "point": "World War II: The destroyer USS Reuben James is torpedoed by a German U-boat near Iceland, killing more than 100 U.S. Navy sailors. It is the first U.S. Navy vessel sunk by enemy action in WWII.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1940,
+      "point": "World War II: The Battle of Britain ends, causing Germany to abandon Operation Sea Lion.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1999,
+      "point": "Australian sailor Jesse Martin arrived in Melbourne, becoming the youngest person to circumnavigate the globe solo, non-stop, and unassisted.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1984,
+      "point": "Indian prime minister Indira Gandhi was assassinated by two of her own Sikh bodyguards, sparking riots that killed thousands of Sikhs.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis killed 81 people and injured about 400 others.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1941,
+      "point": "Approximately 400 workers completed the 60-foot (18 m) busts of U.S. presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln at Mount Rushmore in South Dakota.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1517,
+      "point": "Martin Luther posted his Ninety-five Theses onto the door of All Saints' Church in Wittenberg, marking the beginning of the Protestant Reformation.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The Supreme Court has identified fundamental flaws within the Sir scheme's design.",
+    "The IMF suggests intervention in India's FX market may be justified under disorderly conditions.",
+    "Cyclone Arnab’s potential reliance on Tamil Nadu moisture highlights the vulnerability of coastal regions to weather systems.",
+    "Proactive governance measures successfully minimized casualties during Cyclone Arnab's impact on West Bengal and Odisha.",
+    "Government has re-opened the Textiles Production Linked Incentive (PLI) scheme’s application portal from November 1st.",
+    "Dolores Huerta took on leadership of the U.S. farmworker movement alongside Cesar Chavez during the 1960s."
+  ]
+}
