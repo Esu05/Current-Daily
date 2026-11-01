@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-01",
+  "currentAffairs": [
+    {
+      "point": "Four Indian-origin Democratic lawmakers are contesting the U.S. midterm elections.",
+      "whyInNews": "The news reflects a specific demographic element within the US electoral landscape and India’s connections to it.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/who-are-the-indian-origin-candidates-in-us-midterm-elections/article71644803.ece"
+    },
+    {
+      "point": "Indian Oil Corporation projects significant ongoing losses on LPG sales due to subsidized pricing.",
+      "whyInNews": "This reflects the continued challenge of managing fuel prices and subsidy schemes within India’s economic framework.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece"
+    },
+    {
+      "point": "India must build oil reserves to reduce its dependence on international trade and mitigate the impact of global energy market shocks.",
+      "whyInNews": "Geopolitical tensions are disrupting established trade routes and increasing vulnerability for nations reliant on imports.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-must-build-oil-reserves-reduce-energy-imports-amid-global-trade-shocks-c-rangarajan/article71651648.ece"
+    },
+    {
+      "point": "Cyclone Arnab made landfall in Andhra Pradesh, triggering evacuation efforts and disrupting services.",
+      "whyInNews": "This highlights the increasing frequency of extreme weather events due to climate change and India’s preparedness measures.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece"
+    },
+    {
+      "point": "A cheetah was shot dead by an unknown individual using a ‘bharmar gun’, highlighting the ongoing challenges in protecting endangered species.",
+      "whyInNews": "The incident underscores the need for enhanced anti-poaching measures and investigation into illegal weapon trafficking within protected areas.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-held-over-death-of-cheetah-firearm-as-yet-untraced/article71646344.ece"
+    },
+    {
+      "point": "The INDIA bloc is holding a protest against the CEC and SIR alleging irregularities in voter rolls.",
+      "whyInNews": "This highlights potential issues with electoral integrity and raises questions about EC’s impartiality.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece"
+    },
+    {
+      "point": "Social security boards are being established for unorganised, gig and platform workers to address their concerns regarding social security benefits.",
+      "whyInNews": "This reflects ongoing efforts by the government to extend social protection to a rapidly growing but traditionally excluded segment of India’s workforce.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/suboptimal-outcomes-on-social-security-boards-for-unorganised-gig-platform-workers/article71646647.ece"
+    },
+    {
+      "point": "Maharashtra has enacted the Women Farmers’ Empowerment Bill, granting women farmer status irrespective of land ownership.",
+      "whyInNews": "This bill represents a novel approach to addressing systemic biases within India's agricultural workforce.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+    },
+    {
+      "point": "The PM has approved the construction of the Delhi-Agra high-speed rail corridor as part of the broader north corridor of the bullet train project.",
+      "whyInNews": "This reflects ongoing government investment in large-scale infrastructure development and aims to reduce travel times between major cities.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/delhi-to-agra-in-59-minutes-pm-modi-approves-north-corridor-of-bullet-train-project/article71651891.ece"
+    },
+    {
+      "point": "Scientists are investigating how plants detect insect attacks to develop crop protection strategies that reduce reliance on chemical insecticides.",
+      "whyInNews": "The research focuses on harnessing natural plant defense systems as a potential solution for sustainable pest control in agriculture.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
+    },
+    {
+      "point": "Public functionaries are prohibited from using privacy as an exemption for scrutiny under the Digital Personal Data Protection Act, 2023.",
+      "whyInNews": "The news focuses on a key principle of accountability and transparency within the newly enacted data protection legislation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece"
+    },
+    {
+      "point": "The Indian government has reduced the export duty on diesel to nil and raised the levy on aviation turbine fuel and diesel, impacting global markets and domestic pricing.",
+      "whyInNews": "This reflects a shift in India’s petroleum policy and its engagement with international trade.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
+    },
+    {
+      "point": "Uttar Pradesh government is implementing the ‘Vande Bharat Sleeper’ train to improve passenger travel between Varanasi and Delhi.",
+      "whyInNews": "This initiative aims to reduce travel time and enhance connectivity within Uttar Pradesh.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/vande-bharat-sleeper-to-cut-varanasi-delhi-travel-time-to-8-9-hours-yogi-adityanath/article71651925.ece"
+    },
+    {
+      "point": "Bengaluru-based startup Pranos Fusion is developing the country's first privately built tokamak reactor.",
+      "whyInNews": "The project represents a novel approach to fusion energy research and development within India.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+    },
+    {
+      "point": "Cyclone Arnab’s potential reliance on Tamil Nadu moisture highlights the vulnerability of coastal regions to weather systems.",
+      "whyInNews": "Understanding these atmospheric interactions is crucial for predicting and mitigating the impacts of extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cyclone-arnab-likely-drew-moisture-from-tamil-nadu-system-but-did-not-merge/article71640101.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2000,
+      "point": "Chhattisgarh officially becomes the 26th state of India, formed from sixteen districts of eastern Madhya Pradesh.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2000,
+      "point": "Serbia and Montenegro joins the United Nations.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1993,
+      "point": "The Maastricht Treaty takes effect, formally establishing the European Union.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "President of the Chechen Republic Dzhokhar Dudayev declares sovereignty of the Chechen Republic of Ichkeria from the Russian Federation.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1984,
+      "point": "After the assassination of Indira Gandhi, Prime Minister of India on 31 October 1984, by two of her Sikh bodyguards, anti-Sikh riots erupt.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1981,
+      "point": "Antigua and Barbuda gains independence from the United Kingdom.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1979,
+      "point": "In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "Watergate scandal: Leon Jaworski is appointed as the new Watergate Special Prosecutor.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "The Indian state of Mysore is renamed as Karnataka to represent all the regions within Karunadu.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "The 1963 South Vietnamese coup begins.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The November 3rd U.S. midterms determine the composition of Congress, affecting legislative priorities related to trade, security alliances, and international agreements.",
+    "Q2 FY27 performance saw growth driven by healthcare, BFSI, and IT services in India.",
+    "A civilian was apprehended for illegally killing a cheetah using a country-made firearm.",
+    "The Supreme Court has identified fundamental flaws within the Sir scheme's design.",
+    "The IMF suggests intervention in India's FX market may be justified under disorderly conditions.",
+    "Cyclone Arnab’s potential reliance on Tamil Nadu moisture highlights the vulnerability of coastal regions to weather systems."
+  ]
+}
