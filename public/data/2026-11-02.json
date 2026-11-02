@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-02",
+  "currentAffairs": [
+    {
+      "point": "Coal India’s production increased by 19% during the period.",
+      "whyInNews": "This reflects rising power demand and highlights the ongoing need for domestic coal supply.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece"
+    },
+    {
+      "point": "Fairfax Group made a $5.6 billion stake purchase in IDBI Bank, driving the highest monthly tally of PE-VC investments in over four years.",
+      "whyInNews": "The substantial investment inflow signals increased confidence in India’s financial sector and reflects broader trends in global VC activity.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/idbi-fairfax-mega-deal-takes-pe-vc-investments-to-8-billion-in-october/article71652461.ece"
+    },
+    {
+      "point": "Seven consecutive Indian monsoons since 1950 have exhibited deficient rainfall when influenced by a moderate or strong El Niño event.",
+      "whyInNews": "The summary highlights the recurring pattern of monsoon variability linked to El Niño, providing key data for climate analysis.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+    },
+    {
+      "point": "Tropical cyclones are classified as the second-most dangerous natural hazard after earthquakes.",
+      "whyInNews": "The summary highlights their danger level, emphasizing a critical aspect for disaster management preparation.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece"
+    },
+    {
+      "point": "India has voiced its opposition to the U.S. embargo against Cuba, advocating for a multilateral approach to address the situation.",
+      "whyInNews": "The statement highlights India’s stance on challenging unilateral actions by major powers and underscores the ongoing tensions between the US and Cuba.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece"
+    },
+    {
+      "point": "Lu Lula has adjusted his campaign focus to prioritize reducing working hours, increasing welfare spending under the Bolsa Familia scheme, and addressing indebted families.",
+      "whyInNews": "This shift reflects a potential change in Brazil’s social policy direction following the election.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/historic-win-humongous-challenges/article71649828.ece"
+    },
+    {
+      "point": "Gross Goods and Services Tax (GST) collections increased by 23% to ₹2.31 lakh crore in October, the second-highest level on record.",
+      "whyInNews": "This highlights a positive trend in domestic demand and government revenue generation.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+    },
+    {
+      "point": "Gross Domestic Product (GDP) collection surged to ₹2.32 lakh crore in October, reflecting the current state of India’s economy.",
+      "whyInNews": "The increase highlights a significant shift in economic activity and provides data for policy analysis.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/gst-collection-surged-to-232-lakh-crore-in-october/article71652307.ece"
+    },
+    {
+      "point": "The brewing El Niño, characterized by record Pacific heat, is predicted to impact global weather systems including the Indian Monsoon.",
+      "whyInNews": "Scientists are monitoring this event closely due to its potential for disrupting established climate patterns and increasing extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece"
+    },
+    {
+      "point": "Chennai and Tiruvallur District Collectors have ordered school and college closures due to the intensifying Cyclone Murasu.",
+      "whyInNews": "The closure is a direct response measure by local authorities to mitigate potential risks associated with severe weather.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+    },
+    {
+      "point": "Canada and the United States have imposed billions of dollars in tariffs on each other’s goods.",
+      "whyInNews": "This escalation highlights ongoing protectionist measures impacting international trade flows.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece"
+    },
+    {
+      "point": "India’s coal import volume decreased by 5.83% during August, primarily due to reduced demand from the power sector.",
+      "whyInNews": "This reflects changing energy consumption patterns and government efforts towards alternative fuel sources.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/indias-coal-imports-decline-583-in-august/article71652641.ece"
+    },
+    {
+      "point": "The government has approved ₹8,400 crore in upgrades to Karnataka’s maritime facilities.",
+      "whyInNews": "This reflects a growing national focus on developing coastal infrastructure and bolstering India's economic potential through sea routes.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/karnataka-invests-big-in-maritime-makeover/article71654150.ece"
+    },
+    {
+      "point": "The European Space Agency's Gaia mission has detected ‘starquakes,’ massive movements on the surfaces of stars, providing new insights into stellar evolution and dynamics.",
+      "whyInNews": "This discovery is a novel observation with potential implications for understanding star formation processes and planetary systems.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece"
+    },
+    {
+      "point": "Research indicates that traditional Kashmiri rice varieties possess cold-tolerance genes lost in modern cultivars.",
+      "whyInNews": "This discovery has implications for developing climate-resilient crops and addressing potential food security challenges due to rising temperatures.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1990,
+      "point": "British Satellite Broadcasting and Sky Television plc merge to form BSkyB as a result of massive losses.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1988,
+      "point": "The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1986,
+      "point": "Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1967,
+      "point": "Vietnam War: US President Lyndon B. Johnson and \"The Wise Men\" conclude that the American people should be given more optimistic reports on the progress of the war.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1964,
+      "point": "King Saud of Saudi Arabia is deposed by a family coup, and replaced by his half-brother Faisal.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "South Vietnamese President Ngô Đình Diệm is assassinated following a military coup.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1959,
+      "point": "The first section of the M1 motorway, the first inter-urban motorway in the United Kingdom, is opened between the present junctions 5 and 18, along with the M10 motorway and M45 motorway.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1956,
+      "point": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz...",
+      "gs": "GS1"
+    },
+    {
+      "year": 1956,
+      "point": "Suez Crisis: Israel occupies the Gaza Strip.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Four Indian-origin Democratic lawmakers are contesting the U.S. midterm elections.",
+    "Indian Oil Corporation projects significant ongoing losses on LPG sales due to subsidized pricing.",
+    "India must build oil reserves to reduce its dependence on international trade and mitigate the impact of global energy market shocks.",
+    "The November 3rd U.S. midterms determine the composition of Congress, affecting legislative priorities related to trade, security alliances, and international agreements.",
+    "Q2 FY27 performance saw growth driven by healthcare, BFSI, and IT services in India.",
+    "A civilian was apprehended for illegally killing a cheetah using a country-made firearm."
+  ]
+}
