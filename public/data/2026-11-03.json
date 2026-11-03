@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-03",
+  "currentAffairs": [
+    {
+      "point": "Protests against the SIR (System of Integrated Review) demonstrate public apprehension about its impact on popular sovereignty.",
+      "whyInNews": "The news signifies a challenge to governmental authority and raises questions regarding transparency and accountability in decision-making.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/united-stand-on-protests-against-sir/article71658203.ece"
+    },
+    {
+      "point": "Petronet LNG reported a 52.3% increase in net profits due to increased gas demand.",
+      "whyInNews": "The company is also actively pursuing agreements for undelivered liquefied natural gas (LNG) cargoes, indicating potential growth opportunities within India’s energy sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/petronet-lng-reports-523-growth-in-net-profits-in-talks-for-availing-undelivered-cargoes/article71658131.ece"
+    },
+    {
+      "point": "The Tamil Nadu government has announced a Diwali bonus for sugar mill workers as part of a scheme aimed at supporting the agricultural sector.",
+      "whyInNews": "This highlights potential government support for specific industries and labor within India’s agrarian economy.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/national/tamil-nadu-announces-deepavali-bonus-for-5190-sugar-mill-workers/article71658521.ece"
+    },
+    {
+      "point": "Chronic smoke exposure alters lung stem cell function and weakens immune defenses, creating a precancerous state.",
+      "whyInNews": "The study identifies specific mechanisms (KRAS/TP53 mutations) by which smoking induces tumor formation within the affected tissue.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece"
+    },
+    {
+      "point": "The government is grappling with the potential impact of firecracker sales on public health, particularly for vulnerable populations.",
+      "whyInNews": "This reflects ongoing concerns about environmental pollution and the need to balance individual freedoms with collective well-being.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/firecrackers-festivity-or-fallout/article71656595.ece"
+    },
+    {
+      "point": "India’s laws must respect the land rights of its people when undertaking large-scale infrastructure projects like dams.",
+      "whyInNews": "The summary explicitly frames this as a fundamental issue requiring legal recognition and government action.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/cascading-effect-on-dams-and-land-rights/article71658201.ece"
+    },
+    {
+      "point": "The Indian National Congress has raised serious questions about the valuation process of the IDBI Bank sale to Fairfax Financial Services.",
+      "whyInNews": "This highlights a potential issue with public sector bank privatization and regulatory oversight.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece"
+    },
+    {
+      "point": "India's rabi acreage has decreased by 46% due to delayed crop sowing across key crops like mustard, pulses, and gram.",
+      "whyInNews": "This decline highlights vulnerabilities in the agricultural supply chain and potential food security risks.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-rabi-acreage-down-46-as-sowing-of-all-crops-gets-delayed/article71657455.ece"
+    },
+    {
+      "point": "A novel system achieves 99.86% accuracy in identifying manipulated videos, raising concerns about the spread of disinformation.",
+      "whyInNews": "The technology's high accuracy and processing speed make it a timely development given increasing instances of deepfake manipulation.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece"
+    },
+    {
+      "point": "Seven consecutive Indian monsoons since 1950 have exhibited deficient rainfall when influenced by a moderate or strong El Niño event.",
+      "whyInNews": "The summary highlights the recurring pattern of monsoon variability linked to El Niño, providing key data for climate analysis.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+    },
+    {
+      "point": "India has voiced its opposition to the U.S. embargo against Cuba, advocating for a multilateral approach to address the situation.",
+      "whyInNews": "The statement highlights India’s stance on challenging unilateral actions by major powers and underscores the ongoing tensions between the US and Cuba.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece"
+    },
+    {
+      "point": "The FM emphasized maintaining fiscal prudence alongside continued capital expenditure (capex) push.",
+      "whyInNews": "This reflects a deliberate policy choice regarding the government's financial strategy and its potential impact on growth.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece"
+    },
+    {
+      "point": "Telangana is piloting the deployment of artificial intelligence systems within its agricultural markets to improve efficiency and data collection.",
+      "whyInNews": "This marks India’s first state-level initiative exploring AI integration in agriculture, a key area for UPSC examination.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/telangana-to-call-for-tenders-for-deploying-ai-in-market-yards/article71657608.ece"
+    },
+    {
+      "point": "The brewing El Niño, characterized by record Pacific heat, is predicted to impact global weather systems including the Indian Monsoon.",
+      "whyInNews": "Scientists are monitoring this event closely due to its potential for disrupting established climate patterns and increasing extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece"
+    },
+    {
+      "point": "A 3.1 magnitude earthquake struck Kishtwar, Jammu & Kashmir, on [Date - insert date from the actual news source].",
+      "whyInNews": "The event highlights India’s vulnerability to seismic activity and necessitates preparedness measures and disaster response protocols.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-kishtwar-mild-earthquake/article71659324.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1994,
+      "point": "Space Shuttle program: Atlantis launches on STS-66.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1988,
+      "point": "Sri Lankan Tamil mercenaries attempt to overthrow the Maldivian government. At President Maumoon Abdul Gayoom's request, the Indian military suppresses the rebellion within 24 hours.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1986,
+      "point": "The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1969,
+      "point": "Vietnam War: U.S. President Richard Nixon addresses the nation on television and radio, asking the \"silent majority\" to join him in solidarity on the Vietnam War effort and to support his policies.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1961,
+      "point": "U Thant is unanimously appointed as the 3rd Secretary-General of the United Nations, becoming the first non-European individual to occupy the post.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1956,
+      "point": "Suez Crisis: The Khan Yunis killings by the Israel Defense Forces in Egyptian-controlled Gaza result in the deaths of 275 Palestinians.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1946,
+      "point": "The Constitution of Japan is adopted through Emperor's assent.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1930,
+      "point": "Getúlio Vargas becomes Head of the Provisional Government in Brazil after a bloodless coup on October 24.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1908,
+      "point": "William Howard Taft is elected the 27th President of the United States.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Coal India’s production increased by 19% during the period.",
+    "Fairfax Group made a $5.6 billion stake purchase in IDBI Bank, driving the highest monthly tally of PE-VC investments in over four years.",
+    "Seven consecutive Indian monsoons since 1950 have exhibited deficient rainfall when influenced by a moderate or strong El Niño event.",
+    "Four Indian-origin Democratic lawmakers are contesting the U.S. midterm elections.",
+    "Indian Oil Corporation projects significant ongoing losses on LPG sales due to subsidized pricing.",
+    "India must build oil reserves to reduce its dependence on international trade and mitigate the impact of global energy market shocks."
+  ]
+}
