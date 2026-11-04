@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-04",
+  "currentAffairs": [
+    {
+      "point": "NMDC experienced an 18% rise in iron ore output in October but sales were impacted by railway line disruptions due to monsoon rains.",
+      "whyInNews": "The disruption highlights the critical role of infrastructure (railways) and weather-related risks on India’s industrial production.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece"
+    },
+    {
+      "point": "Adani Airports CEO announced a target of 300 million annual passengers within the next decade.",
+      "whyInNews": "This reflects ongoing efforts to modernize India’s aviation sector and attract private investment in airport infrastructure.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/competing-with-airlines-not-a-sound-strategy-adani-airports-ceo/article71660926.ece"
+    },
+    {
+      "point": "The Supreme Court has directed manufacturers to use green firecrackers containing eco-friendly chemicals instead of conventional ones.",
+      "whyInNews": "This reflects ongoing efforts by the government to mitigate air pollution caused by fireworks and promotes sustainable practices.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/what-are-green-firecrackers/article71660574.ece"
+    },
+    {
+      "point": "Binance’s reaction to the $400 million hack demonstrates increasing scrutiny of the cryptocurrency sector by regulators and investors.",
+      "whyInNews": "The incident underscores vulnerabilities within decentralized finance (DeFi) and raises questions about investor protection and market stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/coming-of-age-on-the-binance-hack/article71661713.ece"
+    },
+    {
+      "point": "The U.S. House of Representatives election results will determine the composition of key committees involved in shaping trade policies affecting India.",
+      "whyInNews": "These elections directly impact the balance of power within the US government and therefore its foreign policy decisions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece"
+    },
+    {
+      "point": "The Reserve Bank of India (RBI) has reopened licensing for Urban Cooperative Banks (UCBs) after 22 years.",
+      "whyInNews": "This decision is crucial due to ongoing concerns about the financial health and stability of UCBs, particularly in a multi-state cooperative context.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
+    },
+    {
+      "point": "The government is attempting to address inverted duty structures through targeted interventions.",
+      "whyInNews": "This reflects ongoing efforts within the Budget to streamline trade regulations and potentially boost exports.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/budget-fy28-govt-eyes-ease-of-trade-over-sweeping-customs-duty-cuts/article71662223.ece"
+    },
+    {
+      "point": "West Bengal's first relocated tigress, named Bhawani, was captured in Assam after venturing out of Buxa National Park.",
+      "whyInNews": "This highlights ongoing conservation challenges and the success of translocation strategies for endangered species.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengals-first-relocated-tigress-captured-on-sojourn-in-assam-returned-to-buxa/article71661805.ece"
+    },
+    {
+      "point": "Protests against the SIR (Strategic Intervention Roadmap) demonstrate concerns about its impact on popular will.",
+      "whyInNews": "The news signifies a critical juncture in governance where public opinion is being directly challenged and could foreshadow policy adjustments or government action.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/united-stand-on-protests-against-sir/article71658203.ece"
+    },
+    {
+      "point": "Pia Dandiya has been elected as a U.S. Congresswoman from Florida.",
+      "whyInNews": "Her election highlights the growing influence of Indian Americans in American politics and could impact future diplomatic discussions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/pia-dandiya-first-generation-indian-american-wins-us-house-of-representatives-from-florida/article71663784.ece"
+    },
+    {
+      "point": "Petronet LNG reported a significant 52.3% increase in net profits reflecting growth within the natural gas sector.",
+      "whyInNews": "The company's activities regarding undelivered cargoes indicate potential challenges and policy implications for India’s energy infrastructure.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/petronet-lng-reports-523-growth-in-net-profits-in-talks-for-availing-undelivered-cargoes/article71658131.ece"
+    },
+    {
+      "point": "UAE supermarket placed an order for Kullu Sinduri pomegranates, marking the first time this fruit was exported from the region.",
+      "whyInNews": "This represents a successful initial export venture and potential market development for Indian agricultural products.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/dubai-takes-a-shine-to-kullus-sinduri-pomegranates/article71661284.ece"
+    },
+    {
+      "point": "Researchers discovered a unique case of left-right snail shell asymmetry in north Japan due to maternal gene expression.",
+      "whyInNews": "The finding represents an unusual observation regarding genetic determination of chirality and could contribute to understanding developmental processes.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece"
+    },
+    {
+      "point": "The Indian National Congress has raised questions about the valuation process of the IDBI Bank sale to Fairfax Financial.",
+      "whyInNews": "This highlights potential irregularities in government-led financial transactions and their impact on public institutions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece"
+    },
+    {
+      "point": "ISMA report projects $89 billion in solar manufacturing investments by 2047, aiming to eliminate India’s import bill.",
+      "whyInNews": "This represents a major shift towards domestic renewable energy production and aligns with the government's Atmanirbhar Bharat (Self-Reliant India) initiative.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-could-attract-89-billion-in-solar-manufacturing-investments-by-2047/article71661801.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2008,
+      "point": "Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2002,
+      "point": "Chinese authorities arrest cyber-dissident He Depu for signing a pro-democracy letter to the 16th Communist Party Congress.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1995,
+      "point": "Israel–Palestinian conflict: Israeli prime minister Yitzhak Rabin is assassinated by Yigal Amir, an extremist Israeli.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1993,
+      "point": "China Airlines Flight 605, a brand-new 747-400, overruns the runway at Hong Kong Kai Tak Airport.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1980,
+      "point": "Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1979,
+      "point": "Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1970,
+      "point": "Salvador Allende takes office as President of Chile, the first Marxist to become president of a Latin American country through open elections.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1960,
+      "point": "At the Kasakela Chimpanzee Community in Tanzania, Jane Goodall observes chimpanzees creating tools, the first-ever observation in non-human animals.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1952,
+      "point": "The United States government establishes the National Security Agency, or NSA.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1924,
+      "point": "Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Protests against the SIR (System of Integrated Review) demonstrate public apprehension about its impact on popular sovereignty.",
+    "Petronet LNG reported a 52.3% increase in net profits due to increased gas demand.",
+    "The Tamil Nadu government has announced a Diwali bonus for sugar mill workers as part of a scheme aimed at supporting the agricultural sector.",
+    "Coal India’s production increased by 19% during the period.",
+    "Fairfax Group made a $5.6 billion stake purchase in IDBI Bank, driving the highest monthly tally of PE-VC investments in over four years.",
+    "Seven consecutive Indian monsoons since 1950 have exhibited deficient rainfall when influenced by a moderate or strong El Niño event."
+  ]
+}
