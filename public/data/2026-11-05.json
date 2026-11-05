@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-05",
+  "currentAffairs": [
+    {
+      "point": "States in India are experiencing significant damage due to cyclones Arnab and Murasu, requiring urgent reconstruction efforts.",
+      "whyInNews": "The news highlights the vulnerability of Indian states to extreme weather events and demands attention to effective disaster response.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece"
+    },
+    {
+      "point": "Brent crude futures dropped 1% to $93.5 per barrel following the U.S. Democratic win.",
+      "whyInNews": "Changes in global oil prices directly impact India’s import costs and overall economic stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece"
+    },
+    {
+      "point": "India has proposed immediate suspension of drug manufacturing licences following identified quality failures in medicines.",
+      "whyInNews": "The move aims to ensure public safety by preventing substandard drugs from reaching the market and addresses regulatory oversight within the pharmaceutical sector.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/policy/india-proposes-immediate-suspension-of-drug-manufacturing-licences-over-quality-failures/article71668392.ece"
+    },
+    {
+      "point": "Satellite assessment reveals a 73% reduction in Bhutan’s lake volume linked to Glacial Lake Outburst Floods (GLOFs).",
+      "whyInNews": "This highlights the urgent need for climate change adaptation strategies and disaster risk management within vulnerable Himalayan regions.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece"
+    },
+    {
+      "point": "The Trump administration faces challenges due to rising consumer prices despite economic growth.",
+      "whyInNews": "This highlights the disconnect between macroeconomic indicators and lived experiences of citizens – a key theme in Indian governance debates.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece"
+    },
+    {
+      "point": "Experts predict that El Niño may continue to elevate global rice prices until Q1 2027, posing risks to paddy production in South and Southeast Asia.",
+      "whyInNews": "This highlights a direct threat to India’s agricultural sector due to climate-related disruptions.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/el-nino-may-keep-global-rice-prices-elevated-until-q1-2027/article71664205.ece"
+    },
+    {
+      "point": "Seven Indian monsoons since 1950 have seen moderate to strong El Niño events, with five resulting in deficient rainfall.",
+      "whyInNews": "This provides a crucial understanding of the complex factors influencing India’s monsoon and its potential impact on agricultural output.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+    },
+    {
+      "point": "Binance’s reaction to the $400 million hack demonstrates increasing scrutiny of the cryptocurrency sector by regulators and investors.",
+      "whyInNews": "The incident underscores vulnerabilities within decentralized finance (DeFi) and raises questions about investor protection and market stability.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/coming-of-age-on-the-binance-hack/article71661713.ece"
+    },
+    {
+      "point": "India's extreme poverty has decreased but the prosperity gap remains significant, indicating unequal distribution of wealth and opportunity.",
+      "whyInNews": "The news directly addresses a key concern for UPSC – social inequality and its impact on development.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+    },
+    {
+      "point": "India's 2026-27 cotton output is projected to shrink by 14% due to area decline and drought conditions.",
+      "whyInNews": "The projection comes from a trade body assessment, indicating potential supply chain disruptions and requiring government attention.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/trade-body-sees-indias-2026-27-cotton-output-shrink-14-on-dip-in-area-drought/article71666279.ece"
+    },
+    {
+      "point": "The NVS-03 satellite has successfully reached Geosynchronous Orbit following four successful orbital maneuvers.",
+      "whyInNews": "ISRO reports on the satellite’s operational status and achieved orbit parameters are crucial for monitoring India's space capabilities.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+    },
+    {
+      "point": "Research indicates that green hydrogen production from north African deserts requires substantially more water than currently reported.",
+      "whyInNews": "The study highlights a previously overlooked environmental vulnerability associated with the burgeoning green hydrogen industry.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece"
+    },
+    {
+      "point": "The Centre has allocated ₹2,814 crore to boost lithium and nickel processing in India.",
+      "whyInNews": "This reflects the government's efforts to reduce import dependence for strategic minerals crucial for EV manufacturing and defense production.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
+    },
+    {
+      "point": "Triveni Sugar Company reported a significant sugar inventory as on September 30, 2026.",
+      "whyInNews": "This data reflects the current state of the domestic sugar market and potential implications for government policies related to sugarcane support prices.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/triveni-reassessing-sugarcane-outlook-in-uttar-pradesh-after-unseasonal-heavy-rain/article71665975.ece"
+    },
+    {
+      "point": "ISRO successfully launched two GLSV satellites consecutively.",
+      "whyInNews": "This highlights ISRO's recent progress and renewed confidence after previous launch failures.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/newsletter/space-wrap/space-wrap-newsletter-back-to-back-gslv-successes-help-isro-win-back-some-pride/article71665366.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2013,
+      "point": "India launches the Mars Orbiter Mission, its first interplanetary probe.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2007,
+      "point": "China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1996,
+      "point": "Pakistani President Farooq Leghari dismisses the government of Prime Minister Benazir Bhutto and dissolves the National Assembly.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1996,
+      "point": "Bill Clinton is reelected President of the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1945,
+      "point": "The three-day anti-Jewish riots in Tripolitania commence.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1940,
+      "point": "World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1780,
+      "point": "French-American forces under Colonel LaBalme are defeated by Miami Chief Little Turtle.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1009,
+      "point": "Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of Córdoba in the Battle of Qantish.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "NMDC experienced an 18% rise in iron ore output in October but sales were impacted by railway line disruptions due to monsoon rains.",
+    "Adani Airports CEO announced a target of 300 million annual passengers within the next decade.",
+    "The Supreme Court has directed manufacturers to use green firecrackers containing eco-friendly chemicals instead of conventional ones.",
+    "Protests against the SIR (System of Integrated Review) demonstrate public apprehension about its impact on popular sovereignty.",
+    "Petronet LNG reported a 52.3% increase in net profits due to increased gas demand.",
+    "The Tamil Nadu government has announced a Diwali bonus for sugar mill workers as part of a scheme aimed at supporting the agricultural sector."
+  ]
+}
