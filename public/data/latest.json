@@ -1,185 +1,185 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "currentAffairs": [
     {
-      "point": "States in India are experiencing significant damage due to cyclones Arnab and Murasu, requiring urgent reconstruction efforts.",
-      "whyInNews": "The news highlights the vulnerability of Indian states to extreme weather events and demands attention to effective disaster response.",
+      "point": "Donald Trump has designated the Oval Office as a national monument, sparking controversy over his priorities and potential disregard for established protocols.",
+      "whyInNews": "The action highlights concerns about executive authority and its relationship with historical preservation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece"
+    },
+    {
+      "point": "The Mines Ministry has launched the ninth round of auctions for 20 critical mineral blocks.",
+      "whyInNews": "This represents an ongoing government effort to boost domestic mining production and reduce reliance on imports.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
+    },
+    {
+      "point": "Mumbai Airport has allocated slots to 38 foreign airlines due to planned renovations at Terminal 1.",
+      "whyInNews": "This reflects ongoing changes in Mumbai's aviation infrastructure and its impact on international air travel.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/mumbai-airport-allocates-slots-to-38-foreign-airlines-12-face-shift-to-navi-mumbai/article71672720.ece"
+    },
+    {
+      "point": "A study found that Cyclone Arnab's damage was exacerbated by climate-induced increases in wind speed and rainfall intensity at landfall.",
+      "whyInNews": "This highlights the tangible impact of climate change on extreme weather events affecting India.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece"
+    },
+    {
+      "point": "India must eliminate situations leading to sewer cleaning deaths due to inadequate safety measures and working conditions.",
+      "whyInNews": "The news directly addresses a significant public health and worker safety concern with national implications.",
       "gs": "GS3",
       "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
     },
     {
-      "point": "Brent crude futures dropped 1% to $93.5 per barrel following the U.S. Democratic win.",
-      "whyInNews": "Changes in global oil prices directly impact India’s import costs and overall economic stability.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece"
-    },
-    {
-      "point": "India has proposed immediate suspension of drug manufacturing licences following identified quality failures in medicines.",
-      "whyInNews": "The move aims to ensure public safety by preventing substandard drugs from reaching the market and addresses regulatory oversight within the pharmaceutical sector.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/policy/india-proposes-immediate-suspension-of-drug-manufacturing-licences-over-quality-failures/article71668392.ece"
-    },
-    {
-      "point": "Satellite assessment reveals a 73% reduction in Bhutan’s lake volume linked to Glacial Lake Outburst Floods (GLOFs).",
-      "whyInNews": "This highlights the urgent need for climate change adaptation strategies and disaster risk management within vulnerable Himalayan regions.",
+      "point": "The United States is questioning the prioritization of supporting allies over its own national interests.",
+      "whyInNews": "This reflects a potential shift in global power dynamics and India’s need to navigate this evolving landscape.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece"
+      "url": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece"
     },
     {
-      "point": "The Trump administration faces challenges due to rising consumer prices despite economic growth.",
-      "whyInNews": "This highlights the disconnect between macroeconomic indicators and lived experiences of citizens – a key theme in Indian governance debates.",
+      "point": "The National Payments Corporation of India (NPCI) has imposed a Merchant Discount Rate (MDR) charge on the Unified Payment Interface (UPI) system to address concerns about its sustainability and infrastructure demands.",
+      "whyInNews": "This move follows SC’s intervention highlighting the need for robust security, resilience, and infrastructural capacity within the rapidly growing UPI ecosystem.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece"
+      "url": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
     },
     {
-      "point": "Experts predict that El Niño may continue to elevate global rice prices until Q1 2027, posing risks to paddy production in South and Southeast Asia.",
-      "whyInNews": "This highlights a direct threat to India’s agricultural sector due to climate-related disruptions.",
+      "point": "The Food Corporation of India (FCI) reported price drops in wheat sales across major producing states due to increased supply.",
+      "whyInNews": "This reflects ongoing government efforts to manage grain procurement and stabilize prices within the agricultural sector.",
       "gs": "GS3",
       "topic": "Agriculture",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/el-nino-may-keep-global-rice-prices-elevated-until-q1-2027/article71664205.ece"
+      "url": "https://www.thehindubusinessline.com/economy/prices-drop-at-fcis-wheat-sales-in-major-growing-states-as-indian-govt-doubles-quantity/article71670525.ece"
     },
     {
-      "point": "Seven Indian monsoons since 1950 have seen moderate to strong El Niño events, with five resulting in deficient rainfall.",
-      "whyInNews": "This provides a crucial understanding of the complex factors influencing India’s monsoon and its potential impact on agricultural output.",
+      "point": "The construction of the Siang dam in Arunachal Pradesh has been met with criticism due to its potential negative impacts on the region's fragile ecosystem.",
+      "whyInNews": "This highlights a critical environmental development requiring monitoring and analysis for UPSC preparation.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-proposed-siang-dam-in-arunachal-pradesh-green-humour-by-rohan-chakravarty/article71655923.ece"
     },
     {
-      "point": "Binance’s reaction to the $400 million hack demonstrates increasing scrutiny of the cryptocurrency sector by regulators and investors.",
-      "whyInNews": "The incident underscores vulnerabilities within decentralized finance (DeFi) and raises questions about investor protection and market stability.",
+      "point": "MSRTC announced a ₹10,000 ex-gratia payment to its 83,000 officers following a meeting on November 4, 2026.",
+      "whyInNews": "This reflects government policy related to employee welfare and compensation schemes.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/msrtc-announces-10000-ex-gratia-grant-for-83000-officers/article71671151.ece"
+    },
+    {
+      "point": "Thousands of Paraguayan citizens have gathered to protest against the President following a banking crisis.",
+      "whyInNews": "The protests highlight systemic issues within Paraguay's financial system and raise concerns about political stability.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece"
+    },
+    {
+      "point": "The government aims to increase the blending of Compressed Biomethane (CBG) in Petroleum-Based Natural Gas (PNG) and Cooking LNG (CNG).",
+      "whyInNews": "Achieving these targets is crucial for meeting India’s biofuel mandates and reducing reliance on fossil fuels.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/coming-of-age-on-the-binance-hack/article71661713.ece"
+      "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
     },
     {
-      "point": "India's extreme poverty has decreased but the prosperity gap remains significant, indicating unequal distribution of wealth and opportunity.",
-      "whyInNews": "The news directly addresses a key concern for UPSC – social inequality and its impact on development.",
+      "point": "The US Treasury has imposed fresh sanctions on Indian entities over suspected transactions supporting shadow fleets linked to Iran.",
+      "whyInNews": "This highlights potential risks to India’s foreign policy and its engagement with sanctioned nations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/us-treasury-imposes-fresh-sanctions-against-indian-turkish-entities-for-alleged-iran-transactions/article71669916.ece"
+    },
+    {
+      "point": "Pet owners are increasingly opting for quieter holiday destinations due to the negative impact of fireworks on their animals’ well-being.",
+      "whyInNews": "The shift reflects a growing awareness among pet parents and presents an opportunity to discuss animal welfare concerns within urban environments.",
       "gs": "GS2",
       "topic": "Social Justice",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+      "url": "https://www.thehindu.com/society/faith/how-to-calm-a-dog-during-diwali-fireworks-signs-of-firework-stress-in-cats-pet-friendly-places-to-spend-deepavali/article71656241.ece"
     },
     {
-      "point": "India's 2026-27 cotton output is projected to shrink by 14% due to area decline and drought conditions.",
-      "whyInNews": "The projection comes from a trade body assessment, indicating potential supply chain disruptions and requiring government attention.",
-      "gs": "GS3",
-      "topic": "Agriculture",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/trade-body-sees-indias-2026-27-cotton-output-shrink-14-on-dip-in-area-drought/article71666279.ece"
-    },
-    {
-      "point": "The NVS-03 satellite has successfully reached Geosynchronous Orbit following four successful orbital maneuvers.",
-      "whyInNews": "ISRO reports on the satellite’s operational status and achieved orbit parameters are crucial for monitoring India's space capabilities.",
-      "gs": "GS3",
-      "topic": "Sci-Tech",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
-    },
-    {
-      "point": "Research indicates that green hydrogen production from north African deserts requires substantially more water than currently reported.",
-      "whyInNews": "The study highlights a previously overlooked environmental vulnerability associated with the burgeoning green hydrogen industry.",
+      "point": "A report alleging Israeli atrocities has been submitted, potentially affecting India-Israel diplomatic ties.",
+      "whyInNews": "The report's implications for international scrutiny and potential legal action are significant.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece"
-    },
-    {
-      "point": "The Centre has allocated ₹2,814 crore to boost lithium and nickel processing in India.",
-      "whyInNews": "This reflects the government's efforts to reduce import dependence for strategic minerals crucial for EV manufacturing and defense production.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
-    },
-    {
-      "point": "Triveni Sugar Company reported a significant sugar inventory as on September 30, 2026.",
-      "whyInNews": "This data reflects the current state of the domestic sugar market and potential implications for government policies related to sugarcane support prices.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/triveni-reassessing-sugarcane-outlook-in-uttar-pradesh-after-unseasonal-heavy-rain/article71665975.ece"
-    },
-    {
-      "point": "ISRO successfully launched two GLSV satellites consecutively.",
-      "whyInNews": "This highlights ISRO's recent progress and renewed confidence after previous launch failures.",
-      "gs": "GS3",
-      "topic": "Sci-Tech",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/newsletter/space-wrap/space-wrap-newsletter-back-to-back-gslv-successes-help-isro-win-back-some-pride/article71665366.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece"
     }
   ],
   "history": [
     {
-      "year": 2013,
-      "point": "India launches the Mars Orbiter Mission, its first interplanetary probe.",
+      "year": 2002,
+      "point": "Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party.",
       "gs": "GS1"
     },
     {
-      "year": 2007,
-      "point": "China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.",
+      "year": 1995,
+      "point": "Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.",
       "gs": "GS1"
     },
     {
-      "year": 1996,
-      "point": "Pakistani President Farooq Leghari dismisses the government of Prime Minister Benazir Bhutto and dissolves the National Assembly.",
+      "year": 1976,
+      "point": "Uttawar forced sterilisations: Mass vasectomy of nearly 800 men of Uttawar village, Palwal district, Haryana during India's Emergency imposed by Indira Gandhi.",
       "gs": "GS1"
     },
     {
-      "year": 1996,
-      "point": "Bill Clinton is reelected President of the United States.",
+      "year": 1943,
+      "point": "World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.",
       "gs": "GS1"
     },
     {
-      "year": 1991,
-      "point": "Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people.",
+      "year": 1936,
+      "point": "Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.",
       "gs": "GS1"
     },
     {
-      "year": 1950,
-      "point": "Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon.",
+      "year": 1860,
+      "point": "Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.",
       "gs": "GS1"
     },
     {
-      "year": 1945,
-      "point": "The three-day anti-Jewish riots in Tripolitania commence.",
+      "year": 1217,
+      "point": "The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal...",
       "gs": "GS1"
     },
     {
-      "year": 1940,
-      "point": "World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.",
+      "year": 963,
+      "point": "Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.",
       "gs": "GS1"
     },
     {
-      "year": 1780,
-      "point": "French-American forces under Colonel LaBalme are defeated by Miami Chief Little Turtle.",
+      "year": 1963,
+      "point": "Nguyễn Ngọc Thơ was appointed by the junta of General Dương Văn Minh to head the South Vietnamese government, five days after Minh deposed and assassinated President Ngô Đình Diệm.",
       "gs": "GS1"
     },
     {
-      "year": 1009,
-      "point": "Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of Córdoba in the Battle of Qantish.",
+      "year": 1944,
+      "point": "The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "States in India are experiencing significant damage due to cyclones Arnab and Murasu, requiring urgent reconstruction efforts.",
+    "Brent crude futures dropped 1% to $93.5 per barrel following the U.S. Democratic win.",
+    "India has proposed immediate suspension of drug manufacturing licences following identified quality failures in medicines.",
     "NMDC experienced an 18% rise in iron ore output in October but sales were impacted by railway line disruptions due to monsoon rains.",
     "Adani Airports CEO announced a target of 300 million annual passengers within the next decade.",
-    "The Supreme Court has directed manufacturers to use green firecrackers containing eco-friendly chemicals instead of conventional ones.",
-    "Protests against the SIR (System of Integrated Review) demonstrate public apprehension about its impact on popular sovereignty.",
-    "Petronet LNG reported a 52.3% increase in net profits due to increased gas demand.",
-    "The Tamil Nadu government has announced a Diwali bonus for sugar mill workers as part of a scheme aimed at supporting the agricultural sector."
+    "The Supreme Court has directed manufacturers to use green firecrackers containing eco-friendly chemicals instead of conventional ones."
   ]
 }
