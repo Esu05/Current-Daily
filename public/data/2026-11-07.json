@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-07",
+  "currentAffairs": [
+    {
+      "point": "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of welfare schemes.",
+      "whyInNews": "This decision raises fundamental questions about targeting and efficiency in social sector spending.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece"
+    },
+    {
+      "point": "The Centre has mandated rice and paddy stock declarations in five southern states to prevent hoarding and ensure supply chain stability.",
+      "whyInNews": "This is a direct response to rising food prices and aims to address potential disruptions within the agricultural sector.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece"
+    },
+    {
+      "point": "The Government is re-launching ‘Bharat Rice’ to combat rising food grain prices.",
+      "whyInNews": "This reflects the ongoing efforts by the Ministry of Food and Public Distribution to ensure affordable staple foods for consumers.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/govt-to-re-launch-bharat-rice-as-prices-rise-asks-stakeholders-to-declare-stock/article71675015.ece"
+    },
+    {
+      "point": "Santiago Pena, President of Paraguay, was impeached following banking crisis proceedings.",
+      "whyInNews": "The impeachment highlights vulnerabilities in financial systems and the potential for political instability driven by economic issues.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece"
+    },
+    {
+      "point": "U.S. tech stocks experienced a substantial decline on the Nasdaq 100 index following the midterm elections.",
+      "whyInNews": "Investor reassessment of AI spending due to Democratic victories raises concerns about potential regulatory headwinds for data center projects in India.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece"
+    },
+    {
+      "point": "Air India is undertaking a cost-reduction drive involving returning office towers and trimming international services.",
+      "whyInNews": "This reflects ongoing efforts by the Indian government to optimize public sector investments and manage airline operations.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-weighs-returning-two-office-towers-as-cost-saving-drive-widens/article71675334.ece"
+    },
+    {
+      "point": "Cellophane bees produce a unique plastic material that degrades naturally within a year.",
+      "whyInNews": "This research offers insights into bio-based materials and their potential role in reducing plastic waste – aligning with India’s environmental goals.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+    },
+    {
+      "point": "ADNOC has signed a 10-year agreement to supply Liquified Natural Gas (LNG) to Gujarat Energy.",
+      "whyInNews": "This represents ADNOC’s fifth long-term LNG deal with India and highlights the growing energy partnership between the two nations.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece"
+    },
+    {
+      "point": "The Tea Board has put revised factory licensing guidelines on hold following protests from tea manufacturers in Coonoor.",
+      "whyInNews": "This reflects a potential disruption to the established tea industry and highlights government intervention in industrial regulation.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/tea-board-puts-revised-factory-licensing-guidelines-on-hold/article71674286.ece"
+    },
+    {
+      "point": "The Supreme Court has permitted the restricted bursting of green firecrackers during Diwali in Delhi-NCR between 6 am to 7 am and 8 pm to 10 pm on November 7th and 8th, 2026.",
+      "whyInNews": "This decision directly addresses air quality concerns during the festival season and reflects evolving environmental regulations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/deepavali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece"
+    },
+    {
+      "point": "Sewer cleaning deaths represent a critical disaster management failure requiring immediate attention and systemic reform.",
+      "whyInNews": "The story directly addresses preventable fatalities linked to inadequate sanitation infrastructure – a key concern for public health and government accountability.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+    },
+    {
+      "point": "Donald Trump replaced Susie Wiles with Stephen Miller as chief of staff following the GOP's midterm defeat.",
+      "whyInNews": "This reflects a significant leadership change within Trump’s political operation and potentially signals a shift in priorities.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece"
+    },
+    {
+      "point": "India’s aspiration to become a developed nation by 2047 necessitates robust data collection and analysis for effective policy decisions.",
+      "whyInNews": "The summary highlights the potential consequences of statistical blind spots on national development goals.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece"
+    },
+    {
+      "point": "Canadian Minister expected in Delhi next week to continue negotiating the terms of a revised Free Trade Pact between India and Canada.",
+      "whyInNews": "This reflects ongoing efforts by the Indian government to bolster trade agreements and potentially diversify economic partnerships.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-canada-race-to-speed-up-free-trade-pact-ahead-of-modis-visit-next-month/article71675142.ece"
+    },
+    {
+      "point": "A global analysis found that over 80% of aquatic and terrestrial species studied were negatively impacted by anthropogenic noise levels.",
+      "whyInNews": "This research provides concrete evidence linking increasing environmental stressors – specifically noise pollution – to detrimental effects on wildlife populations across continents.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1996,
+      "point": "NASA launches the Mars Global Surveyor.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1994,
+      "point": "WXYC, the student radio station of the University of North Carolina at Chapel Hill, launches the world's first internet radio broadcast.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1990,
+      "point": "Mary Robinson becomes the first woman to be elected President of the Republic of Ireland.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1989,
+      "point": "Douglas Wilder wins the governor's seat in Virginia, becoming the first elected African American governor in the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1989,
+      "point": "East German Prime Minister Willi Stoph, along with his entire cabinet, is forced to resign after huge anti-government protests.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "In Tunisia, president Habib Bourguiba is overthrown and replaced by Prime Minister Zine El Abidine Ben Ali.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1987,
+      "point": "The Mass Rapid Transit (MRT) system in Singapore opens for passenger service.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1983,
+      "point": "Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "The United States Congress overrides President Richard Nixon's veto of the War Powers Resolution, which limits presidential power to wage war without congressional approval.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1956,
+      "point": "Suez Crisis: The United Nations General Assembly adopts a resolution calling for the United Kingdom, France and Israel to immediately withdraw their troops from Egypt.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Donald Trump has designated the Oval Office as a national monument, sparking controversy over his priorities and potential disregard for established protocols.",
+    "The Mines Ministry has launched the ninth round of auctions for 20 critical mineral blocks.",
+    "Mumbai Airport has allocated slots to 38 foreign airlines due to planned renovations at Terminal 1.",
+    "States in India are experiencing significant damage due to cyclones Arnab and Murasu, requiring urgent reconstruction efforts.",
+    "Brent crude futures dropped 1% to $93.5 per barrel following the U.S. Democratic win.",
+    "India has proposed immediate suspension of drug manufacturing licences following identified quality failures in medicines."
+  ]
+}
