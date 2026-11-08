@@ -1,185 +1,180 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "currentAffairs": [
     {
-      "point": "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of welfare schemes.",
-      "whyInNews": "This decision raises fundamental questions about targeting and efficiency in social sector spending.",
+      "point": "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+      "whyInNews": "This decision raises fundamental questions about targeting and accountability in social sector spending.",
       "gs": "GS2",
-      "topic": "Governance",
+      "topic": "Polity",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece"
     },
     {
-      "point": "The Centre has mandated rice and paddy stock declarations in five southern states to prevent hoarding and ensure supply chain stability.",
-      "whyInNews": "This is a direct response to rising food prices and aims to address potential disruptions within the agricultural sector.",
+      "point": "Ten years after demonetisation, cash usage remains unchanged while fake notes are on the rise.",
+      "whyInNews": "The report details a significant unmet objective of the controversial 2016 policy and raises concerns about its long-term economic impact.",
       "gs": "GS3",
-      "topic": "Agriculture",
+      "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece"
+      "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
     },
     {
-      "point": "The Government is re-launching ‘Bharat Rice’ to combat rising food grain prices.",
-      "whyInNews": "This reflects the ongoing efforts by the Ministry of Food and Public Distribution to ensure affordable staple foods for consumers.",
+      "point": "Government is seeking industry input to address disruptions in shipping and margins due to the West Asia crisis.",
+      "whyInNews": "This reflects immediate concerns about supply chain vulnerabilities and their potential impact on India’s economic growth.",
       "gs": "GS3",
-      "topic": "Agriculture",
+      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/govt-to-re-launch-bharat-rice-as-prices-rise-asks-stakeholders-to-declare-stock/article71675015.ece"
+      "url": "https://www.thehindubusinessline.com/economy/govt-consults-exporters-on-relief-for-inland-freight-costs-container-crunch/article71678482.ece"
     },
     {
-      "point": "Santiago Pena, President of Paraguay, was impeached following banking crisis proceedings.",
-      "whyInNews": "The impeachment highlights vulnerabilities in financial systems and the potential for political instability driven by economic issues.",
+      "point": "Satellites are detecting significant methane emissions originating from landfill sites in Türkiye.",
+      "whyInNews": "Methane is a potent greenhouse gas with a disproportionately high warming potential compared to CO2, making this detection crucial for climate policy and monitoring.",
       "gs": "GS2",
-      "topic": "Governance",
+      "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece"
     },
     {
-      "point": "U.S. tech stocks experienced a substantial decline on the Nasdaq 100 index following the midterm elections.",
-      "whyInNews": "Investor reassessment of AI spending due to Democratic victories raises concerns about potential regulatory headwinds for data center projects in India.",
+      "point": "The FSSAI seized 3,280 tonnes of non-compliant food items during a nationwide inspection drive.",
+      "whyInNews": "This reflects ongoing efforts to ensure food safety standards and address potential risks within the Indian food supply chain.",
       "gs": "GS3",
-      "topic": "Economy",
+      "topic": "Security",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece"
+      "url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece"
     },
     {
-      "point": "Air India is undertaking a cost-reduction drive involving returning office towers and trimming international services.",
-      "whyInNews": "This reflects ongoing efforts by the Indian government to optimize public sector investments and manage airline operations.",
+      "point": "A strong earthquake of magnitude 5.7 struck a wide area near Aichi Prefecture in Japan, causing damage and disruption.",
+      "whyInNews": "Earthquakes are significant events for disaster preparedness, risk assessment, and international humanitarian response.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece"
+    },
+    {
+      "point": "India's prosperity gap remains significant, with millions still lacking a comfortable standard of living.",
+      "whyInNews": "The summary explicitly identifies this persistent inequality as a key challenge despite recent poverty reduction gains.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+    },
+    {
+      "point": "Uttar Pradesh remains the leading state in terms of GST assesses, followed by Maharashtra.",
+      "whyInNews": "The growth rate and national average provide valuable data on tax compliance and government initiatives to broaden the tax base.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-weighs-returning-two-office-towers-as-cost-saving-drive-widens/article71675334.ece"
+      "url": "https://www.thehindubusinessline.com/economy/up-retains-top-position-in-number-of-gst-assesses-followed-by-maharashtra/article71678210.ece"
     },
     {
       "point": "Cellophane bees produce a unique plastic material that degrades naturally within a year.",
-      "whyInNews": "This research offers insights into bio-based materials and their potential role in reducing plastic waste – aligning with India’s environmental goals.",
+      "whyInNews": "This research offers insights into novel bioplastics and their potential environmental impact.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
     },
     {
-      "point": "ADNOC has signed a 10-year agreement to supply Liquified Natural Gas (LNG) to Gujarat Energy.",
-      "whyInNews": "This represents ADNOC’s fifth long-term LNG deal with India and highlights the growing energy partnership between the two nations.",
+      "point": "The Adi community is protesting against the Siang Upper Multipurpose Project due to perceived threats to their land and livelihoods.",
+      "whyInNews": "Violent clashes between protestors and security forces highlight a sensitive conflict with potential implications for tribal rights and state-community relations.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
+    },
+    {
+      "point": "Reports of explosions on Qeshm Island, Iran, have emerged with unconfirmed claims of missile strikes.",
+      "whyInNews": "The event highlights a potentially destabilizing situation in the region and could impact India’s security interests.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece"
+    },
+    {
+      "point": "The Lavi Fair highlights evolving patterns in Himalayan trade – from wool and barter to digital payments – demonstrating shifts in regional economics.",
+      "whyInNews": "This event showcases a contemporary adaptation of traditional economic activities within the Indian Himalayas.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece"
+      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
     },
     {
-      "point": "The Tea Board has put revised factory licensing guidelines on hold following protests from tea manufacturers in Coonoor.",
-      "whyInNews": "This reflects a potential disruption to the established tea industry and highlights government intervention in industrial regulation.",
+      "point": "Indian Railways is undertaking a major capacity expansion by quadrupling seven key transport corridors to meet rising freight and passenger demand.",
+      "whyInNews": "The initiative addresses critical infrastructure bottlenecks impacting economic productivity.",
       "gs": "GS3",
-      "topic": "Agriculture",
+      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/tea-board-puts-revised-factory-licensing-guidelines-on-hold/article71674286.ece"
+      "url": "https://www.thehindubusinessline.com/economy/logistics/indian-railways-to-quadruple-7-major-corridors-add-over-1000-trains/article71677900.ece"
     },
     {
-      "point": "The Supreme Court has permitted the restricted bursting of green firecrackers during Diwali in Delhi-NCR between 6 am to 7 am and 8 pm to 10 pm on November 7th and 8th, 2026.",
-      "whyInNews": "This decision directly addresses air quality concerns during the festival season and reflects evolving environmental regulations.",
-      "gs": "GS2",
-      "topic": "IR",
+      "point": "A senior IT executive was fatally shot during a dispute over parking in Faridabad, India.",
+      "whyInNews": "The incident involves violence and raises concerns about public safety and the need for improved law enforcement response.",
+      "gs": "GS3",
+      "topic": "Security",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/deepavali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece"
+      "url": "https://www.thehindu.com/news/national/haryana/it-executive-shot-dead-in-faridabad-after-neighbour-fires-nine-rounds/article71679417.ece"
     },
     {
-      "point": "Sewer cleaning deaths represent a critical disaster management failure requiring immediate attention and systemic reform.",
-      "whyInNews": "The story directly addresses preventable fatalities linked to inadequate sanitation infrastructure – a key concern for public health and government accountability.",
+      "point": "India must eliminate situations leading to sewer cleaning deaths due to inadequate safety measures and working conditions.",
+      "whyInNews": "The news directly addresses a significant public health and worker safety concern with national implications.",
       "gs": "GS3",
       "topic": "Disaster",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
-    },
-    {
-      "point": "Donald Trump replaced Susie Wiles with Stephen Miller as chief of staff following the GOP's midterm defeat.",
-      "whyInNews": "This reflects a significant leadership change within Trump’s political operation and potentially signals a shift in priorities.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece"
-    },
-    {
-      "point": "India’s aspiration to become a developed nation by 2047 necessitates robust data collection and analysis for effective policy decisions.",
-      "whyInNews": "The summary highlights the potential consequences of statistical blind spots on national development goals.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece"
-    },
-    {
-      "point": "Canadian Minister expected in Delhi next week to continue negotiating the terms of a revised Free Trade Pact between India and Canada.",
-      "whyInNews": "This reflects ongoing efforts by the Indian government to bolster trade agreements and potentially diversify economic partnerships.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/india-canada-race-to-speed-up-free-trade-pact-ahead-of-modis-visit-next-month/article71675142.ece"
-    },
-    {
-      "point": "A global analysis found that over 80% of aquatic and terrestrial species studied were negatively impacted by anthropogenic noise levels.",
-      "whyInNews": "This research provides concrete evidence linking increasing environmental stressors – specifically noise pollution – to detrimental effects on wildlife populations across continents.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
     }
   ],
   "history": [
     {
-      "year": 1996,
-      "point": "NASA launches the Mars Global Surveyor.",
+      "year": 2002,
+      "point": "Iraq disarmament crisis: UN Security Council Resolution 1441: The United Nations Security Council unanimously approves a resolution on Iraq, forcing Saddam Hussein to disarm or face \"serious consequences\".",
       "gs": "GS1"
     },
     {
-      "year": 1994,
-      "point": "WXYC, the student radio station of the University of North Carolina at Chapel Hill, launches the world's first internet radio broadcast.",
+      "year": 1968,
+      "point": "The Vienna Convention on Road Traffic is signed to facilitate international road traffic and to increase road safety by standardising the uniform traffic rules among the signatories.",
       "gs": "GS1"
     },
     {
-      "year": 1990,
-      "point": "Mary Robinson becomes the first woman to be elected President of the Republic of Ireland.",
+      "year": 1957,
+      "point": "Pan Am Flight 7 disappears between San Francisco and Honolulu. Wreckage and bodies are discovered a week later.",
       "gs": "GS1"
     },
     {
-      "year": 1989,
-      "point": "Douglas Wilder wins the governor's seat in Virginia, becoming the first elected African American governor in the United States.",
+      "year": 1939,
+      "point": "In Munich, Adolf Hitler narrowly escapes the assassination attempt of Georg Elser while celebrating the 16th anniversary of the Beer Hall Putsch.",
       "gs": "GS1"
     },
     {
-      "year": 1989,
-      "point": "East German Prime Minister Willi Stoph, along with his entire cabinet, is forced to resign after huge anti-government protests.",
+      "year": 1932,
+      "point": "Franklin D. Roosevelt is elected as the 32nd President of the United States, defeating incumbent president Herbert Hoover.",
       "gs": "GS1"
     },
     {
-      "year": 1987,
-      "point": "In Tunisia, president Habib Bourguiba is overthrown and replaced by Prime Minister Zine El Abidine Ben Ali.",
+      "year": 1901,
+      "point": "Gospel riots: Bloody clashes take place in Athens following the translation of the Gospels into demotic Greek.",
       "gs": "GS1"
     },
     {
-      "year": 1987,
-      "point": "The Mass Rapid Transit (MRT) system in Singapore opens for passenger service.",
+      "year": 1837,
+      "point": "Mary Lyon founds Mount Holyoke Female Seminary, which later becomes Mount Holyoke College.",
       "gs": "GS1"
     },
     {
-      "year": 1983,
-      "point": "Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war",
+      "year": 1520,
+      "point": "After being crowned king of Sweden, Christian II gave the order to execute nearly 100 people, mostly noblemen, despite promises of general amnesty.",
       "gs": "GS1"
     },
     {
-      "year": 1973,
-      "point": "The United States Congress overrides President Richard Nixon's veto of the War Powers Resolution, which limits presidential power to wage war without congressional approval.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1956,
-      "point": "Suez Crisis: The United Nations General Assembly adopts a resolution calling for the United Kingdom, France and Israel to immediately withdraw their troops from Egypt.",
+      "year": 1291,
+      "point": "The Republic of Venice enacts a law confining most of Venice's glassmaking industry to the \"island of Murano\".",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of welfare schemes.",
+    "The Centre has mandated rice and paddy stock declarations in five southern states to prevent hoarding and ensure supply chain stability.",
+    "The Government is re-launching ‘Bharat Rice’ to combat rising food grain prices.",
     "Donald Trump has designated the Oval Office as a national monument, sparking controversy over his priorities and potential disregard for established protocols.",
     "The Mines Ministry has launched the ninth round of auctions for 20 critical mineral blocks.",
-    "Mumbai Airport has allocated slots to 38 foreign airlines due to planned renovations at Terminal 1.",
-    "States in India are experiencing significant damage due to cyclones Arnab and Murasu, requiring urgent reconstruction efforts.",
-    "Brent crude futures dropped 1% to $93.5 per barrel following the U.S. Democratic win.",
-    "India has proposed immediate suspension of drug manufacturing licences following identified quality failures in medicines."
+    "Mumbai Airport has allocated slots to 38 foreign airlines due to planned renovations at Terminal 1."
   ]
 }
