@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-09",
+  "currentAffairs": [
+    {
+      "point": "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+      "whyInNews": "This decision raises fundamental questions about targeting and accountability in social sector spending.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece"
+    },
+    {
+      "point": "Santiago Pena is accused of misusing government deposits through Ueno Bank.",
+      "whyInNews": "This highlights concerns about financial accountability and transparency within the Paraguayan government.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/police-raid-home-of-ex-president-of-paraguay/article71681272.ece"
+    },
+    {
+      "point": "The COP31 summit, involving over 100,000 attendees, focuses on addressing escalating climate and geopolitical pressures related to global emissions reduction targets.",
+      "whyInNews": "It represents a critical juncture in international efforts to combat climate change and highlights the interconnectedness of environmental and political challenges.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece"
+    },
+    {
+      "point": "Ten years after demonetisation, cash usage remains unchanged while fake notes are on the rise.",
+      "whyInNews": "The report details a significant unmet objective of the controversial 2016 policy and raises concerns about its long-term economic impact.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+    },
+    {
+      "point": "Satellites are detecting significant methane emissions originating from landfill sites in Türkiye.",
+      "whyInNews": "Methane is a potent greenhouse gas with a disproportionately high warming potential compared to CO2, making this detection crucial for climate policy and monitoring.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece"
+    },
+    {
+      "point": "Ministers from leading nations are discussing strategies related to the Russia-Ukraine war.",
+      "whyInNews": "This reflects continued international efforts and potential implications for India’s stance on global conflicts.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece"
+    },
+    {
+      "point": "India's prosperity gap remains significant, with millions still lacking a comfortable standard of living.",
+      "whyInNews": "The summary explicitly identifies this persistent inequality as a key challenge despite recent poverty reduction gains.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+    },
+    {
+      "point": "The industry is being urged to provide farmers with data-backed product recommendations targeting specific crop stress pathways.",
+      "whyInNews": "This reflects a growing emphasis on precision agriculture and sustainable farming techniques within the Indian agricultural sector.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/a-stress-tested-rabi-what-the-biochemistry-of-biologicals-actually-delivers/article71677552.ece"
+    },
+    {
+      "point": "Cellophane bees produce a unique plastic material that degrades naturally within a year.",
+      "whyInNews": "This research offers insights into novel bioplastics and their potential environmental impact.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+    },
+    {
+      "point": "The Adi community is protesting against the Siang Upper Multipurpose Project due to perceived threats to their land and livelihoods.",
+      "whyInNews": "Violent clashes between protestors and security forces highlight a sensitive conflict with potential implications for tribal rights and state-community relations.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
+    },
+    {
+      "point": "India must eliminate situations leading to sewer cleaning deaths due to inadequate safety measures and working conditions.",
+      "whyInNews": "The news directly addresses a significant public health and worker safety concern with national implications.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+    },
+    {
+      "point": "The Lavi Fair highlights evolving patterns in Himalayan trade – from wool and barter to digital payments – demonstrating shifts in regional economics.",
+      "whyInNews": "This event showcases a contemporary adaptation of traditional economic activities within the Indian Himalayas.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+    },
+    {
+      "point": "The government is promoting domestic biofuel production through incentives and mandates to reduce reliance on imported fossil fuels.",
+      "whyInNews": "This initiative aligns with India’s broader strategy for energy independence and sustainable development.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/can-ethanol-reduce-indias-dependence-on-imported-fuel-building-a-strong-domestic-biofuel-industry/article71677535.ece"
+    },
+    {
+      "point": "A major blaze has engulfed the Nehru Market in Jammu, causing substantial damage to shops.",
+      "whyInNews": "This event highlights vulnerabilities within urban infrastructure and necessitates assessment of disaster preparedness protocols.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece"
+    },
+    {
+      "point": "Pope Leo XVI publicly criticized the Argentine government's austerity measures impacting vulnerable populations.",
+      "whyInNews": "This highlights potential challenges in implementing social welfare programs and could inform discussions on similar policies within India.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2000,
+      "point": "Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1998,
+      "point": "A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "The Tsurumi rail accident on the Tōkaidō Main Line in Yokohama kills 162 people.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1960,
+      "point": "Robert McNamara is named president of the Ford Motor Company, becoming the first non-Ford family member to serve in that post. He resigns a month later to join the newly elected John F. Kennedy administration.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "Battle of Stalingrad: German forces of the 6th Army under general Friedrich Paulus reach the river bank of the Volga, capturing 90% of the ruined city of Stalingrad and splitting the remaining Soviet forces into two...",
+      "gs": "GS1"
+    },
+    {
+      "year": 1940,
+      "point": "Warsaw is awarded the Virtuti Militari by the Polish government-in-exile.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1938,
+      "point": "Kristallnacht occurs, instigated by the Nazis using the killing of German diplomat Ernst vom Rath by Herschel Grynszpan as justification.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1936,
+      "point": "American fashion designer Ruth Harkness seeks and captures a nine-week-old panda cub in Sichuan; named Su Lin, he becomes the first live giant panda to enter the United States.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1921,
+      "point": "The National Fascist Party (Partito Nazionale Fascista or PNF) is founded in Italy.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1918,
+      "point": "Kaiser Wilhelm II of Germany abdicates after the German Revolution, and Germany is proclaimed a Republic.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+    "Ten years after demonetisation, cash usage remains unchanged while fake notes are on the rise.",
+    "Government is seeking industry input to address disruptions in shipping and margins due to the West Asia crisis.",
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of welfare schemes.",
+    "The Centre has mandated rice and paddy stock declarations in five southern states to prevent hoarding and ensure supply chain stability.",
+    "The Government is re-launching ‘Bharat Rice’ to combat rising food grain prices."
+  ]
+}
