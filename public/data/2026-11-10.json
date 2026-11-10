@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-10",
+  "currentAffairs": [
+    {
+      "point": "Authorities are emphasizing strict enforcement of the cracker ban across all levels of government.",
+      "whyInNews": "This reflects ongoing concerns about public safety and regulatory compliance – a recurring theme in Indian governance.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/cracker-conundrum-on-need-for-strict-enforcement-of-cracker-ban/article71683846.ece"
+    },
+    {
+      "point": "The African National Congress (ANC) achieved its weakest-ever local election result due to widespread corruption and joblessness.",
+      "whyInNews": "This signifies a critical deterioration in the stability of South Africa’s government and highlights challenges within the ANC's governance model.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/the-fall-of-the-anc-how-mandelas-party-slid-to-its-worst-ever-result-explained/article71684912.ece"
+    },
+    {
+      "point": "Major private sector investments are being made in Navi Mumbai’s hospitality sector.",
+      "whyInNews": "The pipeline of hotel projects, including those from Adani Group, signifies a potential increase in economic activity and infrastructure development within the region.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/navi-mumbai-emerges-top-destination-for-new-hotel-development/article71682748.ece"
+    },
+    {
+      "point": "The National Medical Commission (NMC) has issued an advisory warning against unauthorized medical colleges to protect students from fraudulent admissions and misleading practices.",
+      "whyInNews": "This addresses a critical issue of student safety and the integrity of the healthcare system.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/why-has-nmc-cautioned-students-against-unauthorised-medical-colleges-explained/article71684887.ece"
+    },
+    {
+      "point": "The OALP (Open Access to Low-Pressure Shelf) deepwater block bidding process has been extended again to December 10th.",
+      "whyInNews": "This reflects ongoing challenges and adjustments within India’s energy exploration policy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oalp-deepwater-bidding-deadline-extended-again-to-december-10/article71682533.ece"
+    },
+    {
+      "point": "India's September tea output increased by 15% to 184.22 million kg due to a rebound in Assam production.",
+      "whyInNews": "This reflects changes in agricultural yields and provides data on key commodity production within India.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-september-tea-output-up-15-at-18422-m-kg-on-rebound-in-assam/article71683332.ece"
+    },
+    {
+      "point": "Advanced pottery analysis from Keeladi and Gottiprolu reveals evidence of dairy processing and plant cultivation between the 6th and 1st century BC in South India.",
+      "whyInNews": "The findings contribute to a more nuanced understanding of early Indian civilization and its economic activities.",
+      "gs": "GS1",
+      "topic": "History",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/new-insights-into-prehistoric-south-indias-culinary-culture/article71677595.ece"
+    },
+    {
+      "point": "The Global Carbon Project reported a 0.4% decrease in heat-trapping carbon dioxide emissions globally in 2026.",
+      "whyInNews": "This data offers a key metric for assessing progress (or lack thereof) towards mitigating climate change, and the mention of Iran’s war introduces an unexpected factor potentially influencing this trend.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece"
+    },
+    {
+      "point": "The slow expansion of rural internet access highlights challenges in government policy implementation and digital inclusion initiatives.",
+      "whyInNews": "Despite recent progress, significant gaps remain in broadband connectivity across India’s hinterlands, representing a critical barrier to socio-economic development.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/why-is-rural-internet-connectivity-hard-to-expand-explained/article71684903.ece"
+    },
+    {
+      "point": "Donald Trump stated that new Iranian attacks against shipping in the Strait of Hormuz are ‘unlikely’, leading to a fall in oil prices.",
+      "whyInNews": "This reflects potential instability in a critical global trade route and its immediate economic consequences.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oil-falls-as-donald-trump-says-new-iran-attacks-unlikely/article71681302.ece"
+    },
+    {
+      "point": "South-West Monsoon failure due to El Nino has led to reduced crop yields across Kharif crops in India.",
+      "whyInNews": "The weather impact directly affects food security and agricultural policy considerations.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/prices-of-most-indian-kharif-crops-rule-above-msp-as-weather-impacts-production/article71683490.ece"
+    },
+    {
+      "point": "The argument centers on the difficulty of establishing direct causation between carbon emissions and individual harm in cases of flooding.",
+      "whyInNews": "It highlights a key challenge – proving proximate cause – within climate litigation globally.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece"
+    },
+    {
+      "point": "The Srinagar administration has suspended FAR and land-use exemptions alongside Section 22 until brought within the Master Plan framework.",
+      "whyInNews": "This reflects ongoing efforts to regulate urban development in conflict zones and ensure adherence to established planning regulations.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/building-over-srinagars-future/article71682424.ece"
+    },
+    {
+      "point": "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of welfare schemes.",
+      "whyInNews": "This decision raises fundamental questions about targeting and efficiency in social sector spending.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece"
+    },
+    {
+      "point": "Jensen Huang is being sued over undisclosed information relating to his marital status and alleged connections to a Chinese spy.",
+      "whyInNews": "The lawsuit raises concerns about potential national security risks associated with Nvidia’s operations and the flow of technology.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/article71684853.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1865,
+      "point": "Major Henry Wirz, the superintendent of a prison camp in Andersonville, Georgia, is hanged, becoming one of only three American Civil War soldiers executed for war crimes.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1793,
+      "point": "A Goddess of Reason is proclaimed by the French Convention at the suggestion of Pierre Gaspard Chaumette.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1444,
+      "point": "Battle of Varna: The crusading forces of King Władysław III of Poland (aka Ulaszlo I of Hungary and Władysław III of Varna) are defeated by the Turks under Sultan Murad II and Władysław is killed.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+    "Santiago Pena is accused of misusing government deposits through Ueno Bank.",
+    "The COP31 summit, involving over 100,000 attendees, focuses on addressing escalating climate and geopolitical pressures related to global emissions reduction targets.",
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+    "Ten years after demonetisation, cash usage remains unchanged while fake notes are on the rise.",
+    "Government is seeking industry input to address disruptions in shipping and margins due to the West Asia crisis."
+  ]
+}
