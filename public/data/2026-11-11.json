@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-11",
+  "currentAffairs": [
+    {
+      "point": "The government has decided to consistently exclude the creamy layer from OBC reservation benefits.",
+      "whyInNews": "This decision addresses ongoing legal challenges and aims for greater equity within the reservation framework.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece"
+    },
+    {
+      "point": "Several industry bodies are seeking reductions in Central Goods and Services Tax (CGST) and Securities Transaction Tax (STT) as part of pre-Budget consultations.",
+      "whyInNews": "This highlights the ongoing dialogue between government and key sectors regarding fiscal policy and investment incentives.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
+    },
+    {
+      "point": "USDA estimates a decrease in global cotton production due to reduced yields in the US, India, and Turkey.",
+      "whyInNews": "This reflects shifting agricultural trends and potential implications for textile industries and trade.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/global-cotton-output-to-decline-as-us-india-crops-shrink-says-usda/article71687533.ece"
+    },
+    {
+      "point": "Kadambini Ganguly became the first Indian female doctor to practice Western medicine after overcoming societal barriers.",
+      "whyInNews": "Her pioneering work highlights challenges faced by women in accessing education and professional opportunities during her time.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece"
+    },
+    {
+      "point": "Türkiye is spearheading a voluntary target of raising electricity's share in global energy consumption to 35% by 2035.",
+      "whyInNews": "This reflects ongoing international efforts to mitigate climate change and promote renewable energy adoption.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece"
+    },
+    {
+      "point": "The Justice Kurian Joseph Committee was established to examine issues related to the Centre-State relationship and its effectiveness.",
+      "whyInNews": "This suggests an ongoing debate about the balance of power within India’s federal structure.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece"
+    },
+    {
+      "point": "Bharat Mobility 3.0 will host over 50 countries and 1,750+ exhibitors, indicating a major international trade event focused on mobility technologies.",
+      "whyInNews": "The scale of the show – involving multiple nations – highlights India’s growing role in global technological advancements and its potential for economic collaboration.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/bharat-mobility-30-to-see-50-countries-1750-exhibitors-on-february-4-9-2027/article71687191.ece"
+    },
+    {
+      "point": "Nvidia’s market valuation surpassing Apple highlights the strategic importance of semiconductor technology for global economic power.",
+      "whyInNews": "The story reveals China’s efforts to secure access to advanced AI chips, a key component in technological advancement and national competitiveness.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece"
+    },
+    {
+      "point": "The Adi community is protesting against the Siang Upper Multipurpose Project due to perceived threats to their land and livelihoods.",
+      "whyInNews": "Violent clashes between protestors and security forces highlight a sensitive conflict with potential implications for tribal rights and state-community relations.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
+    },
+    {
+      "point": "Pranab Mukherjee expressed an interest in becoming Prime Minister during a private conversation with Sonia Gandhi.",
+      "whyInNews": "Gandhi's subsequent reaction highlights the internal power struggles and considerations within the Congress party regarding leadership succession.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece"
+    },
+    {
+      "point": "Authorities are emphasizing strict enforcement of the cracker ban across all levels of government.",
+      "whyInNews": "This reflects ongoing concerns about public safety and regulatory compliance – a recurring theme in Indian governance.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/cracker-conundrum-on-need-for-strict-enforcement-of-cracker-ban/article71683846.ece"
+    },
+    {
+      "point": "The Commerce Minister announced India is on track to achieve its $1 trillion export target for the current fiscal year.",
+      "whyInNews": "This highlights ongoing efforts to boost trade and investment within the Indian economy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-on-track-to-achieve-1-trillion-export-target-this-fiscal-says-piyush-goyal/article71687185.ece"
+    },
+    {
+      "point": "The ‘guideline on the reform of higher education institutions’ mandates specific goals for Chinese universities, driven by a tightening job market and AI disruption.",
+      "whyInNews": "This reflects evolving government priorities in shaping human capital development within China's economic landscape.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece"
+    },
+    {
+      "point": "The case argues that major carbon emitters should be held legally accountable for flood damage caused by climate change.",
+      "whyInNews": "It introduces a novel legal strategy – suing large polluters – which could significantly shift the discourse on climate liability.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece"
+    },
+    {
+      "point": "The Ministry of Petroleum & Natural Gas has extended the deadline for the Offshore Wind Farm (Bidding) Round – Deep Water to December 10, 2023.",
+      "whyInNews": "This reflects ongoing efforts by the government to promote renewable energy and attract investment in India’s offshore wind sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oalp-deepwater-bidding-deadline-extended-again-to-december-10/article71682533.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2022,
+      "point": "Russo-Ukrainian War: Ukrainian armed forces enter the city of Kherson following a successful two-month southern counteroffensive.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2004,
+      "point": "The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2002,
+      "point": "Russian mathematician Grigori Perelman posts the first of three preprint texts with his proof of the Poincaré conjecture. It remains the only of the Millennium Prize Problems in mathematics to be solved. He later...",
+      "gs": "GS1"
+    },
+    {
+      "year": 2001,
+      "point": "Journalists Pierre Billaud, Johanne Sutton and Volker Handloik are killed in Afghanistan during an attack on the convoy they are traveling in.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1999,
+      "point": "The House of Lords Act is given Royal Assent, restricting membership of the British House of Lords by virtue of a hereditary peerage.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1993,
+      "point": "A sculpture honoring women who served in the Vietnam War is dedicated at the Vietnam Veterans Memorial in Washington, D.C.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1992,
+      "point": "The General Synod of the Church of England votes to allow women to become priests.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1975,
+      "point": "Australian constitutional crisis of 1975: Australian Governor-General Sir John Kerr dismisses the government of Gough Whitlam, appoints Malcolm Fraser as caretaker Prime Minister and announces a general election to be...",
+      "gs": "GS1"
+    },
+    {
+      "year": 1975,
+      "point": "Independence of Angola.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1968,
+      "point": "Vietnam War: Operation Commando Hunt initiated. The goal is to interdict men and supplies on the Ho Chi Minh trail, through Laos into South Vietnam.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Authorities are emphasizing strict enforcement of the cracker ban across all levels of government.",
+    "The African National Congress (ANC) achieved its weakest-ever local election result due to widespread corruption and joblessness.",
+    "Major private sector investments are being made in Navi Mumbai’s hospitality sector.",
+    "The Supreme Court has ruled that the electoral roll cannot be used as the basis for determining beneficiaries of government welfare schemes.",
+    "Santiago Pena is accused of misusing government deposits through Ueno Bank.",
+    "The COP31 summit, involving over 100,000 attendees, focuses on addressing escalating climate and geopolitical pressures related to global emissions reduction targets."
+  ]
+}
