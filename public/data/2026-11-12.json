@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-12",
+  "currentAffairs": [
+    {
+      "point": "The Gokul Dairy cooperative’s mandate was overturned by the court.",
+      "whyInNews": "This decision highlights potential challenges to cooperative structures within India's agricultural sector and raises questions about government intervention in such bodies.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/milking-power-on-the-overturning-of-gokul-dairy-cooperative-mandate/article71690141.ece"
+    },
+    {
+      "point": "The National Payments Corporation of India (NPCI) has postponed the implementation date for Unified Payment Interface (UPI) Merchant Discount Rate (MDR) rollout.",
+      "whyInNews": "This delay reflects ongoing discussions and potential adjustments to digital payment policies within India.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece"
+    },
+    {
+      "point": "India has approved a ₹62,370-crore rabi fertiliser subsidy, representing a 64% increase over the budget estimate.",
+      "whyInNews": "This reflects government policy aimed at supporting farmers and ensuring adequate crop production.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-raises-fertilizer-subsidy-by-64-vastly-overshooting-budget-estimates-amid-global-price-surge/article71690051.ece"
+    },
+    {
+      "point": "Researchers analyzed microbial communities present on high-touch surfaces within the Chennai Metro Rail system.",
+      "whyInNews": "The study highlights a potential area for further investigation into urban microbiomes and their characteristics.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece"
+    },
+    {
+      "point": "The CEC suggests a three-year roadmap to phase out unsustainable sand mining from active river channels due to its disruptive effects on river systems.",
+      "whyInNews": "This reflects growing concerns about the ecological damage caused by unregulated resource extraction and necessitates understanding of environmental regulations and conservation strategies.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/central-committee-suggests-three-year-roadmap-to-phase-out-unsustainable-sand-mining-from-active-river-channels/article71690441.ece"
+    },
+    {
+      "point": "Moody’s has upgraded India’s FY27 GDP growth estimate to 7% based on robust consumption and investment dynamics.",
+      "whyInNews": "This reflects a positive assessment of the Indian economy's trajectory by an international credit rating agency.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
+    },
+    {
+      "point": "Finmin has defined 'abnormally low bid' as more than 30% below estimated cost to ensure rationalization of government contracts.",
+      "whyInNews": "This clarifies the criteria for evaluating bids and potentially preventing corruption or inefficient spending within public procurement.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/finmin-defines-abnormally-low-bid-for-government-contracts/article71688473.ece"
+    },
+    {
+      "point": "A Gorakhpur-bound train derailed in Kanpur due to an unknown cause.",
+      "whyInNews": "The incident highlights railway safety concerns and necessitates investigation into the circumstances surrounding the derailment.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/gorakhpur-bound-train-derails-in-kanpur-no-casualties/article71692171.ece"
+    },
+    {
+      "point": "The government has decided to consistently exclude the creamy layer from OBC reservation benefits.",
+      "whyInNews": "This decision addresses ongoing legal challenges and aims for greater equity within the reservation framework.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece"
+    },
+    {
+      "point": "Several industry bodies are seeking reductions in Central Goods and Services Tax (CGST) and Securities Transaction Tax (STT) as part of pre-Budget consultations.",
+      "whyInNews": "This highlights the ongoing dialogue between government and key sectors regarding fiscal policy and investment incentives.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
+    },
+    {
+      "point": "Overall tax mop-up rose by 12% during April-November.",
+      "whyInNews": "The jump of 50% in STT collections indicates a specific sector experiencing growth and highlights the government’s revenue targets.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/stt-collection-jumps-50-during-april-1-november/article71690691.ece"
+    },
+    {
+      "point": "A new study reveals income inequality and geographical location significantly impact pain levels in adults.",
+      "whyInNews": "This provides valuable data on the complex relationship between socioeconomic factors and healthcare access/outcomes – a frequently tested topic.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece"
+    },
+    {
+      "point": "The Justice Kurian Joseph Committee was established to examine issues related to the Centre-State relationship and its effectiveness.",
+      "whyInNews": "This suggests an ongoing debate about the balance of power within India’s federal structure.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece"
+    },
+    {
+      "point": "At least two people have died and many are feared trapped after a building collapsed in New York City.",
+      "whyInNews": "The collapse highlights vulnerabilities in urban construction standards and necessitates an immediate assessment of safety regulations.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/brooklyn-building-collapse-updates/article71692198.ece"
+    },
+    {
+      "point": "Growers in Pampore report an increased saffron yield this season following erratic weather conditions last year.",
+      "whyInNews": "This reflects the vulnerability of specific agricultural products to climate change and highlights potential strategies for resilience.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/kashmir-saffron-yield-rises-over-15-despite-weather-uncertainties/article71689029.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2011,
+      "point": "Silvio Berlusconi tenders his resignation as Prime Minister of Italy, effective November 16, due in large part to the Euro area crisis.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2011,
+      "point": "A blast in Iran's Shahid Modarres missile base leads to the death of 17 of the Revolutionary Guards members, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2003,
+      "point": "Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2001,
+      "point": "War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1990,
+      "point": "Crown Prince Akihito is formally installed as Emperor Akihito of Japan, becoming the 125th Japanese monarch.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1990,
+      "point": "Tim Berners-Lee publishes a formal proposal for the World Wide Web.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1975,
+      "point": "The Comoros joins the United Nations.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1971,
+      "point": "Vietnam War: As part of Vietnamization, U.S. President Richard Nixon sets February 1, 1972 as the deadline for the removal of another 45,000 American troops from Vietnam.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1942,
+      "point": "World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The government has decided to consistently exclude the creamy layer from OBC reservation benefits.",
+    "Several industry bodies are seeking reductions in Central Goods and Services Tax (CGST) and Securities Transaction Tax (STT) as part of pre-Budget consultations.",
+    "USDA estimates a decrease in global cotton production due to reduced yields in the US, India, and Turkey.",
+    "Authorities are emphasizing strict enforcement of the cracker ban across all levels of government.",
+    "The African National Congress (ANC) achieved its weakest-ever local election result due to widespread corruption and joblessness.",
+    "Major private sector investments are being made in Navi Mumbai’s hospitality sector."
+  ]
+}
