@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-13",
+  "currentAffairs": [
+    {
+      "point": "India needs to strengthen its ties with Bangladesh to ensure regional stability and security.",
+      "whyInNews": "The summary explicitly states this imperative regarding India-Bangladesh relations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/in-a-dilemma-on-sheikh-hasina-and-india-bangladesh-ties/article71695189.ece"
+    },
+    {
+      "point": "The IMF has upgraded India’s medium-term potential GDP growth to 6.8% from 6.5%.",
+      "whyInNews": "This reflects a shift in global economic forecasts and provides context for assessing India's future economic trajectory.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece"
+    },
+    {
+      "point": "The Prime Minister urged farmers to diversify crops and adopt natural farming methods to reduce reliance on chemical fertilizers.",
+      "whyInNews": "This reflects ongoing government efforts to promote sustainable agricultural practices and address concerns about soil health and farmer incomes.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/modi-urges-farmers-to-diversify-crops-adopt-natural-farming-and-reduce-chemical-use/article71695193.ece"
+    },
+    {
+      "point": "Researchers at Shanghai Jiao Tong University have developed ‘AutoDNA’, an Agentic laboratory platform utilizing artificial intelligence to perform complex lab research.",
+      "whyInNews": "This represents a potential breakthrough in automated scientific processes and could impact India’s R&D landscape.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece"
+    },
+    {
+      "point": "Countries are collectively aiming to triple renewable energy capacity as part of the ongoing global effort to combat climate change.",
+      "whyInNews": "The news reflects a significant development within the framework established at COP28 and COP29 regarding sustainable energy strategies.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece"
+    },
+    {
+      "point": "Nations are being urged to deliver on previously agreed-upon emission reduction pledges prior to establishing ambitious new climate goals.",
+      "whyInNews": "The story underscores the urgency of action and accountability within international climate negotiations – a key area for UPSC examination.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece"
+    },
+    {
+      "point": "CAG will conduct five-year performance audits of Distribution Companies (DISCOMs) focusing on consumer satisfaction metrics.",
+      "whyInNews": "This reflects the central government’s ongoing efforts to improve electricity distribution and address issues related to power supply reliability and affordability.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece"
+    },
+    {
+      "point": "Navi Mumbai has been officially designated as India's cleanest city based on the latest Swachh Survekshan rankings.",
+      "whyInNews": "This reflects a shift in leadership from Indore and highlights ongoing efforts to improve urban sanitation across India.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece"
+    },
+    {
+      "point": "India's retail inflation has exceeded the RBI’s upper limit of 4% for the first time in two years, reaching 6.1%.",
+      "whyInNews": "This indicates a potential shift in monetary policy and broader economic challenges requiring analysis.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
+    },
+    {
+      "point": "Jason Knauf highlights India's focus on securing access to cheap, clean energy for significant economic gain.",
+      "whyInNews": "The statement reflects a critical element of India’s current development strategy and its implications for global trade and geopolitical influence.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece"
+    },
+    {
+      "point": "The Ladakh administration has imposed restrictions on Sonam Wangchuk’s movement and communication.",
+      "whyInNews": "This reflects potential government interference in the activities of activists and raises questions about freedom of expression within a Union Territory.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece"
+    },
+    {
+      "point": "The Gokul Dairy cooperative’s mandate was overturned by the court.",
+      "whyInNews": "This decision raises concerns about regulatory oversight of cooperatives and their role in the agricultural sector.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/milking-power-on-the-overturning-of-gokul-dairy-cooperative-mandate/article71690141.ece"
+    },
+    {
+      "point": "The Reserve Bank of India (RBI) has proposed a ₹50 lakh cap on overseas remittances to curb dollar outflows.",
+      "whyInNews": "This reflects RBI’s efforts to manage the rupee's exchange rate amidst global economic uncertainties.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
+    },
+    {
+      "point": "Government subsidies are being increased to boost demand for DAP and complex fertilizers following low rabi crop coverage.",
+      "whyInNews": "This reflects a key challenge in ensuring agricultural productivity and addressing potential supply-side issues.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/hike-in-subsidy-poised-to-boost-sales-of-dap-complex-fertilizers/article71694107.ece"
+    },
+    {
+      "point": "Researchers have identified the Indian Bramble Shark (Echinorhinus roinee) as a previously misclassified species in the Indian Ocean.",
+      "whyInNews": "This discovery highlights ongoing efforts to understand and protect marine biodiversity.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2002,
+      "point": "Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2000,
+      "point": "Philippine House Speaker Manny Villar passes the articles of impeachment against Philippine President Joseph Estrada.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1995,
+      "point": "Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1994,
+      "point": "In a referendum, voters in Sweden decide to join the European Union.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1985,
+      "point": "The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "Ray Mancini defeats Duk Koo Kim in a boxing match held in Las Vegas. Kim's subsequent death (on November 18) leads to significant changes in the sport.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1982,
+      "point": "The Vietnam Veterans Memorial is dedicated in Washington, D.C. after a march to its site by thousands of Vietnam War veterans.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1967,
+      "point": "The first of its many UFO sightings is made at Pudasjärvi, Finland.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1947,
+      "point": "The Soviet Union completes development of the AK-47, one of the first proper assault rifles.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The Gokul Dairy cooperative’s mandate was overturned by the court.",
+    "The National Payments Corporation of India (NPCI) has postponed the implementation date for Unified Payment Interface (UPI) Merchant Discount Rate (MDR) rollout.",
+    "India has approved a ₹62,370-crore rabi fertiliser subsidy, representing a 64% increase over the budget estimate.",
+    "The government has decided to consistently exclude the creamy layer from OBC reservation benefits.",
+    "Several industry bodies are seeking reductions in Central Goods and Services Tax (CGST) and Securities Transaction Tax (STT) as part of pre-Budget consultations.",
+    "USDA estimates a decrease in global cotton production due to reduced yields in the US, India, and Turkey."
+  ]
+}
