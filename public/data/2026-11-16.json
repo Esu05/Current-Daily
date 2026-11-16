@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-16",
+  "currentAffairs": [
+    {
+      "point": "Gujarat’s Pipavav Port is seeking an extension to its operating lease, crucial for planned expansion.",
+      "whyInNews": "This reflects ongoing investment in India's private port infrastructure and highlights the government’s role in facilitating such projects.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/pipavav-port-saves-up-to-invest-big/article71705625.ece"
+    },
+    {
+      "point": "Two ancient quasars, Nāpōwawāʻenakaulua, are being studied to refine models of black hole growth in the early universe.",
+      "whyInNews": "This discovery presents a new data point for scientists investigating fundamental questions about the formation and evolution of galaxies.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece"
+    },
+    {
+      "point": "Over 27,000 native orchids were rescued from roadside tree felling in Kerala by a relocation project.",
+      "whyInNews": "The project’s success rate (over 71% survival) and innovative approach offer valuable insights for conservation efforts globally.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece"
+    },
+    {
+      "point": "The BJP’s manifesto formation demonstrates its increasing electoral activity and organizational efforts in the state of Punjab.",
+      "whyInNews": "This reflects a direct engagement by a major national party with local politics and election preparation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece"
+    },
+    {
+      "point": "The Congress is seeking an alliance with the Samajwadi Party ahead of Uttar Pradesh state elections.",
+      "whyInNews": "This reflects evolving seat-sharing negotiations within a major electoral battleground.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/stoop-to-conquer-on-the-oppositions-seat-sharing-ahead-of-up-polls/article71704746.ece"
+    },
+    {
+      "point": "China has confirmed the holding of a historic summit involving President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin.",
+      "whyInNews": "The meeting's timing and agenda are crucial for understanding shifts in global power dynamics and potential impacts on India’s strategic relationships.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece"
+    },
+    {
+      "point": "The news highlights the dangers associated with digital loans – hidden charges and potential for exploitation – which is relevant to understanding India’s evolving financial landscape.",
+      "whyInNews": "This story directly addresses a growing concern about consumer protection within the rapidly expanding digital lending sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/need-a-quick-loan-beware-of-digital-lending-traps/article71704585.ece"
+    },
+    {
+      "point": "Raymond is diversifying its business portfolio to include aerospace components, potentially impacting India’s defence industrialization strategy.",
+      "whyInNews": "The company's expansion signals increased global competition and technological advancement within the Indian aerospace sector.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/raymond-bets-big-on-aerospace-as-singhania-eyes-next-growth-phase/article71705005.ece"
+    },
+    {
+      "point": "High inflation due to external factors is exacerbating economic pain in India.",
+      "whyInNews": "This reflects the immediate concern regarding macroeconomic trends impacting the Indian economy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/brace-for-impact-on-rising-inflation-and-external-factors/article71699385.ece"
+    },
+    {
+      "point": "Neera Tanden argues that the shift in Democratic strategy signals a waning of the Trump-era ‘MAGA’ movement.",
+      "whyInNews": "Her commentary reflects evolving political narratives and potential shifts in voter behavior – a key area for IR analysis.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/beginning-of-the-end-of-maga-neera-tanden/article71705976.ece"
+    },
+    {
+      "point": "Mahanagar Gas has increased CNG prices by ₹1.5/kg in Mumbai, marking the sixth such increase since May.",
+      "whyInNews": "This reflects rising fuel costs and their impact on consumers and transportation networks.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
+    },
+    {
+      "point": "Kochi's water metro has generated ₹30.24 crore in ticket sales since its launch.",
+      "whyInNews": "This highlights the financial viability of innovative transport solutions within a major Indian city.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/kochi-water-metro-hits-8-million-passenger-mark/article71705642.ece"
+    },
+    {
+      "point": "SpaceX achieved the first-ever controlled landing of an entire return rocket after orbital flight.",
+      "whyInNews": "This breakthrough demonstrates progress towards fully reusable rockets, a key element in reducing space travel costs and expanding access to space.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+    },
+    {
+      "point": "The UN has declared that the world is now likely to exceed the 1.5°C warming target set in the Paris Agreement.",
+      "whyInNews": "This signifies a critical juncture for global climate action and highlights the urgency of meeting emissions reduction goals.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/nations-grapple-with-loss-of-15c-target-at-un-climate-summit/article71704051.ece"
+    },
+    {
+      "point": "India needs to establish an ecosystem for recycling lithium-ion batteries due to the increasing demand for these materials.",
+      "whyInNews": "The story focuses on a fundamental infrastructure requirement – battery recycling – vital for India’s energy future and supply chain security.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/critical-ban-on-recycling-of-lithium-ion-batteries/article71699389.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1997,
+      "point": "After nearly 18 years of incarceration, China releases Wei Jingsheng, a pro-democracy dissident, from jail for medical reasons.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1992,
+      "point": "The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1989,
+      "point": "El Salvadoran army troops kill six Jesuit priests and two others at Jose Simeon Canas University.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1988,
+      "point": "The Supreme Soviet of the Estonian Soviet Socialist Republic declares that Estonia is \"sovereign\" but stops short of declaring independence.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1988,
+      "point": "In the first open election in more than a decade, voters in Pakistan elect populist candidate Benazir Bhutto to be Prime Minister of Pakistan.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1979,
+      "point": "The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1974,
+      "point": "The Arecibo message is broadcast from Puerto Rico.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "U.S. president Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1965,
+      "point": "Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "India needs to develop an entire ecosystem for the recycling of lithium-ion batteries to support its burgeoning electric vehicle industry.",
+    "U.S. air traffic control experienced intermittent communications and radar gaps leading to a four-hour flight shutdown due to overloaded antiquated equipment.",
+    "India's major producing states are experiencing significant underutilisation of their iron ore capacity.",
+    "India needs to develop an entire ecosystem for the recycling of lithium-ion batteries to support its burgeoning electric vehicle industry.",
+    "The FAA issued a nationwide ground stop due to an unidentified air traffic control issue.",
+    "India’s merchandise exports increased by 29.9% in October, driven by higher prices alongside volume growth."
+  ]
+}
