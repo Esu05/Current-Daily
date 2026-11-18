@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-18",
+  "currentAffairs": [
+    {
+      "point": "Rahul Gandhi argues that small businesses and agriculture are the core of India’s economy and require focused attention for job creation.",
+      "whyInNews": "His comments come amidst ongoing discussions about economic growth models and structural reforms in India.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece"
+    },
+    {
+      "point": "AI-based estimates risk leading to inaccurate public resource allocation if they are not grounded in robust ground-level evidence.",
+      "whyInNews": "The summary emphasizes the potential for synthetic data to create flawed conclusions and subsequent policy errors.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/balancing-ai-driven-estimates-and-ground-level-evidence-in-official-statistics/article71713245.ece"
+    },
+    {
+      "point": "Cyclone Aqwan is likely to cross the AP coast between Nellore and Visakhapatnam by Friday afternoon.",
+      "whyInNews": "The impending landfall of a severe storm demands immediate attention for preparedness and potential relief efforts.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/national/cyclone-aqwan-likely-to-intensify-into-severe-storm-cross-ap-coast-on-friday/article71714415.ece"
+    },
+    {
+      "point": "India has articulated its commitment to preventing the weaponization of outer space and ensuring that disruptions in space do not pose threats to terrestrial security.",
+      "whyInNews": "The statement reflects India’s evolving approach to strategic autonomy and participation in global discussions on space governance.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece"
+    },
+    {
+      "point": "An environment activist has flagged construction activity on Kaziranga wildlife corridors to the Supreme Court-constituted Central Empowered Committee.",
+      "whyInNews": "The issue highlights potential threats to protected areas and raises concerns about regulatory oversight of development projects near ecologically sensitive zones.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece"
+    },
+    {
+      "point": "India's decision to uphold the death penalty necessitates a near-perfect criminal justice system due to its irreversible nature.",
+      "whyInNews": "The article frames the issue as a fundamental challenge to India’s legal framework and raises concerns about potential injustices.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece"
+    },
+    {
+      "point": "A survey indicates that over 60% of Indian families are experiencing a rise in monthly costs exceeding 20%.",
+      "whyInNews": "The claim is made by Congress leader Jairam Ramesh, adding political context to the economic issue.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/rising-prices-reflect-governments-economic-mismanagement-congress/article71712503.ece"
+    },
+    {
+      "point": "Reduced Ukrainian grain harvest in 2027 poses a threat to global food supply chains.",
+      "whyInNews": "The news highlights a critical vulnerability within the international agricultural system and its potential impact on India’s import strategy.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/ukraines-grain-harvest-could-halve-to-30-million-tonnes-in-2027-as-exports-falter/article71714317.ece"
+    },
+    {
+      "point": "Cyclone ‘Akvan’ has shifted its track and the probable landfall points are now between Visakhapatnam and Nellore on November 20th.",
+      "whyInNews": "The change in trajectory necessitates updates to preparedness measures and potential impact assessments.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece"
+    },
+    {
+      "point": "Microsoft’s centralisation of internet architecture has exposed significant risks related to system failures and potential disruptions.",
+      "whyInNews": "The outage underscores the dangers of relying on single points of failure in critical digital systems.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/outlook-outage-the-hindu-editorial-on-microsoft-and-dangers-of-centralising-systems/article71708179.ece"
+    },
+    {
+      "point": "The Nvidia Board has decided not to reinstate Jensen Huang as CEO following his acknowledgement of personal mistakes.",
+      "whyInNews": "This reflects a critical shift in leadership at a key technology innovator and highlights the potential implications for India’s engagement with AI development.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/nvidia-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-chairperson/article71714330.ece"
+    },
+    {
+      "point": "Foreign Private Investment (FPI) surged into Indian equities driven by investors seeking safer assets amid slowdown in AI stocks.",
+      "whyInNews": "This reflects a broader global risk-off sentiment and highlights India’s attractiveness as an alternative investment destination.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece"
+    },
+    {
+      "point": "Chinese sugar imports are set to decline significantly due to rising domestic output.",
+      "whyInNews": "This signals potential shifts in international commodity prices and trade flows, requiring analysis of global economic trends.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/china-sugar-imports-set-to-hit-10-year-low-as-domestic-production-rises/article71714316.ece"
+    },
+    {
+      "point": "The Andaman cobra’s unique defence mechanism – venom spitting – increases the risk of fatal encounters with humans due to fear-based reactions.",
+      "whyInNews": "This highlights a specific ecological threat and potential human-wildlife conflict requiring conservation efforts.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-sole-island-dwelling-andaman-cobra-faces-conservation-challenges/article71711485.ece"
+    },
+    {
+      "point": "Prince William highlighted Gen Z’s role as the ‘torchbearers’ of current global change efforts.",
+      "whyInNews": "This reflects shifting attitudes towards activism and generational influence on social movements – a topic relevant to understanding societal trends.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2003,
+      "point": "The Massachusetts Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law...",
+      "gs": "GS1"
+    },
+    {
+      "year": 2002,
+      "point": "Iraq disarmament crisis: United Nations weapons inspectors led by Hans Blix arrive in Iraq.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1993,
+      "point": "In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1993,
+      "point": "In South Africa, 21 political parties approve a new constitution, expanding voting rights and ending white minority rule.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "Shiite Muslim kidnappers in Lebanon release Anglican Church envoys Terry Waite and Thomas Sutherland.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "After an 87-day siege, the Croatian city of Vukovar capitulates to the besieging Yugoslav People's Army and allied Serb paramilitary forces.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "The autonomous Croatian Community of Herzeg-Bosnia, which would in 1993 become a republic, was established in Bosnia and Herzegovina.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1961,
+      "point": "Vietnam War: United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1944,
+      "point": "The Popular Socialist Youth is founded in Cuba.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1905,
+      "point": "Prince Carl of Denmark becomes King Haakon VII of Norway.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "Tamil Nadu's library system is being investigated for fraudulent author payments facilitated by AI technology.",
+    "The government has initiated a process of clarifying data on female participation in the labor market.",
+    "India is advocating using SCO Civilisational Dialogue Forum to advance bilateral cooperation with other countries.",
+    "Gujarat’s Pipavav Port is seeking an extension to its operating lease, crucial for planned expansion.",
+    "Two ancient quasars, Nāpōwawāʻenakaulua, are being studied to refine models of black hole growth in the early universe.",
+    "Over 27,000 native orchids were rescued from roadside tree felling in Kerala by a relocation project."
+  ]
+}
