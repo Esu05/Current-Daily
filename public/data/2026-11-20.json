@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-20",
+  "currentAffairs": [
+    {
+      "point": "EU Copernicus data indicates Indonesia experienced the third highest carbon emissions from wildfires this year.",
+      "whyInNews": "The scale of these emissions highlights a critical environmental challenge with potential transboundary impacts.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indonesian-fire-emissions-third-highest-on-record-this-year-sayseus-copernicus/article71722994.ece"
+    },
+    {
+      "point": "India's crude oil imports saw a decrease in proportion from OPEC countries to 27.4% during Apr-Oct 2023.",
+      "whyInNews": "This reflects fluctuating geopolitical tensions and supply dynamics impacting India’s energy security strategy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/opec-share-in-indias-crude-imports-drops-to-274-in-apr-oct-amid-west-asia-flare-ups/article71720869.ece"
+    },
+    {
+      "point": "Indian rice export prices have reached a 19-month high.",
+      "whyInNews": "This reflects currency fluctuations and increased international demand for Indian rice.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-rice-export-prices-hit-19-month-high-as-rupee-strengthens-african-demand-rises/article71722963.ece"
+    },
+    {
+      "point": "India is exploring new avenues for drug access by streamlining regulatory pathways and offering financial incentives for rare disease treatments.",
+      "whyInNews": "The story focuses on the government’s potential role in addressing a significant unmet medical need within the country.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece"
+    },
+    {
+      "point": "Cyclone ‘Akvan’ made landfall in Odisha's coastal districts, triggering rough seas and strong winds.",
+      "whyInNews": "The duration of the landfall process is a critical factor for assessing potential damage and coordinating rescue efforts.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+    },
+    {
+      "point": "The U.S. Commission on International Religious Freedom (USCIRF) has raised concerns about alleged targeting of minorities during voter roll revisions in India.",
+      "whyInNews": "This highlights a potential conflict between electoral processes and constitutional protections regarding religious freedom, demanding careful scrutiny.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece"
+    },
+    {
+      "point": "OMCs achieved only 0.08% biodiesel blending in H1, significantly lower than the target of 0.18% for fiscal year 2025-26.",
+      "whyInNews": "This shortfall is attributed to feedstock shortages and underscores challenges in scaling up biofuel production.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/omcs-achieve-008-biodiesel-blending-in-h1-lower-than-target-cite-feedstock-shortage/article71720429.ece"
+    },
+    {
+      "point": "PM urged Indian industry to reduce imports across key sectors following tax cuts.",
+      "whyInNews": "This reflects a strategic concern about India’s reliance on foreign goods and potential for boosting domestic manufacturing.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/pm-pulls-up-india-inc-for-lack-of-innovation-despite-tax-cuts/article71720556.ece"
+    },
+    {
+      "point": "A report indicates the social fabric of Asian elephants is ‘fraying to a tipping point’, highlighting increasing human-wildlife conflict and habitat loss.",
+      "whyInNews": "This signifies an urgent need for revised conservation strategies and policy interventions related to elephant management in India.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece"
+    },
+    {
+      "point": "COP31 concluded with nations failing to secure deeper reductions in fossil fuel usage.",
+      "whyInNews": "This reflects ongoing challenges in global efforts to combat climate change driven by extreme weather events.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece"
+    },
+    {
+      "point": "A priest was murdered in western Maharashtra, reportedly due to inter-caste tensions, reflecting persistent caste-based violence.",
+      "whyInNews": "This event underscores the continued relevance of historical issues like Shahu Maharaj’s legacy and the challenges related to social harmony.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/shadows-over-shahus-landthe-cost-of-loving-and-living-across-caste/article71719459.ece"
+    },
+    {
+      "point": "The average cost of a thali has increased by 16% in under ten months reflecting rising food inflation.",
+      "whyInNews": "This highlights the immediate economic pressure on households and signals potential broader inflationary trends.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/data/the-average-cost-of-a-thali-has-jumped-by-16-in-less-than-10-months/article71718541.ece"
+    },
+    {
+      "point": "India has flagged issues related to Indonesian export regulations impacting Indian businesses.",
+      "whyInNews": "This highlights the importance of bilateral trade agreements and their impact on India’s economic interests.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-flags-exporters-issues-with-indonesia-urges-time-bound-resolution/article71721984.ece"
+    },
+    {
+      "point": "References to fossil fuel phase-out dates and net-zero targets have been deleted from the proposed COP31 cover text.",
+      "whyInNews": "This reflects ongoing negotiations regarding trade measures like CBAM and highlights potential roadblocks in achieving climate goals.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece"
+    },
+    {
+      "point": "The White House has removed its cybersecurity chief following widespread outages.",
+      "whyInNews": "This highlights vulnerabilities in critical infrastructure and potential risks to data security – a key concern for national security policy.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1989,
+      "point": "Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1962,
+      "point": "Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1776,
+      "point": "American Revolutionary War: British forces land at the Palisades and then attack Fort Lee. The Continental Army starts to retreat across New Jersey.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1985,
+      "point": "Windows 1.0, the first version of Microsoft Windows available to the public, was released.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1969,
+      "point": "A group of Native American activists began a 19-month occupation (graffiti pictured) of Alcatraz Island in San Francisco Bay.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "India is being urged to strengthen its alliances within the Asian region for enhanced diplomatic influence.",
+    "Goldman Sachs projects a moderation in India’s GDP growth to 7.2% for 2027 and an increase in inflation to 5.7%.",
+    "India’s existing expenditure on tackling air pollution is not effectively addressing the greatest health risks.",
+    "Rahul Gandhi argues that small businesses and agriculture are the core of India’s economy and require focused attention for job creation.",
+    "AI-based estimates risk leading to inaccurate public resource allocation if they are not grounded in robust ground-level evidence.",
+    "Cyclone Aqwan is likely to cross the AP coast between Nellore and Visakhapatnam by Friday afternoon."
+  ]
+}
