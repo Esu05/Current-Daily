@@ -1,160 +1,172 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-22",
   "currentAffairs": [
     {
-      "point": "EU Copernicus data indicates Indonesia experienced the third highest carbon emissions from wildfires this year.",
-      "whyInNews": "The scale of these emissions highlights a critical environmental challenge with potential transboundary impacts.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indonesian-fire-emissions-third-highest-on-record-this-year-sayseus-copernicus/article71722994.ece"
-    },
-    {
-      "point": "India's crude oil imports saw a decrease in proportion from OPEC countries to 27.4% during Apr-Oct 2023.",
-      "whyInNews": "This reflects fluctuating geopolitical tensions and supply dynamics impacting India’s energy security strategy.",
+      "point": "India is seeking to deepen economic ties with Finland through cooperation on the startup sector.",
+      "whyInNews": "The Envoy highlighted the importance of startups as a key component of this expanded collaboration.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/opec-share-in-indias-crude-imports-drops-to-274-in-apr-oct-amid-west-asia-flare-ups/article71720869.ece"
+      "url": "https://www.thehindu.com/news/national/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy-mikko-kivikoski/article71728251.ece"
     },
     {
-      "point": "Indian rice export prices have reached a 19-month high.",
-      "whyInNews": "This reflects currency fluctuations and increased international demand for Indian rice.",
+      "point": "JNPA has awarded an 8-year contract to Gateway Distriparks for rail yard operations at the DFC facility.",
+      "whyInNews": "The development signifies ongoing investment and infrastructure expansion within India’s logistics sector.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-rice-export-prices-hit-19-month-high-as-rupee-strengthens-african-demand-rises/article71722963.ece"
+      "url": "https://www.thehindubusinessline.com/economy/logistics/jnpa-awards-8-yr-contract-to-gateway-distriparks-for-dfc-compliant-common-rail-yard-operations/article71727841.ece"
     },
     {
-      "point": "India is exploring new avenues for drug access by streamlining regulatory pathways and offering financial incentives for rare disease treatments.",
-      "whyInNews": "The story focuses on the government’s potential role in addressing a significant unmet medical need within the country.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece"
-    },
-    {
-      "point": "Cyclone ‘Akvan’ made landfall in Odisha's coastal districts, triggering rough seas and strong winds.",
-      "whyInNews": "The duration of the landfall process is a critical factor for assessing potential damage and coordinating rescue efforts.",
+      "point": "There has been an increase in the number of cyclones forming in the Bay of Bengal over the past few decades, particularly since 2001.",
+      "whyInNews": "This reflects a concerning trend related to climate change and its impact on weather patterns.",
       "gs": "GS3",
       "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+      "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
     },
     {
-      "point": "The U.S. Commission on International Religious Freedom (USCIRF) has raised concerns about alleged targeting of minorities during voter roll revisions in India.",
-      "whyInNews": "This highlights a potential conflict between electoral processes and constitutional protections regarding religious freedom, demanding careful scrutiny.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece"
-    },
-    {
-      "point": "OMCs achieved only 0.08% biodiesel blending in H1, significantly lower than the target of 0.18% for fiscal year 2025-26.",
-      "whyInNews": "This shortfall is attributed to feedstock shortages and underscores challenges in scaling up biofuel production.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/omcs-achieve-008-biodiesel-blending-in-h1-lower-than-target-cite-feedstock-shortage/article71720429.ece"
-    },
-    {
-      "point": "PM urged Indian industry to reduce imports across key sectors following tax cuts.",
-      "whyInNews": "This reflects a strategic concern about India’s reliance on foreign goods and potential for boosting domestic manufacturing.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/pm-pulls-up-india-inc-for-lack-of-innovation-despite-tax-cuts/article71720556.ece"
-    },
-    {
-      "point": "A report indicates the social fabric of Asian elephants is ‘fraying to a tipping point’, highlighting increasing human-wildlife conflict and habitat loss.",
-      "whyInNews": "This signifies an urgent need for revised conservation strategies and policy interventions related to elephant management in India.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece"
-    },
-    {
-      "point": "COP31 concluded with nations failing to secure deeper reductions in fossil fuel usage.",
-      "whyInNews": "This reflects ongoing challenges in global efforts to combat climate change driven by extreme weather events.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece"
-    },
-    {
-      "point": "A priest was murdered in western Maharashtra, reportedly due to inter-caste tensions, reflecting persistent caste-based violence.",
-      "whyInNews": "This event underscores the continued relevance of historical issues like Shahu Maharaj’s legacy and the challenges related to social harmony.",
+      "point": "EPFO proposes allowing retirees to receive periodic withdrawals from their accumulated corpus instead of a lump sum.",
+      "whyInNews": "This represents a significant shift in retirement savings regulations and requires understanding its potential impact on the Indian economy.",
       "gs": "GS2",
       "topic": "Social Justice",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/shadows-over-shahus-landthe-cost-of-loving-and-living-across-caste/article71719459.ece"
+      "url": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece"
     },
     {
-      "point": "The average cost of a thali has increased by 16% in under ten months reflecting rising food inflation.",
-      "whyInNews": "This highlights the immediate economic pressure on households and signals potential broader inflationary trends.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/data/the-average-cost-of-a-thali-has-jumped-by-16-in-less-than-10-months/article71718541.ece"
-    },
-    {
-      "point": "India has flagged issues related to Indonesian export regulations impacting Indian businesses.",
-      "whyInNews": "This highlights the importance of bilateral trade agreements and their impact on India’s economic interests.",
-      "gs": "GS3",
-      "topic": "Economy",
+      "point": "GeM has entered into a memorandum of understanding (MoU) with the Tribal Indian Chamber of Commerce & Industry (TICCI).",
+      "whyInNews": "The MoU aims to facilitate tribal entrepreneurs' participation in government contracts through outreach programs and training.",
+      "gs": "GS2",
+      "topic": "Social Justice",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-flags-exporters-issues-with-indonesia-urges-time-bound-resolution/article71721984.ece"
+      "url": "https://www.thehindubusinessline.com/economy/gem-ties-up-with-tribal-chamber-to-help-businesses-bid-for-government-contracts/article71727837.ece"
     },
     {
-      "point": "References to fossil fuel phase-out dates and net-zero targets have been deleted from the proposed COP31 cover text.",
-      "whyInNews": "This reflects ongoing negotiations regarding trade measures like CBAM and highlights potential roadblocks in achieving climate goals.",
+      "point": "COP31 continues to run overtime due to disagreements over fossil fuel phase-out timelines between developed nations and developing countries like India.",
+      "whyInNews": "This reflects the core challenge of international climate negotiations – balancing commitments from historically high-emitting nations with the needs of rapidly developing economies.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-extends-into-overtime-in-turkiye-meeting/article71729107.ece"
     },
     {
-      "point": "The White House has removed its cybersecurity chief following widespread outages.",
-      "whyInNews": "This highlights vulnerabilities in critical infrastructure and potential risks to data security – a key concern for national security policy.",
-      "gs": "GS3",
-      "topic": "Security",
+      "point": "Narendra Modi highlighted a desire to work more closely with the Association of Southeast Asian Nations (ASEAN) at Manila summits.",
+      "whyInNews": "This reflects broader global power dynamics and India’s approach to multilateralism.",
+      "gs": "GS2",
+      "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece"
+      "url": "https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece"
+    },
+    {
+      "point": "India's core sector growth reached 10.9% in October 2026 driven by statistical factors rather than actual output expansion.",
+      "whyInNews": "This highlights the need for careful analysis of economic data and potential distortions within India’s industrial landscape.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece"
+    },
+    {
+      "point": "The RBI has revised the threshold for ₹10-lakh export declarations to apply to each service payment.",
+      "whyInNews": "This change impacts reporting requirements and oversight of authorized dealers involved in international trade.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/rbi-clarifies-10-lakh-export-declaration-threshold-applies-to-each-service-payment/article71727843.ece"
+    },
+    {
+      "point": "María Buhigas argues that Mumbai needs to rethink its approach to coastal protection due to rising sea levels and extreme weather events.",
+      "whyInNews": "The summary highlights a key challenge – adapting infrastructure to climate change impacts – relevant for India’s long-term development planning.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/earthshot-prize-finalists-offer-climate-solutions-for-mumbai-from-wildfire-detection-to-coastal-protection-and-heat-resilience/article71727370.ece"
+    },
+    {
+      "point": "The 16th round of commercial mine auctions saw 85 bids, including 20 first-time players entering the sector.",
+      "whyInNews": "This indicates evolving participation and potential shifts in India’s mining landscape.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece"
+    },
+    {
+      "point": "JM Financial reports weak EXIM trade performance translating into reduced rail container volumes and subdued air traffic growth.",
+      "whyInNews": "This highlights potential disruptions in India’s logistics sector with implications for economic activity.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/transport-sector-outlook-weak-rail-container-volumes-subdued-air-traffic-to-weigh-jm-financial-says/article71727516.ece"
+    },
+    {
+      "point": "The Purana Qila in Delhi was initially founded by Humayun and later expanded upon by Sher Shah Suri, reflecting the continuity of power dynamics within India’s historical landscape.",
+      "whyInNews": "This highlights a specific architectural development with significant dynastic connections – a key area for UPSC examination.",
+      "gs": "GS1",
+      "topic": "History",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece"
+    },
+    {
+      "point": "Equity market capitalization exceeds corporate bond issuance, indicating a need for greater alignment of financial markets with development priorities.",
+      "whyInNews": "The CEA’s observation reflects ongoing concerns about the structure and efficiency of India's capital allocation system.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece"
+    },
+    {
+      "point": "India's port cargo growth is being driven by increased imports and exports, particularly through record coastal shipping activity.",
+      "whyInNews": "This reflects broader trends in India’s trade and logistics sector – a crucial area for Mains exam preparation.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/rising-capital-goods-trade-record-coastal-shipments-to-drive-indias-port-cargo-growth/article71727423.ece"
     }
   ],
   "history": [
     {
-      "year": 1989,
-      "point": "Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.",
+      "year": 2003,
+      "point": "Baghdad DHL attempted shootdown incident: Shortly after takeoff, a DHL Express cargo plane is struck on the left wing by a surface-to-air missile and forced to land.",
       "gs": "GS1"
     },
     {
-      "year": 1962,
-      "point": "Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.",
+      "year": 1967,
+      "point": "UN Security Council Resolution 242 is adopted, establishing a set of the principles aimed at guiding negotiations for an Arab–Israeli peace settlement.",
       "gs": "GS1"
     },
     {
-      "year": 1776,
-      "point": "American Revolutionary War: British forces land at the Palisades and then attack Fort Lee. The Continental Army starts to retreat across New Jersey.",
+      "year": 1943,
+      "point": "Lebanon gains independence from France, nearly two years after it was first announced by the Free French government.",
       "gs": "GS1"
     },
     {
-      "year": 1985,
-      "point": "Windows 1.0, the first version of Microsoft Windows available to the public, was released.",
+      "year": 1942,
+      "point": "World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded.",
       "gs": "GS1"
     },
     {
-      "year": 1969,
-      "point": "A group of Native American activists began a 19-month occupation (graffiti pictured) of Alcatraz Island in San Francisco Bay.",
+      "year": 1210,
+      "point": "The Castle of Termes falls to Simon de Montfort after a four-month siege during the Albigensian Crusade.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1967,
+      "point": "The United Nations Security Council unanimously adopted Resolution 242 in the aftermath of the Six-Day War between Israel and Egypt, Jordan, and Syria.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "John F. Kennedy was assassinated in Dallas; hours later, Vice President Lyndon B. Johnson was sworn in as the 36th president of the United States aboard Air Force One.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1873,
+      "point": "The French steamship Ville du Havre collided with a Scottish iron clipper in the North Atlantic and sank with the loss of 226 lives.",
       "gs": "GS1"
     }
   ],
   "revision": [
-    "India is being urged to strengthen its alliances within the Asian region for enhanced diplomatic influence.",
-    "Goldman Sachs projects a moderation in India’s GDP growth to 7.2% for 2027 and an increase in inflation to 5.7%.",
-    "India’s existing expenditure on tackling air pollution is not effectively addressing the greatest health risks.",
-    "Rahul Gandhi argues that small businesses and agriculture are the core of India’s economy and require focused attention for job creation.",
-    "AI-based estimates risk leading to inaccurate public resource allocation if they are not grounded in robust ground-level evidence.",
-    "Cyclone Aqwan is likely to cross the AP coast between Nellore and Visakhapatnam by Friday afternoon."
+    "EU Copernicus data indicates Indonesia experienced the third highest carbon emissions from wildfires this year.",
+    "India's crude oil imports saw a decrease in proportion from OPEC countries to 27.4% during Apr-Oct 2023.",
+    "Indian rice export prices have reached a 19-month high."
   ]
 }
