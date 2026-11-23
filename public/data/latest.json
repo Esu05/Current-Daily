@@ -1,21 +1,45 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "currentAffairs": [
     {
-      "point": "India is seeking to deepen economic ties with Finland through cooperation on the startup sector.",
-      "whyInNews": "The Envoy highlighted the importance of startups as a key component of this expanded collaboration.",
+      "point": "India's oil and gas sectors experienced minimal growth despite a low base effect.",
+      "whyInNews": "This indicates underlying structural issues within the sector that require government attention and policy intervention.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy-mikko-kivikoski/article71728251.ece"
+      "url": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece"
     },
     {
-      "point": "JNPA has awarded an 8-year contract to Gateway Distriparks for rail yard operations at the DFC facility.",
-      "whyInNews": "The development signifies ongoing investment and infrastructure expansion within India’s logistics sector.",
+      "point": "Prime Minister Balen Shah of Nepal is undertaking a bilateral visit to India with an agenda centered around energy cooperation and establishing connectivity links.",
+      "whyInNews": "This marks his first official foreign trip since taking office and highlights the ongoing strategic importance of Nepal-India relations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece"
+    },
+    {
+      "point": "The Singhanias are repurposing industrial land for hospitality and real estate projects, raising questions about urban planning regulations and land use policies.",
+      "whyInNews": "This represents a significant shift in the utilization of historically industrial areas within India's cities.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/from-cotton-mills-to-cityscapes-how-the-singhanias-are-unlocking-legacy-land/article71731975.ece"
+    },
+    {
+      "point": "The Green India Mission requires adequate resources and robust monitoring mechanisms for effective climate action.",
+      "whyInNews": "This emphasizes the operational challenges in achieving ambitious environmental goals.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece"
+    },
+    {
+      "point": "The Lavi Fair highlights evolving patterns in Himalayan trade from wool and barter to modern digital payments.",
+      "whyInNews": "This showcases a shift in economic activity within a traditionally marginalized region of Himachal Pradesh.",
       "gs": "GS3",
       "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/jnpa-awards-8-yr-contract-to-gateway-distriparks-for-dfc-compliant-common-rail-yard-operations/article71727841.ece"
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
     },
     {
       "point": "There has been an increase in the number of cyclones forming in the Bay of Bengal over the past few decades, particularly since 2001.",
@@ -26,20 +50,28 @@
       "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
     },
     {
-      "point": "EPFO proposes allowing retirees to receive periodic withdrawals from their accumulated corpus instead of a lump sum.",
-      "whyInNews": "This represents a significant shift in retirement savings regulations and requires understanding its potential impact on the Indian economy.",
+      "point": "West Bengal BJP chief alleges persecution of Hindu Bengalis in Bangladesh.",
+      "whyInNews": "This highlights potential instability along the India-Bangladesh border and raises concerns about minority rights within Bangladesh.",
       "gs": "GS2",
-      "topic": "Social Justice",
+      "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece"
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-samik-bhattacharya-calls-for-protest-over-attacks-on-hindus-in-bangladesh/article71732075.ece"
     },
     {
-      "point": "GeM has entered into a memorandum of understanding (MoU) with the Tribal Indian Chamber of Commerce & Industry (TICCI).",
-      "whyInNews": "The MoU aims to facilitate tribal entrepreneurs' participation in government contracts through outreach programs and training.",
-      "gs": "GS2",
-      "topic": "Social Justice",
+      "point": "The gold jewellery sector contributes approximately 7-8% to India's GDP and supports millions of livelihoods.",
+      "whyInNews": "The statement emphasizes the economic importance of a domestic industry facing potential restrictions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece"
+    },
+    {
+      "point": "The CII proposes 15 priority reform inputs for the High-Level Committee on Banking for Viksit Bharat, including changes to priority sector lending.",
+      "whyInNews": "This highlights a key government initiative aimed at restructuring and modernizing India’s banking system.",
+      "gs": "GS3",
+      "topic": "Economy",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/gem-ties-up-with-tribal-chamber-to-help-businesses-bid-for-government-contracts/article71727837.ece"
+      "url": "https://www.thehindubusinessline.com/economy/cii-proposes-15-priority-reforms-inputs-for-high-level-committee-on-banking-for-viksit-bharat/article71730587.ece"
     },
     {
       "point": "COP31 continues to run overtime due to disagreements over fossil fuel phase-out timelines between developed nations and developing countries like India.",
@@ -50,28 +82,36 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-extends-into-overtime-in-turkiye-meeting/article71729107.ece"
     },
     {
-      "point": "Narendra Modi highlighted a desire to work more closely with the Association of Southeast Asian Nations (ASEAN) at Manila summits.",
-      "whyInNews": "This reflects broader global power dynamics and India’s approach to multilateralism.",
+      "point": "The Food Safety Standards Authority of India (FSSAI) has ordered prosecution against Bisleri International due to non-compliance with bromate limits in packaged drinking water.",
+      "whyInNews": "This demonstrates regulatory action taken by a key food safety body regarding product standards and consumer protection.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece"
+    },
+    {
+      "point": "COP31 talks concluded without an agreement on language regarding a fossil fuel phase-out, highlighting divisions among nations.",
+      "whyInNews": "The disagreement reflects ongoing tensions between developed and developing countries concerning climate responsibility and the role of fossil fuels.",
       "gs": "GS2",
       "topic": "IR",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece"
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece"
     },
     {
-      "point": "India's core sector growth reached 10.9% in October 2026 driven by statistical factors rather than actual output expansion.",
-      "whyInNews": "This highlights the need for careful analysis of economic data and potential distortions within India’s industrial landscape.",
+      "point": "India is seeking to deepen economic ties with Finland through cooperation on the startup sector.",
+      "whyInNews": "The Envoy highlighted the importance of startups as a key component of this expanded collaboration.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece"
+      "url": "https://www.thehindu.com/news/national/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy-mikko-kivikoski/article71728251.ece"
     },
     {
-      "point": "The RBI has revised the threshold for ₹10-lakh export declarations to apply to each service payment.",
-      "whyInNews": "This change impacts reporting requirements and oversight of authorized dealers involved in international trade.",
-      "gs": "GS3",
-      "topic": "Economy",
+      "point": "India is moving from temporary relief measures towards addressing the structural barriers causing poverty.",
+      "whyInNews": "The statement represents a fundamental change in India’s approach to tackling persistent poverty.",
+      "gs": "GS2",
+      "topic": "Social Justice",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/rbi-clarifies-10-lakh-export-declaration-threshold-applies-to-each-service-payment/article71727843.ece"
+      "url": "https://www.thehindubusinessline.com/economy/the-decade-india-turned-the-tide-on-poverty/article71731097.ece"
     },
     {
       "point": "María Buhigas argues that Mumbai needs to rethink its approach to coastal protection due to rising sea levels and extreme weather events.",
@@ -80,93 +120,63 @@
       "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/earthshot-prize-finalists-offer-climate-solutions-for-mumbai-from-wildfire-detection-to-coastal-protection-and-heat-resilience/article71727370.ece"
-    },
-    {
-      "point": "The 16th round of commercial mine auctions saw 85 bids, including 20 first-time players entering the sector.",
-      "whyInNews": "This indicates evolving participation and potential shifts in India’s mining landscape.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece"
-    },
-    {
-      "point": "JM Financial reports weak EXIM trade performance translating into reduced rail container volumes and subdued air traffic growth.",
-      "whyInNews": "This highlights potential disruptions in India’s logistics sector with implications for economic activity.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/transport-sector-outlook-weak-rail-container-volumes-subdued-air-traffic-to-weigh-jm-financial-says/article71727516.ece"
-    },
-    {
-      "point": "The Purana Qila in Delhi was initially founded by Humayun and later expanded upon by Sher Shah Suri, reflecting the continuity of power dynamics within India’s historical landscape.",
-      "whyInNews": "This highlights a specific architectural development with significant dynastic connections – a key area for UPSC examination.",
-      "gs": "GS1",
-      "topic": "History",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece"
-    },
-    {
-      "point": "Equity market capitalization exceeds corporate bond issuance, indicating a need for greater alignment of financial markets with development priorities.",
-      "whyInNews": "The CEA’s observation reflects ongoing concerns about the structure and efficiency of India's capital allocation system.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece"
-    },
-    {
-      "point": "India's port cargo growth is being driven by increased imports and exports, particularly through record coastal shipping activity.",
-      "whyInNews": "This reflects broader trends in India’s trade and logistics sector – a crucial area for Mains exam preparation.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/rising-capital-goods-trade-record-coastal-shipments-to-drive-indias-port-cargo-growth/article71727423.ece"
     }
   ],
   "history": [
     {
-      "year": 2003,
-      "point": "Baghdad DHL attempted shootdown incident: Shortly after takeoff, a DHL Express cargo plane is struck on the left wing by a surface-to-air missile and forced to land.",
+      "year": 2011,
+      "point": "Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.",
       "gs": "GS1"
     },
     {
-      "year": 1967,
-      "point": "UN Security Council Resolution 242 is adopted, establishing a set of the principles aimed at guiding negotiations for an Arab–Israeli peace settlement.",
+      "year": 2005,
+      "point": "Ellen Johnson Sirleaf is elected president of Liberia and becomes the first woman to lead an African country.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2004,
+      "point": "The Holy Trinity Cathedral of Tbilisi, the largest religious building in Georgia, is consecrated.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2003,
+      "point": "Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2002,
+      "point": "Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2001,
+      "point": "The Budapest Convention on Cybercrime is signed in Budapest, Hungary.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "Queen lead singer Freddie Mercury announces in a statement that he is HIV-positive. He dies the following day.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1971,
+      "point": "Representatives of the People's Republic of China attend the United Nations, including the United Nations Security Council, for the first time.",
       "gs": "GS1"
     },
     {
       "year": 1943,
-      "point": "Lebanon gains independence from France, nearly two years after it was first announced by the Free French government.",
+      "point": "World War II: The Deutsche Opernhaus on Bismarckstraße in the Berlin neighborhood of Charlottenburg is destroyed. It will eventually be rebuilt in 1961 and be called the Deutsche Oper Berlin.",
       "gs": "GS1"
     },
     {
-      "year": 1942,
-      "point": "World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1210,
-      "point": "The Castle of Termes falls to Simon de Montfort after a four-month siege during the Albigensian Crusade.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1967,
-      "point": "The United Nations Security Council unanimously adopted Resolution 242 in the aftermath of the Six-Day War between Israel and Egypt, Jordan, and Syria.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1963,
-      "point": "John F. Kennedy was assassinated in Dallas; hours later, Vice President Lyndon B. Johnson was sworn in as the 36th president of the United States aboard Air Force One.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1873,
-      "point": "The French steamship Ville du Havre collided with a Scottish iron clipper in the North Atlantic and sank with the loss of 226 lives.",
+      "year": 1939,
+      "point": "World War II: HMS Rawalpindi is sunk by the German battleships Scharnhorst and Gneisenau.",
       "gs": "GS1"
     }
   ],
   "revision": [
-    "EU Copernicus data indicates Indonesia experienced the third highest carbon emissions from wildfires this year.",
-    "India's crude oil imports saw a decrease in proportion from OPEC countries to 27.4% during Apr-Oct 2023.",
-    "Indian rice export prices have reached a 19-month high."
+    "India is seeking to deepen economic ties with Finland through cooperation on the startup sector.",
+    "JNPA has awarded an 8-year contract to Gateway Distriparks for rail yard operations at the DFC facility.",
+    "There has been an increase in the number of cyclones forming in the Bay of Bengal over the past few decades, particularly since 2001."
   ]
 }
