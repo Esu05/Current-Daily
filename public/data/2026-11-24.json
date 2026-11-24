@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-24",
+  "currentAffairs": [
+    {
+      "point": "The COP31 summit highlighted the ongoing debate regarding financial contributions from developed countries towards mitigating global carbon emissions.",
+      "whyInNews": "This reflects a critical negotiation point in international climate agreements and India’s concerns about equitable burden-sharing.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece"
+    },
+    {
+      "point": "Pope Francis revealed in his personal diary that he had witnessed three apparitions of the devil during his time as Pope.",
+      "whyInNews": "This news highlights a potentially sensitive and geopolitically relevant development concerning the Vatican’s leadership and its relationship with religious beliefs.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/the-private-diary-of-pope-francis-by-argentine-cardinal-fernandez-the-pope-revealed-in-personal-diary-having-seen-devil-three-times/article71737371.ece"
+    },
+    {
+      "point": "Exporters are seeking waivers of detention and demurrage charges due to the boycott of trailer crew scanning at Cochin Port’s Vallarpadam terminal.",
+      "whyInNews": "This directly impacts trade flows and port operations – a significant area for economic analysis.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/exporters-seek-waiver-of-detention-demurrage-charges-at-vallarpadam/article71737476.ece"
+    },
+    {
+      "point": "Household fuel usage (wood, dung) is the primary cause of elevated air pollution levels on Delhi's outskirts.",
+      "whyInNews": "The study’s findings challenge conventional assumptions about crop burning as the sole source of rural pollution and necessitate a shift in environmental policy.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/delhis-rural-outskirts-are-more-polluted-than-the-megacity-and-crop-burning-is-not-the-culprit/article71737033.ece"
+    },
+    {
+      "point": "Union Home Minister Amit Shah, along with other senior BJP leaders, will address a joint press conference regarding the ongoing Punjab Assembly polls.",
+      "whyInNews": "This indicates heightened strategic engagement by the ruling party in a crucial state election.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece"
+    },
+    {
+      "point": "The International Court of Justice (ICJ) ruling emphasizes the necessity of democracy in Myanmar as a prerequisite for Rohingya refugees' return.",
+      "whyInNews": "This reflects ongoing geopolitical tensions and India’s role in advocating for human rights within the South Asian region.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece"
+    },
+    {
+      "point": "The Petroleum Ministry indicates an anticipated pick-up in oil and gas production within the next 4-5 years due to recently implemented measures.",
+      "whyInNews": "This reflects a significant shift in industry outlook and provides context for ongoing investment decisions related to India’s energy sector.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oil-and-gas-production-to-pick-up-in-4-5-years-as-recent-measures-take-effect-petroleum-ministry-says/article71734940.ece"
+    },
+    {
+      "point": "Negotiations between India and the EU have concluded on a free trade pact expected to be signed in December.",
+      "whyInNews": "This reflects evolving global trade dynamics and potential impacts on Indian exports and investment.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-eu-free-trade-pact-to-open-new-opportunities-for-trade-investment-german-state-leader/article71737396.ece"
+    },
+    {
+      "point": "India's oil and gas sectors experienced minimal growth despite a low base effect.",
+      "whyInNews": "This indicates underlying structural issues within the sector that require government attention and policy intervention.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece"
+    },
+    {
+      "point": "India has officially removed Israel from its list of ‘walkover’ nations, reflecting a deepening security partnership.",
+      "whyInNews": "This marks a notable change in India's established diplomatic approach to the Middle East.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/view-from-india-newsletter-india-and-israel-cut-from-different-cloths/article71735254.ece"
+    },
+    {
+      "point": "SBI, HDFC Bank, and ICICI Bank have retained their Designated Significant Institution (D-SIB) status following RBI’s capital requirements review.",
+      "whyInNews": "This reflects ongoing efforts to bolster the resilience of India's largest banks amidst evolving economic conditions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece"
+    },
+    {
+      "point": "Doodhvale, a New Delhi-based dairy firm, is planning to expand its operations into western and central India.",
+      "whyInNews": "The company’s intention to explore international markets via North America reflects broader trends in Indian food exports and the growth of domestic agricultural value chains.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/dairy-firm-doodhvale-to-expand-operations-to-western-and-central-india/article71737390.ece"
+    },
+    {
+      "point": "Researchers in Kerala have identified a connection between the regular use of fairness creams and nephrotic syndrome among patients.",
+      "whyInNews": "This highlights a previously unreported health risk associated with cosmetic products and raises questions about product safety regulations.",
+      "gs": "GS2",
+      "topic": "Social Justice",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece"
+    },
+    {
+      "point": "India has initiated mapping of landslide susceptibility across 4.3 lakh square kilometers as part of a shift towards proactive landslide management strategies.",
+      "whyInNews": "The initiative reflects a move from post-disaster relief to preventative measures, aligning with national priorities for resilience and sustainable development.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece"
+    },
+    {
+      "point": "The Green India Mission requires adequate resources and robust monitoring mechanisms for effective climate action.",
+      "whyInNews": "This emphasizes the operational challenges in achieving ambitious environmental goals.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 2016,
+      "point": "The government of Colombia and the Revolutionary Armed Forces of Colombia–People's Army sign a revised peace deal, bringing an end to the country's more than 50-year-long civil war.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2015,
+      "point": "A Russian Air Force Sukhoi Su-24 fighter jet is shot down by the Turkish Air Force over the Syria–Turkey border, killing one of the two pilots; a Russian marine is also killed during a subsequent rescue effort.",
+      "gs": "GS1"
+    },
+    {
+      "year": 2013,
+      "point": "Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1991,
+      "point": "Space Shuttle program: Atlantis launches on STS-44.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1965,
+      "point": "Joseph-Désiré Mobutu seizes power in the Democratic Republic of the Congo and becomes President; he rules the country (which he renames Zaire in 1971) for over 30 years, until being overthrown by rebels in 1997.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1935,
+      "point": "The Senegalese Socialist Party holds its second congress.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1929,
+      "point": "The Finnish far-right Lapua Movement officially begins when a group of mainly the former White Guard members, led by Vihtori Kosola, interrupted communism occasion at the Workers' House in Lapua, Finland.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1835,
+      "point": "The Texas Provincial Government authorizes the creation of a horse-mounted police force called the Texas Rangers (which is now the Texas Ranger Division of the Texas Department of Public Safety).",
+      "gs": "GS1"
+    },
+    {
+      "year": 1359,
+      "point": "Peter I of Cyprus ascends the throne of Cyprus after his father, Hugh IV of Cyprus, abdicates.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1190,
+      "point": "Conrad of Montferrat becomes King of Jerusalem upon his marriage to Isabella I of Jerusalem.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "India's oil and gas sectors experienced minimal growth despite a low base effect.",
+    "Prime Minister Balen Shah of Nepal is undertaking a bilateral visit to India with an agenda centered around energy cooperation and establishing connectivity links.",
+    "The Singhanias are repurposing industrial land for hospitality and real estate projects, raising questions about urban planning regulations and land use policies.",
+    "India is seeking to deepen economic ties with Finland through cooperation on the startup sector.",
+    "JNPA has awarded an 8-year contract to Gateway Distriparks for rail yard operations at the DFC facility.",
+    "There has been an increase in the number of cyclones forming in the Bay of Bengal over the past few decades, particularly since 2001."
+  ]
+}
