@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-25",
+  "currentAffairs": [
+    {
+      "point": "Six individuals aboard a small plane crashed into the Gulf of Mexico, prompting a Coast Guard search operation.",
+      "whyInNews": "The incident highlights vulnerabilities in aviation safety and necessitates immediate response efforts.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/crews-search-for-six-aboard-a-small-plane-that-crashed-into-the-gulf-of-mexico-coast-guard-says/article71741123.ece"
+    },
+    {
+      "point": "The Antalya summit resulted in a deepened crisis of confidence in climate diplomacy.",
+      "whyInNews": "This signifies a failure of global cooperation and necessitates renewed efforts for effective climate negotiations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece"
+    },
+    {
+      "point": "Auto PLI (Production Linked Incentive) schemes have seen a substantial delay in disbursement of ₹4,365 crore despite being scheduled to conclude in FY28.",
+      "whyInNews": "This highlights potential issues with policy implementation and the effectiveness of government incentives.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/auto-pli-payouts-hit-4365-crore-so-far-in-fy27/article71738183.ece"
+    },
+    {
+      "point": "Researchers have identified a shared method of sound projection utilized by indri lemurs and opera singers to maximize audience reception.",
+      "whyInNews": "The study highlights an unexpected parallel in biological and artistic vocal production, raising questions about evolutionary adaptations for communication.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/children/what-do-lemurs-and-opera-singers-share/article71689211.ece"
+    },
+    {
+      "point": "Karnataka requires a comprehensive urban mobility policy to address its evolving transportation needs.",
+      "whyInNews": "The summary emphasizes the urgency of developing a coordinated strategy for Karnataka’s transport system.",
+      "gs": "GS2",
+      "topic": "Governance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/spinning-wheels-on-urban-mobility-in-karnataka/article71738822.ece"
+    },
+    {
+      "point": "Foreign Secretary Vikram Misri dismissed the EPG report as ‘not relevant’ following their assessment that it was ‘highly positive’ for India-Nepal ties.",
+      "whyInNews": "This highlights a disagreement within the Indian foreign ministry regarding the state of bilateral relations with Nepal.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece"
+    },
+    {
+      "point": "India and Chile have finalized 15 out of 17 chapters of a proposed Free Trade Agreement (FTA) focusing on securing long-term access to copper and lithium – critical minerals.",
+      "whyInNews": "The FTA highlights India’s growing demand for these resources and its efforts to diversify supply chains, particularly in the context of global geopolitical tensions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-chile-fta-talks-drag-on-over-differences-in-critical-minerals-market-access/article71739271.ece"
+    },
+    {
+      "point": "Bellatrix Aerospace and GalaxEye have signed an agreement to supply in-space propulsion systems for GalaxEye’s satellite constellation.",
+      "whyInNews": "This marks a major step towards India's independent capability in space launch services and advanced satellite technology.",
+      "gs": "GS3",
+      "topic": "Sci-Tech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece"
+    },
+    {
+      "point": "COP31 negotiations concluded without an agreement on language regarding a fossil fuel phase-out, highlighting divisions among nations.",
+      "whyInNews": "The disagreement reflects India’s stance alongside other developing countries resisting pressure to immediately curtail reliance on fossil fuels.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece"
+    },
+    {
+      "point": "The COP31 summit highlighted the ongoing debate regarding financial responsibility for global carbon reduction efforts.",
+      "whyInNews": "This reflects a critical tension between developed and developing nations concerning climate action.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece"
+    },
+    {
+      "point": "The Ministry of Petroleum & Natural Gas indicates a projected increase in oil and gas production due to recent policy measures.",
+      "whyInNews": "Long gestation periods in the energy sector often delay the impact of government initiatives; this report provides an update on that timeline.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/oil-and-gas-production-to-pick-up-in-4-5-years-as-recent-measures-take-effect-petroleum-ministry-says/article71734940.ece"
+    },
+    {
+      "point": "Economists warn that softer agricultural incomes could weigh on rural consumption.",
+      "whyInNews": "This highlights the ongoing challenges facing India’s agrarian economy and its impact on a significant portion of the population.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/rural-india-faces-fresh-headwinds-as-economic-confidence-slips-fiscal-support-shrinks/article71738136.ece"
+    },
+    {
+      "point": "The International Court of Justice (ICJ) ruled that Myanmar must allow the return of Rohingya refugees unless it establishes a genuinely democratic government.",
+      "whyInNews": "This decision underscores ongoing geopolitical tensions in Southeast Asia and India’s role as an advocate for human rights on the global stage.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece"
+    },
+    {
+      "point": "Three Fort Hood shooting survivors have lost their final appeal against Nidal Hasan's scheduled execution for his role in the 2019 attack.",
+      "whyInNews": "This highlights a critical legal proceeding involving terrorism charges and raises questions about due process, national security, and international law.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/three-fort-hood-shooting-survivors-lose-final-appeal-to-witness-nidal-hasans-execution/article71741064.ece"
+    },
+    {
+      "point": "SBI, HDFC Bank, and ICICI Bank have retained their Designated Significant Institution (D-SIB) status due to RBI’s assessment.",
+      "whyInNews": "This reflects ongoing regulatory efforts to bolster the resilience of India's largest banks amid evolving economic conditions.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1992,
+      "point": "The Federal Assembly of Czechoslovakia votes to split the country into the Czech Republic and Slovakia, with effect from January 1, 1993.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1986,
+      "point": "Iran–Contra affair: U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1986,
+      "point": "The King Fahd Causeway is officially opened in the Persian Gulf.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1984,
+      "point": "Thirty-six top musicians gather in a Notting Hill studio and record Band Aid's \"Do They Know It's Christmas?\" in order to raise money for famine relief in Ethiopia.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1981,
+      "point": "Pope John Paul II appoints Joseph Cardinal Ratzinger (the future Pope Benedict XVI) Prefect of the Congregation for the Doctrine of the Faith.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1973,
+      "point": "Georgios Papadopoulos, head of the military Regime of the Colonels in Greece, is ousted in a hardliners' coup led by Brigadier General Dimitrios Ioannidis.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1968,
+      "point": "The Old Student House in Helsinki, Finland is occupied by a large group of University of Helsinki students.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1963,
+      "point": "State funeral of John F. Kennedy; after lying in state at the United States Capitol, a Requiem Mass takes place at Cathedral of St. Matthew the Apostle and the President is buried at Arlington National Cemetery.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1950,
+      "point": "The Great Appalachian Storm of 1950 impacts 22 American states, killing 353 people, injuring over 160, and causing US$66.7 million in damages (1950 dollars).",
+      "gs": "GS1"
+    },
+    {
+      "year": 1943,
+      "point": "World War II: Statehood of Bosnia and Herzegovina is re-established at the State Anti-fascist Council for the National Liberation of Bosnia and Herzegovina.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The COP31 summit highlighted the ongoing debate regarding financial contributions from developed countries towards mitigating global carbon emissions.",
+    "Pope Francis revealed in his personal diary that he had witnessed three apparitions of the devil during his time as Pope.",
+    "Exporters are seeking waivers of detention and demurrage charges due to the boycott of trailer crew scanning at Cochin Port’s Vallarpadam terminal.",
+    "India's oil and gas sectors experienced minimal growth despite a low base effect.",
+    "Prime Minister Balen Shah of Nepal is undertaking a bilateral visit to India with an agenda centered around energy cooperation and establishing connectivity links.",
+    "The Singhanias are repurposing industrial land for hospitality and real estate projects, raising questions about urban planning regulations and land use policies."
+  ]
+}
