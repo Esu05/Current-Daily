@@ -1,185 +1,185 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "currentAffairs": [
     {
-      "point": "The US has imposed new tariffs on goods originating from India.",
-      "whyInNews": "This escalation in trade tensions could significantly impact India’s export performance and overall economic growth.",
+      "point": "The United States has imposed new tariffs on goods imported from India.",
+      "whyInNews": "This action raises concerns about escalating trade tensions and their impact on the bilateral economic relationship.",
       "gs": "GS3",
       "topic": "Economy",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/explained/explained-economics/us-new-section-301-tariffs-india-trade-deal-asean-advantage-10978957/"
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece"
     },
     {
-      "point": "The Indian government has approved a new scheme allowing Bollywood-style large-scale productions to be filmed on the IFS corpus lands without needing permission from forest authorities.",
-      "whyInNews": "This bypasses existing environmental regulations, creating potential conflicts and requiring monitoring by UPSC.",
+      "point": "A Turkish-operated cargo ship, the Halima, sank off the coast of Cuba due to an unknown cause.",
+      "whyInNews": "The incident highlights potential vulnerabilities in maritime trade and could trigger responses from international shipping authorities and regional governments.",
+      "gs": "GS3",
+      "topic": "Disaster",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece"
+    },
+    {
+      "point": "India and the UAE have agreed to accelerate co-development and co-production of next generation defense equipment.",
+      "whyInNews": "This reflects a growing trend in defence partnerships aimed at bolstering indigenous capabilities.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-uae-agree-to-boost-defence-ties-at-14th-jdcc-meeting-in-abu-dhabi/article71749398.ece"
+    },
+    {
+      "point": "Parties agreed to establish the Adaptation Fund primarily dependent on future revenues from the Paris Agreement’s Article 6.4 carbon market mechanism.",
+      "whyInNews": "This reflects ongoing debates and potential challenges surrounding the implementation of global climate finance mechanisms.",
       "gs": "GS2",
-      "topic": "Governance",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/opinion/editorials/vaibhav-sooryavanshi-204-rising-stars-asia-cup-10978646/"
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop31-perceived-to-be-a-failure-explained/article71749253.ece"
     },
     {
-      "point": "CPI inflation peaked to 6.1% in October 2026, exceeding the upper tolerance level of 6%.",
-      "whyInNews": "This highlights ongoing inflationary pressures and potential implications for monetary policy decisions.",
+      "point": "The Madras High Court's interpretation of the monument's status was challenged by Tamil Nadu, raising questions about judicial overreach and Centre-State relations.",
+      "whyInNews": "This highlights a critical legal battle involving religious heritage and constitutional authority.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/indefensible-defiance-on-tamil-nadu-and-courts-thirupparankundram-order/article71747044.ece"
+    },
+    {
+      "point": "The U.S. has reverted to initial tariff framework on Indian goods during trade negotiations.",
+      "whyInNews": "This reflects ongoing tensions between the two countries regarding tariffs and represents a key development in India’s bilateral trade policy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/experts-say-new-us-tariffs-do-not-pose-substantial-threat-india-should-not-rush-into-trade-deal/article71746007.ece"
+    },
+    {
+      "point": "Thermal power plant coal consumption increased due to higher temperatures.",
+      "whyInNews": "This reflects the impact of climate change on India's energy sector and highlights the need for renewable energy transition.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/share-of-power-sector-in-coal-supply-hits-13-month-high-in-october/article71746838.ece"
+    },
+    {
+      "point": "KR Jayan is creating jackfruit villages across Kerala as part of a conservation initiative.",
+      "whyInNews": "The story focuses on an individual’s impactful work promoting sustainable agriculture and biodiversity.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/meet-plavu-jayan-the-man-who-created-jackfruit-villages-across-keralam/article71742292.ece"
+    },
+    {
+      "point": "Bangladesh's opposition party initiated legal proceedings against The Australian newspaper over defamatory claims related to the visit of an Australian leader.",
+      "whyInNews": "This highlights potential tensions between Australia and Bangladesh regarding media reporting and freedom of expression.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/bangladeshs-opposition-party-blasts-australian-media-reports-over-leaders-visit/article71749303.ece"
+    },
+    {
+      "point": "CPI inflation peaked to 6.1% y-o-y in October 2026, exceeding the upper tolerance level of 6%.",
+      "whyInNews": "This signals continued inflationary pressures requiring RBI’s response and impacting economic forecasts.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece"
     },
     {
-      "point": "India is seeking to resolve trade concerns through bilateral trade agreement negotiations with the United States.",
-      "whyInNews": "The U.S. Trade Representative (USTR) has initiated a review of India’s Section 301 duty assessments, creating immediate pressure on diplomatic channels.",
+      "point": "India requires an estimated $500 billion annually to achieve its net-zero emissions goal by 2070.",
+      "whyInNews": "The report establishes a key financial challenge underpinning India’s climate commitments and necessitates analysis of investment models.",
       "gs": "GS2",
       "topic": "IR",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/us-trade-concerns-should-be-addressed-through-bta-ustr-notice-under-examination-commerce-ministry/article71745135.ece"
+      "url": "https://www.thehindubusinessline.com/economy/india-needs-500-billion-per-year-to-achieve-net-zero-by-2070-report/article71745749.ece"
     },
     {
-      "point": "Himalayan rivers rely on sediment for maintaining their ecosystems and supporting aquatic life.",
-      "whyInNews": "Recent research emphasizes the importance of understanding sediment dynamics in these vital river systems.",
+      "point": "Peerzada Mohammad Sayeed, a four-time MLA, participated in multiple government coalitions (PDP-Congress & NC-Congress).",
+      "whyInNews": "His involvement highlights the dynamics of coalition politics within Jammu and Kashmir.",
       "gs": "GS2",
-      "topic": "IR",
+      "topic": "Governance",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/ibisbill-rare-bird-stony-rivers-himalayan-water-sediment-illegal-mining/article71742273.ece"
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-congress-leader-peerzada-mohammad-sayeed-dies-at-73/article71749324.ece"
     },
     {
-      "point": "The Communist Party of India (CPI) plans to hold a protest in Nagpur demanding ‘Save Democracy, Save Constitution’.",
-      "whyInNews": "This highlights potential challenges to democratic norms and constitutional values, requiring analysis from an UPSC perspective.",
+      "point": "BJP and SAD(B) are facing challenges integrating their voter bases ahead of the upcoming elections.",
+      "whyInNews": "The report highlights a critical weakness in the BJP-SAD(B) alliance strategy within Punjab.",
       "gs": "GS2",
       "topic": "Polity",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-november-2026-cjp-save-democracy-protest-nagpur-25-percent-us-tariffs-cairo-crash-us-tariffs-congress-constitution-day-pm-narendra-modi-10978950/"
-    },
-    {
-      "point": "Congress announced marches across states on Constitution Day to protest alleged electoral roll manipulation and the ECI's role.",
-      "whyInNews": "The event underscores ongoing debates about democratic processes and institutional accountability within India.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece"
-    },
-    {
-      "point": "An American citizen was detained by airport authorities following the publication of a book on Basavanna, leading to First Information Reports (FIRs).",
-      "whyInNews": "This event highlights potential conflicts between national security concerns and freedom of expression, demanding scrutiny from the judiciary and government.",
-      "gs": "GS2",
-      "topic": "Polity",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/explained/four-fir-row-over-book-basavanna-ravi-hanj-10978422/"
-    },
-    {
-      "point": "Despite gains in iron supplementation programs, anemia prevalence remains high across various demographic groups in India.",
-      "whyInNews": "This highlights a continued failure to address a critical health issue and necessitates policy intervention.",
-      "gs": "GS2",
-      "topic": "Social Justice",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/opinion/editorials/india-anaemia-icmr-sampada-survey-findings-10978645/"
-    },
-    {
-      "point": "BJP and SAD(B)’s support base weaknesses are being highlighted by analysts.",
-      "whyInNews": "This reflects potential instability within a strategically important state with implications for national security policy.",
-      "gs": "GS2",
-      "topic": "IR",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/opinion/editorial/transfer-assumption-on-the-sadb-bjp-alliance-in-punjab/article71743322.ece"
     },
     {
-      "point": "The United States has announced the imposition of new 25% tariffs on imports from India.",
-      "whyInNews": "This action follows a period of escalating trade tensions and highlights ongoing strategic competition between the two nations.",
+      "point": "New York City's annual Macy’s Thanksgiving Day Parade was postponed for the first time in its history due to a severe storm.",
+      "whyInNews": "The postponement highlights the vulnerability of large-scale public events to extreme weather and necessitates preparedness measures.",
       "gs": "GS3",
-      "topic": "Economy",
+      "topic": "Disaster",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece"
+      "url": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece"
     },
     {
-      "point": "September 2026 witnessed a significant increase in net Foreign Direct Investment (FDI) outflows, reaching more than 5.5-year lows.",
-      "whyInNews": "This reflects shifting global investment patterns and potential risks to India’s economic growth trajectory.",
+      "point": "September 2026 witnessed a significant increase in Foreign Direct Investment (FDI) outflows, reaching more than 5.5-year lows.",
+      "whyInNews": "This reflects shifts in global investment patterns and potential risks to India’s economic outlook.",
       "gs": "GS3",
       "topic": "Economy",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/business/Economy/net-fdi-fell-to-more-than-55-year-low-in-september-2026-as-outflows-jumped-40/article71742778.ece"
-    },
-    {
-      "point": "The United States has proposed a 17% tariff on imports from India, contingent upon reciprocal reductions in tariffs imposed by India on US goods.",
-      "whyInNews": "This represents a significant potential shift in trade dynamics and requires monitoring for its broader economic implications.",
-      "gs": "GS3",
-      "topic": "Economy",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/tariff-turmoil-us-links-lower-17-tariff-for-india-to-reciprocal-trade-deal-proposes-up-to-25-otherwise/article71743699.ece"
-    },
-    {
-      "point": "The Centre is contesting the Forest Rights Act (FRA) application for the proposed Great Nicobar Island development project before the Calcutta High Court.",
-      "whyInNews": "This highlights a significant legal battle concerning land rights and environmental regulations within India’s constitutional framework.",
-      "gs": "GS2",
-      "topic": "Governance",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece"
-    },
-    {
-      "point": "Urban design choices are creating ‘hostile’ environments for animals and birds in India's cities.",
-      "whyInNews": "The story details specific examples of architectural features used to deter wildlife, raising concerns about biodiversity loss within urban landscapes.",
-      "gs": "GS2",
-      "topic": "IR",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/hostile-architecture-the-design-choices-keeping-wildlife-out-of-urban-india/article71742099.ece"
     }
   ],
   "history": [
     {
-      "year": 2008,
-      "point": "Mumbai attacks, a series of coordinated terrorist attacks took place in Mumbai killing 166 citizens by 10 terrorists of Lashkar-e-Taiba, a Pakistan based extremist Islamist terrorist organisation.",
+      "year": 1992,
+      "point": "For the second time in a year, military forces try to overthrow president Carlos Andrés Pérez in Venezuela.",
       "gs": "GS1"
     },
     {
-      "year": 2000,
-      "point": "George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote.",
+      "year": 1978,
+      "point": "In San Francisco, city mayor George Moscone and openly gay city supervisor Harvey Milk are assassinated by former supervisor Dan White.",
       "gs": "GS1"
     },
     {
-      "year": 1998,
-      "point": "Tony Blair becomes the first Prime Minister of the United Kingdom to address the Oireachtas, the parliament of the Republic of Ireland.",
+      "year": 1978,
+      "point": "The Kurdistan Workers' Party (PKK) is founded in the Turkish village of Fis.",
       "gs": "GS1"
     },
     {
-      "year": 1991,
-      "point": "National Assembly of Azerbaijan abolishes the autonomous status of Nagorno-Karabakh Autonomous Oblast of Azerbaijan and renames several cities with Azeri names.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1944,
-      "point": "World War II: A German V-2 rocket hits a Woolworth's shop in New Cross, London, killing 168 people.",
-      "gs": "GS1"
-    },
-    {
-      "year": 1944,
-      "point": "World War II: Germany begins V-1 and V-2 attacks on Antwerp, Belgium.",
+      "year": 1965,
+      "point": "Vietnam War: The Pentagon tells U.S. President Lyndon B. Johnson that if planned operations are to succeed, the number of American troops in Vietnam has to be increased from 120,000 to 400,000.",
       "gs": "GS1"
     },
     {
       "year": 1942,
-      "point": "Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City.",
+      "point": "World War II: At Toulon, the French navy scuttles its ships and submarines to keep them out of Nazi hands.",
       "gs": "GS1"
     },
     {
-      "year": 1941,
-      "point": "World War II: The Hull note is given to the Japanese ambassador, demanding that Japan withdraw from China and French Indochina, in return for which the United States would lift economic sanctions. On the same day,...",
+      "year": 1917,
+      "point": "P. E. Svinhufvud becomes the chairman of his first senate, technically the first Prime Minister of Finland.",
       "gs": "GS1"
     },
     {
-      "year": 1924,
-      "point": "The Mongolian People's Republic is officially established after a new constitution, passed by the first State Great Khural, abolishes the monarchy.",
+      "year": 1879,
+      "point": "War of the Pacific: Battle of Tarapacá: The confrontation between the Chilean Army and the Peruvian Army takes place in Tarapacá, the Peruvian victory is consummated with the death of the 2 generals and the capture the...",
       "gs": "GS1"
     },
     {
-      "year": 1914,
-      "point": "HMS Bulwark is destroyed by a large internal explosion with the loss of 741 men while at anchor near Sheerness.",
+      "year": 1835,
+      "point": "James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1237,
+      "point": "Frederick II, Holy Roman Emperor, defeats the Lombard League in the battle of Cortenuova.",
+      "gs": "GS1"
+    },
+    {
+      "year": 602,
+      "point": "Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently burried at the monastery of St. Mamas.",
       "gs": "GS1"
     }
   ],
   "revision": [
+    "The US has imposed new tariffs on goods originating from India.",
+    "The Indian government has approved a new scheme allowing Bollywood-style large-scale productions to be filmed on the IFS corpus lands without needing permission from forest authorities.",
+    "CPI inflation peaked to 6.1% in October 2026, exceeding the upper tolerance level of 6%.",
     "Six individuals aboard a small plane crashed into the Gulf of Mexico, prompting a Coast Guard search operation.",
     "The Antalya summit resulted in a deepened crisis of confidence in climate diplomacy.",
-    "Auto PLI (Production Linked Incentive) schemes have seen a substantial delay in disbursement of ₹4,365 crore despite being scheduled to conclude in FY28.",
-    "The COP31 summit highlighted the ongoing debate regarding financial contributions from developed countries towards mitigating global carbon emissions.",
-    "Pope Francis revealed in his personal diary that he had witnessed three apparitions of the devil during his time as Pope.",
-    "Exporters are seeking waivers of detention and demurrage charges due to the boycott of trailer crew scanning at Cochin Port’s Vallarpadam terminal."
+    "Auto PLI (Production Linked Incentive) schemes have seen a substantial delay in disbursement of ₹4,365 crore despite being scheduled to conclude in FY28."
   ]
 }
