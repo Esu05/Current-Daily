@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-28",
+  "currentAffairs": [
+    {
+      "point": "The government has acknowledged the need for broad consensus before proceeding with Lok Sabha constituency delimitation.",
+      "whyInNews": "Delimitation is a politically sensitive issue involving redrawing electoral boundaries and potentially altering representation.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/fair-play-on-a-hurried-delimitation-of-lok-sabha-constituencies/article71751034.ece"
+    },
+    {
+      "point": "Russia has unveiled a new nuclear-powered submarine designed to enhance its retaliatory strike capability.",
+      "whyInNews": "This reflects Russia’s ongoing investment in its naval power and poses potential challenges to India's strategic security posture.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/putin-unveils-new-nuclear-submarine/article71753555.ece"
+    },
+    {
+      "point": "The Reserve Bank of India (RBI) has reduced the daily Cash Reserve Ratio (CRR) maintenance to 90% for banks.",
+      "whyInNews": "This action unlocks approximately ₹40,000 crore in liquidity and is intended to stimulate credit deployment within the Indian economy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece"
+    },
+    {
+      "point": "The next White Revolution will prioritize animal nutrition at all stages of dairy production – calf rearing, dry cow management, and fodder provision.",
+      "whyInNews": "Focus on optimizing feed efficiency is crucial for increasing milk yield and addressing nutritional deficiencies in livestock.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/safeguarding-indias-milk-bowl-why-animal-nutrition-must-be-central-to-the-next-white-revolution/article71751714.ece"
+    },
+    {
+      "point": "Burning of crop residue contributes significantly to particulate matter levels in the atmosphere.",
+      "whyInNews": "The connection between stubble burning, air quality degradation and regional pollution patterns is a frequently discussed issue with policy implications.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece"
+    },
+    {
+      "point": "Delhi-based Driftbolt is utilizing 3D printing to produce footwear tailored to individual foot shapes.",
+      "whyInNews": "The story demonstrates a shift towards customized manufacturing and potentially disruptive technologies within the Indian footwear industry.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/fashion/can-3d-printing-change-the-way-we-make-shoes-this-delhi-footwear-brand-seems-to-think-so/article71714937.ece"
+    },
+    {
+      "point": "INDIA bloc leaders are scheduled to meet ahead of a special Parliament session convened by the government.",
+      "whyInNews": "This signals potential opposition resistance to the delimitation bill and raises concerns about its legitimacy.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece"
+    },
+    {
+      "point": "India welcomed a $50 million pledge from the COP31 Climate Fund.",
+      "whyInNews": "The announcement reflects ongoing negotiations regarding financial support for adaptation measures in vulnerable nations.",
+      "gs": "GS2",
+      "topic": "IR",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cop31-india-welcomes-50-million-climate-fund-pledge-says-adaptation-needs-far-greater/article71750462.ece"
+    },
+    {
+      "point": "The Madras High Court's interpretation of the monument's status was challenged by Tamil Nadu, raising questions about judicial overreach and Centre-State relations.",
+      "whyInNews": "This highlights a critical legal battle involving religious heritage and constitutional authority.",
+      "gs": "GS2",
+      "topic": "Polity",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/indefensible-defiance-on-tamil-nadu-and-courts-thirupparankundram-order/article71747044.ece"
+    },
+    {
+      "point": "The U.S. has reverted to initial tariff framework on Indian goods during trade negotiations.",
+      "whyInNews": "This reflects ongoing tensions between the two countries regarding tariffs and represents a key development in India’s bilateral trade policy.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/experts-say-new-us-tariffs-do-not-pose-substantial-threat-india-should-not-rush-into-trade-deal/article71746007.ece"
+    },
+    {
+      "point": "The government is prioritizing sugar stocks to protect the ethanol investment cycle.",
+      "whyInNews": "This reflects a strategic recalibration of biofuel production based on current market conditions and supply chain considerations.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-policy-reset-what-does-the-shift-in-feedstock-priorities-mean-for-sugar-mills-and-farmers/article71751156.ece"
+    },
+    {
+      "point": "Five cyber attacks against Swiss systems were conducted using AI agents, resulting in successful compromises.",
+      "whyInNews": "The use of AI in sophisticated cyberattacks highlights a critical emerging security challenge for Switzerland and globally.",
+      "gs": "GS3",
+      "topic": "Security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece"
+    },
+    {
+      "point": "The United States has imposed new tariffs on goods imported from India.",
+      "whyInNews": "This action raises concerns about escalating trade tensions and their impact on the bilateral economic relationship.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece"
+    },
+    {
+      "point": "CPI inflation peaked to 6.1% y-o-y in October 2026, exceeding the upper tolerance level of 6%.",
+      "whyInNews": "This signals continued inflationary pressures requiring RBI’s response and impacting economic forecasts.",
+      "gs": "GS3",
+      "topic": "Economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece"
+    },
+    {
+      "point": "India’s total milk production reached 253 million tonnes in 2025-26, representing a 2.4% increase.",
+      "whyInNews": "The rise reflects evolving agricultural trends and potential impacts on food supply chains.",
+      "gs": "GS3",
+      "topic": "Agriculture",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-milk-production-rises-24-to-top-253-million-tonnes-in-2025-26/article71750999.ece"
+    }
+  ],
+  "history": [
+    {
+      "year": 1958,
+      "point": "First successful flight of SM-65 Atlas; the first operational intercontinental ballistic missile (ICBM), developed by the United States and the first member of the Atlas rocket family.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1943,
+      "point": "World War II: Tehran Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill and Soviet Premier Joseph Stalin meet in Tehran, Iran, to discuss war strategy.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1920,
+      "point": "FIDAC (The Interallied Federation of War Veterans Organisations), the first international organization of war veterans is established in Paris, France.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1917,
+      "point": "The Estonian Provincial Assembly declares itself the sovereign power of Estonia.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1914,
+      "point": "World War I: Following a war-induced closure in July, the New York Stock Exchange re-opens for bond trading.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1861,
+      "point": "American Civil War: The Confederate States of America accept a rival state government's pronouncement that declares Missouri to be the 12th state of the Confederacy.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1855,
+      "point": "Russian forces under general Nikolay Muravyov-Karsky capture the strategic fortress of Kars from the Ottoman Empire.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1596,
+      "point": "The baptism of Princess Elizabeth, daughter of James VI and I and Anne of Denmark, is celebrated at Holyrood Palace in Edinburgh.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1520,
+      "point": "After 38 days, an expedition under the command of Ferdinand Magellan completes the first passage through the Strait of Magellan and enters the Pacific Ocean.",
+      "gs": "GS1"
+    },
+    {
+      "year": 1443,
+      "point": "Skanderbeg and his forces liberate Kruja in central Albania and raise the Albanian flag.",
+      "gs": "GS1"
+    }
+  ],
+  "revision": [
+    "The United States has imposed new tariffs on goods imported from India.",
+    "A Turkish-operated cargo ship, the Halima, sank off the coast of Cuba due to an unknown cause.",
+    "India and the UAE have agreed to accelerate co-development and co-production of next generation defense equipment.",
+    "The US has imposed new tariffs on goods originating from India.",
+    "The Indian government has approved a new scheme allowing Bollywood-style large-scale productions to be filmed on the IFS corpus lands without needing permission from forest authorities.",
+    "CPI inflation peaked to 6.1% in October 2026, exceeding the upper tolerance level of 6%."
+  ]
+}
